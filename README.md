@@ -30,7 +30,7 @@ This unified system processes large-scale educational datasets (UDISE+, ASER, NS
 | **Data Storage**  | Delta Lake (ACID, Versioning)            |
 | **Ingestion**     | Pandas, CSV, Web Scraping (BeautifulSoup + requests) |
 | **Development**   | Python, Google Colab, Databricks Notebooks |
-| **ML/NLP**        | StringIndexer, RandomForest, TF-IDF, Sentiment Analysis |
+| **ML/NLP**        | StringIndexer, RandomForest |
 | **Visualization** | Dashboards, Heatmaps, KPI Reports        |
 
 ---
@@ -51,7 +51,7 @@ This unified system processes large-scale educational datasets (UDISE+, ASER, NS
 - **Input**: Synthetic NCS/Skill India data
 - **Features**: Interest Index, Skill Level, Parental Influence
 - **Model**: RandomForestClassifier (Career Recommendation)
-- **Output**: Top 10 Career Trends + **NLP Chatbot**
+- **Output**: Top 10 Career Trends + 
 
 ### **Case 2: School Dropouts Analysis**
 - **Input**: 1 Lakh records (UDISE+ 2014–2024 + synthetic)
@@ -62,7 +62,7 @@ This unified system processes large-scale educational datasets (UDISE+, ASER, NS
 ### **Case 3: Scholarship Awareness**
 - **Input**: NSP, State Portals (Web Scraped), Grok-generated
 - **Pipeline**: `requests → BeautifulSoup → PySpark → Delta`
-- **Output**: Eligibility Matcher + **Q&A Chatbot**
+- **Output**: Eligibility Matcher 
 
 ### **Case 4: Language Barriers**
 - **Input**: NCERT + Translated Proficiency Data
