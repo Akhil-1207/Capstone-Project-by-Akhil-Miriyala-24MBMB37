@@ -1,0 +1,1001 @@
+ID,Sector,Stream,Course,Qualification,Career,Salary_LPA,Demand_2025
+1,AI & ML,Commerce,B.Com,10+2 + Bachelor's,Prompt Engineer (AI & ML),9.6,High
+2,Engineering,Commerce,BHM,10+2 + Diploma,Electrical Engineer (Engineering),11.1,Stable
+3,Green Energy,Science (PCB),B.Sc Nursing,10+2 + NEET,Renewable Energy Engineer (Green Energy),12.6,Evergreen
+4,Science & Research,Any Stream,LLB,Bachelor's + UPSC,Biotechnologist (Science & Research),4.0,Emerging
+5,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Hotel Manager (Hospitality & Travel),11.2,High
+6,Gig Economy,Any Stream,LLB,10+2 + Diploma,Gig Worker Coordinator (Gig Economy),11.7,Stable
+7,Hospitality & Travel,Science (PCB),B.Sc Nursing,10+2 + NEET,Travel Agent (Hospitality & Travel),13.2,Evergreen
+8,Cybersecurity,Science (PCM),B.Sc Data Science,10+2 + Diploma,Incident Responder (Cybersecurity),9.8,Evergreen
+9,AI & ML,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Prompt Engineer (AI & ML) Variant 1,19.2,Evergreen
+10,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,EV Designer (Engineering),21.6,Evergreen
+11,Gig Economy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Platform Developer (Gig Economy),14.1,Growing
+12,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Chef (Hospitality & Travel),24.2,Emerging
+13,Arts & Humanities,Arts,BHM,10+2 + Bachelor's,Historian (Arts & Humanities),4.0,Stable
+14,Hospitality & Travel,Science (PCM),B.Tech Mechanical,10+2 + JEE,Event Planner (Hospitality & Travel),19.6,Evergreen
+15,Law,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Criminal Lawyer (Law),11.4,Evergreen
+16,Education,Science (PCB),B.Sc Nursing,10+2 + NEET,Professor (Education),5.8,Stable
+17,Management,Commerce,BA Psychology,Bachelor's + UPSC,Supply Chain Manager (Management),14.8,High
+18,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Policy Maker (Government & Defense),23.6,Growing
+19,Arts & Humanities,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Artist (Arts & Humanities),15.4,Stable
+20,Government & Defense,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Policy Maker (Government & Defense) Variant 2,12.8,Stable
+21,Arts & Humanities,Science (PCB),B.Sc Nursing,10+2 + NEET,Philosopher (Arts & Humanities),16.7,Stable
+22,Green Energy,Science (PCB),MBBS,10+2 + NEET,Environmental Analyst (Green Energy),5.5,Emerging
+23,FinTech,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Blockchain Specialist (FinTech),25.0,Stable
+24,Science & Research,Science (PCB),MBBS,10+2 + NEET,Biotechnologist (Science & Research) Variant 3,14.5,Evergreen
+25,Cybersecurity,Science (PCM),B.Tech Mechanical,10+2 + JEE,Ethical Hacker (Cybersecurity),10.9,Growing
+26,E-Commerce,Any Stream,BHM,Bachelor's + Cert,Online Retail Specialist (E-Commerce),20.7,Evergreen
+27,Finance & Commerce,Commerce,B.Com,Bachelor's + Cert,ESG Analyst (Finance & Commerce),9.1,Stable
+28,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Satellite Technician (Space Tech),5.2,Growing
+29,Green Energy,Science (PCB),B.Pharma,10+2 + NEET,Renewable Energy Engineer (Green Energy) Variant 4,13.0,High
+30,Arts & Humanities,Commerce,BA Psychology,Bachelor's + UPSC,Philosopher (Arts & Humanities) Variant 5,7.2,Growing
+31,Law,Science (PCM),B.Tech Civil,10+2 + JEE,Criminal Lawyer (Law) Variant 6,18.3,Evergreen
+32,Green Energy,Science (PCB),MBBS,10+2 + NEET,Renewable Energy Engineer (Green Energy) Variant 7,24.2,Stable
+33,AI & ML,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (AI & ML),5.8,Emerging
+34,E-Commerce,Science (PCB),MBBS,10+2 + NEET,Digital Marketer (E-Commerce),18.3,Evergreen
+35,Media & Design,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,UI/UX Designer (Media & Design),6.7,High
+36,Law,Arts,BHM,Bachelor's + Cert,Lawyer (Law),21.9,High
+37,Management,Science (PCM),B.Sc Data Science,10+2 + CLAT,Marketing Manager (Management),17.6,Stable
+38,Hospitality & Travel,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Chef (Hospitality & Travel) Variant 8,3.6,Stable
+39,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Drone Pilot (Space Tech),22.7,Emerging
+40,FinTech,Science (PCB),B.Sc Nursing,10+2 + NEET,Blockchain Specialist (FinTech) Variant 9,7.7,Growing
+41,Cybersecurity,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Ethical Hacker (Cybersecurity) Variant 10,7.4,Emerging
+42,Cybersecurity,Science (PCM),B.Pharma,10+2 + NEET,Incident Responder (Cybersecurity) Variant 11,7.7,Growing
+43,Gig Economy,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Platform Developer (Gig Economy) Variant 12,14.0,Growing
+44,IT & Technology,Science (PCM),B.Tech Civil,10+2 + JEE,Full-Stack Developer (IT & Technology),19.6,Stable
+45,Finance & Commerce,Commerce,B.Com,10+2 + Bachelor's,Financial Analyst (Finance & Commerce),22.5,Evergreen
+46,Law,Science (PCB),MBBS,10+2 + NEET,Lawyer (Law) Variant 13,24.2,High
+47,Science & Research,Commerce,B.Com,10+2 + CLAT,Chemist (Science & Research),22.4,Emerging
+48,Space Tech,Science (PCM),B.Pharma,10+2 + NEET,Satellite Technician (Space Tech) Variant 14,9.2,Growing
+49,FinTech,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Blockchain Specialist (FinTech) Variant 15,16.5,Emerging
+50,Education,Science (PCM),B.Tech Mechanical,10+2 + JEE,School Administrator (Education),11.7,Stable
+51,Media & Design,Science (PCB),BDS,10+2 + NEET,Content Creator (Media & Design),5.1,Evergreen
+52,Agriculture & Allied,Science (PCM),B.Tech Civil,10+2 + JEE,Farm Manager (Agriculture & Allied),24.6,Emerging
+53,E-Commerce,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Supply Chain Analyst (E-Commerce),15.0,Emerging
+54,Management,Commerce,BHM,Bachelor's + Cert,Marketing Manager (Management) Variant 16,3.9,Growing
+55,E-Commerce,Science (PCB),B.Pharma,10+2 + NEET,Supply Chain Analyst (E-Commerce) Variant 17,19.5,Evergreen
+56,Government & Defense,Commerce,BHM,10+2 + Bachelor's,Policy Maker (Government & Defense) Variant 18,9.8,High
+57,Green Energy,Commerce,B.Com,10+2 + CLAT,Sustainability Consultant (Green Energy),23.9,Emerging
+58,Law,Science (PCM),B.Sc Data Science,Bachelor's + UPSC,Corporate Lawyer (Law),20.9,Growing
+59,Cybersecurity,Commerce,BA Psychology,10+2 + Bachelor's,Incident Responder (Cybersecurity) Variant 19,21.4,Growing
+60,FinTech,Science (PCB),MBBS,10+2 + NEET,Blockchain Specialist (FinTech) Variant 20,19.7,Growing
+61,IT & Technology,Science (PCB),B.Com,10+2 + Bachelor's,Blockchain Developer (IT & Technology),20.7,High
+62,Space Tech,Science (PCM/CS),B.Sc Data Science,Bachelor's + UPSC,Space Engineer (Space Tech),6.0,Growing
+63,Arts & Humanities,Commerce,B.Com,10+2 + CLAT,Artist (Arts & Humanities) Variant 21,4.6,Stable
+64,Law,Science (PCB),B.Sc Nursing,10+2 + NEET,Criminal Lawyer (Law) Variant 22,15.8,Stable
+65,Healthcare,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Medical Researcher (Healthcare),24.2,Stable
+66,Hospitality & Travel,Science (PCB),MBBS,10+2 + NEET,Hotel Manager (Hospitality & Travel) Variant 24,18.2,Stable
+67,Hospitality & Travel,Science (PCB),MBBS,10+2 + NEET,Hotel Manager (Hospitality & Travel) Variant 24,18.2,Stable
+68,Green Energy,Arts,BHM,10+2 + Diploma,Renewable Energy Engineer (Green Energy) Variant 25,20.9,Evergreen
+69,Healthcare,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Pharmacist (Healthcare),15.6,Stable
+70,Arts & Humanities,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Historian (Arts & Humanities) Variant 26,4.6,Stable
+71,Arts & Humanities,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Philosopher (Arts & Humanities) Variant 27,21.0,Emerging
+72,Hospitality & Travel,Science (PCM),B.Tech Mechanical,10+2 + JEE,Chef (Hospitality & Travel) Variant 28,21.8,High
+73,Management,Any Stream,BHM,Bachelor's + Cert,Supply Chain Manager (Management) Variant 29,11.8,Stable
+74,Cybersecurity,Science (PCM),B.Sc Data Science,10+2 + Diploma,Incident Responder (Cybersecurity) Variant 30,4.3,Stable
+75,AI & ML,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (AI & ML) Variant 31,4.9,Evergreen
+76,Arts & Humanities,Any Stream,B.Com,Bachelor's + UPSC,Writer (Arts & Humanities),8.2,Growing
+77,IT & Technology,Science (PCB),BDS,10+2 + NEET,Full-Stack Developer (IT & Technology) Variant 32,4.0,Growing
+78,Hospitality & Travel,Any Stream,LLB,10+2 + Diploma,Chef (Hospitality & Travel) Variant 33,16.6,Growing
+79,AI & ML,Any Stream,BHM,10+2 + Diploma,Prompt Engineer (AI & ML) Variant 34,18.0,Evergreen
+80,Engineering,Science (PCM/CS),B.Sc Data Science,10+2 + Diploma,Aerospace Engineer (Engineering),24.9,High
+81,Management,Science (PCM),B.Tech Civil,10+2 + JEE,Marketing Manager (Management) Variant 35,4.3,Evergreen
+82,Space Tech,Science (PCM),B.Tech CSE,10+2 + JEE,Space Engineer (Space Tech) Variant 36,10.8,Growing
+83,Arts & Humanities,Science (PCM),B.Tech Civil,10+2 + JEE,Writer (Arts & Humanities) Variant 37,19.8,High
+84,FinTech,Science (PCM),B.Tech CSE,10+2 + JEE,Digital Banker (FinTech),7.2,Stable
+85,Cybersecurity,Science (PCM),B.Tech Mechanical,10+2 + JEE,Security Analyst (Cybersecurity),7.9,Growing
+86,Agriculture & Allied,Science (PCB),BDS,10+2 + NEET,Farm Manager (Agriculture & Allied) Variant 38,12.2,Emerging
+87,Finance & Commerce,Science (PCM),B.Tech Mechanical,10+2 + JEE,Tax Consultant (Finance & Commerce),23.0,Emerging
+88,E-Commerce,Arts,BHM,10+2 + Bachelor's,Digital Marketer (E-Commerce) Variant 39,5.1,Emerging
+89,Government & Defense,Commerce,BHM,10+2 + Bachelor's,Policy Maker (Government & Defense) Variant 40,4.9,Emerging
+90,Law,Science (PCM),B.Sc Data Science,10+2 + Diploma,Legal Advisor (Law),22.6,Emerging
+91,Cybersecurity,Science (PCM),B.Tech Civil,10+2 + JEE,Incident Responder (Cybersecurity) Variant 41,4.0,Growing
+92,Education,Science (PCM),B.Pharma,10+2 + NEET,School Administrator (Education) Variant 42,15.7,High
+93,Education,Any Stream,LLB,10+2 + Diploma,Educational Consultant (Education),18.5,Emerging
+94,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,Prompt Engineer (AI & ML) Variant 43,22.4,Stable
+95,Law,Science (PCB),BDS,10+2 + NEET,Judge (Law),24.9,Stable
+96,E-Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,E-Commerce Manager (E-Commerce),10.7,Evergreen
+97,E-Commerce,Science (PCB),B.Sc Nursing,10+2 + NEET,Digital Marketer (E-Commerce) Variant 44,12.3,Evergreen
+98,Cybersecurity,Science (PCM),B.Tech Mechanical,10+2 + JEE,Incident Responder (Cybersecurity) Variant 45,22.8,Emerging
+99,Healthcare,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Doctor (Healthcare),21.3,Emerging
+100,Media & Design,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Journalist (Media & Design),13.7,High
+101,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Drone Pilot (Space Tech) Variant 46,5.9,Stable
+102,Finance & Commerce,Science (PCM),B.Sc Data Science,10+2 + CLAT,Actuary (Finance & Commerce),3.3,Evergreen
+103,Space Tech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Space Engineer (Space Tech) Variant 47,24.3,Emerging
+104,Government & Defense,Science (PCM),B.Tech CSE,10+2 + JEE,Civil Servant (Government & Defense),20.5,Stable
+105,Finance & Commerce,Any Stream,LLB,Bachelor's + UPSC,Forensic Accountant (Finance & Commerce),7.5,Stable
+106,FinTech,Arts,BA Psychology,10+2 + Bachelor's,FinTech Developer (FinTech),16.4,Emerging
+107,Green Energy,Science (PCM),B.Tech Civil,10+2 + JEE,Sustainability Consultant (Green Energy) Variant 48,16.8,Stable
+108,IT & Technology,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,AI Engineer (IT & Technology),14.7,Stable
+109,Gig Economy,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Gig Worker Coordinator (Gig Economy) Variant 49,4.7,High
+110,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Pharmacist (Healthcare) Variant 50,16.0,High
+111,IT & Technology,Arts,BHM,10+2 + Bachelor's,Cloud Architect (IT & Technology),23.4,Evergreen
+112,E-Commerce,Science (PCB),B.Pharma,10+2 + NEET,Online Retail Specialist (E-Commerce) Variant 51,23.9,Stable
+113,Science & Research,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Biotechnologist (Science & Research) Variant 52,15.3,Emerging
+114,Green Energy,Commerce,B.Com,10+2 + CLAT,Sustainability Consultant (Green Energy) Variant 53,4.9,High
+115,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,Robotics Engineer (Engineering),8.6,Emerging
+116,Space Tech,Arts,BA Psychology,Bachelor's + UPSC,Satellite Technician (Space Tech) Variant 54,5.3,Stable
+117,E-Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Digital Marketer (E-Commerce) Variant 55,10.6,Evergreen
+118,Space Tech,Commerce,BHM,10+2 + Diploma,Drone Pilot (Space Tech) Variant 56,6.5,Evergreen
+119,Engineering,Science (PCM),B.Tech Aerospace,10+2 + JEE,Electrical Engineer (Engineering) Variant 57,17.9,Emerging
+120,FinTech,Science (PCB),B.Sc Nursing,10+2 + NEET,FinTech Developer (FinTech) Variant 58,8.2,Evergreen
+121,Cybersecurity,Any Stream,BHM,Bachelor's + Cert,Ethical Hacker (Cybersecurity) Variant 59,12.3,High
+122,Science & Research,Any Stream,BHM,Bachelor's + Cert,Research Scientist (Science & Research),18.0,High
+123,Agriculture & Allied,Science (PCM),B.Tech Mechanical,10+2 + JEE,Agri-Business Manager (Agriculture & Allied),5.5,Emerging
+124,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Civil Servant (Government & Defense) Variant 60,23.2,Evergreen
+125,Arts & Humanities,Science (PCB),B.Sc Nursing,10+2 + NEET,Philosopher (Arts & Humanities) Variant 61,7.1,Evergreen
+126,FinTech,Commerce,BA Psychology,10+2 + Bachelor's,FinTech Developer (FinTech) Variant 62,4.7,High
+127,Hospitality & Travel,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Chef (Hospitality & Travel) Variant 63,4.3,Stable
+128,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,FinTech Developer (FinTech) Variant 64,22.1,Emerging
+129,Space Tech,Science (PCB),MBBS,10+2 + NEET,Astronaut Trainer (Space Tech),10.7,High
+130,Space Tech,Science (PCB),B.Sc Nursing,10+2 + NEET,Drone Pilot (Space Tech) Variant 65,10.0,Evergreen
+131,Media & Design,Science (PCM),B.Pharma,10+2 + NEET,UI/UX Designer (Media & Design) Variant 66,17.1,Evergreen
+132,Healthcare,Science (PCB),MBBS,10+2 + NEET,Dentist (Healthcare),12.4,Stable
+133,Cybersecurity,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Security Analyst (Cybersecurity) Variant 67,16.2,Stable
+134,FinTech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Digital Banker (FinTech) Variant 68,9.2,Evergreen
+135,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,Prompt Engineer (AI & ML) Variant 69,15.9,Stable
+136,Arts & Humanities,Science (PCB),MBBS,10+2 + NEET,Artist (Arts & Humanities) Variant 70,22.3,Growing
+137,E-Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,Supply Chain Analyst (E-Commerce) Variant 71,15.4,Evergreen
+138,Hospitality & Travel,Science (PCM),B.Tech Aerospace,10+2 + JEE,Travel Agent (Hospitality & Travel) Variant 72,20.3,Emerging
+139,AI & ML,Science (PCM),B.Tech Mechanical,10+2 + JEE,Prompt Engineer (AI & ML) Variant 73,17.7,High
+140,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Agricultural Engineer (Agriculture & Allied),22.7,Emerging
+141,Hospitality & Travel,Science (PCM),B.Tech Mechanical,10+2 + JEE,Chef (Hospitality & Travel) Variant 74,13.8,Growing
+142,Healthcare,Science (PCM),B.Tech CSE,10+2 + JEE,Pharmacist (Healthcare) Variant 75,8.3,High
+143,Gig Economy,Science (PCB),B.Sc Nursing,10+2 + NEET,Platform Developer (Gig Economy) Variant 76,16.5,Stable
+144,Healthcare,Science (PCB),MBBS,10+2 + NEET,Genetic Counselor (Healthcare),22.3,High
+145,IT & Technology,Science (PCB),B.Sc Nursing,10+2 + NEET,Full-Stack Developer (IT & Technology) Variant 77,12.9,Evergreen
+146,Management,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Supply Chain Manager (Management) Variant 78,22.5,Growing
+147,FinTech,Science (PCM),B.Tech CSE,10+2 + JEE,Digital Banker (FinTech) Variant 79,10.1,Growing
+148,Law,Science (PCM),B.Tech Civil,10+2 + JEE,Legal Advisor (Law) Variant 80,22.9,High
+149,Media & Design,Science (PCB),BDS,10+2 + NEET,Film Director (Media & Design),9.1,Emerging
+150,Media & Design,Science (PCB),B.Sc Nursing,10+2 + NEET,Graphic Designer (Media & Design),16.7,Stable
+151,Management,Commerce,B.Com,10+2 + Bachelor's,Supply Chain Manager (Management) Variant 81,7.7,Emerging
+152,Healthcare,Science (PCM),B.Tech Mechanical,10+2 + JEE,Nurse (Healthcare),13.7,Stable
+153,Hospitality & Travel,Arts,BHM,Bachelor's + Cert,Chef (Hospitality & Travel) Variant 82,23.8,Emerging
+154,Cybersecurity,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Security Analyst (Cybersecurity) Variant 83,12.0,Growing
+155,Green Energy,Any Stream,BA Psychology,10+2 + Bachelor's,Renewable Energy Engineer (Green Energy) Variant 84,21.0,Stable
+156,Hospitality & Travel,Science (PCM),B.Tech Mechanical,10+2 + JEE,Travel Agent (Hospitality & Travel) Variant 85,18.7,Emerging
+157,Agriculture & Allied,Science (PCM),B.Tech Civil,10+2 + JEE,Agricultural Engineer (Agriculture & Allied) Variant 86,5.2,Evergreen
+158,FinTech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Digital Banker (FinTech) Variant 87,18.9,Stable
+159,AI & ML,Any Stream,B.Com,10+2 + CLAT,AI Researcher (AI & ML),5.4,Growing
+160,Education,Arts,BHM,10+2 + Diploma,Professor (Education) Variant 88,10.3,Stable
+161,Education,Any Stream,LLB,10+2 + Diploma,Teacher (Education),22.4,Growing
+162,Management,Science (PCM),B.Pharma,10+2 + NEET,Supply Chain Manager (Management) Variant 89,23.2,Evergreen
+163,Gig Economy,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Platform Developer (Gig Economy) Variant 90,24.7,Growing
+164,AI & ML,Commerce,BA Psychology,10+2 + Bachelor's,Machine Learning Engineer (AI & ML),16.5,Emerging
+165,Healthcare,Science (PCM),B.Sc Data Science,10+2 + CLAT,Nurse (Healthcare) Variant 91,9.3,Emerging
+166,IT & Technology,Commerce,BA Psychology,10+2 + Bachelor's,Cloud Architect (IT & Technology) Variant 92,4.6,Evergreen
+167,Green Energy,Any Stream,LLB,Bachelor's + Cert,Environmental Analyst (Green Energy) Variant 93,4.3,Stable
+168,E-Commerce,Science (PCB),B.Pharma,10+2 + NEET,E-Commerce Manager (E-Commerce) Variant 94,11.9,Evergreen
+169,Media & Design,Science (PCM),B.Tech Mechanical,10+2 + JEE,Film Director (Media & Design) Variant 95,6.5,High
+170,Law,Commerce,BHM,10+2 + Bachelor's,Corporate Lawyer (Law) Variant 96,14.0,Growing
+171,Law,Arts,BA Psychology,10+2 + CLAT,Criminal Lawyer (Law) Variant 97,9.7,Emerging
+172,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Research Scientist (Science & Research) Variant 98,5.2,Growing
+173,Finance & Commerce,Science (PCB),B.Sc Nursing,10+2 + NEET,Tax Consultant (Finance & Commerce) Variant 99,17.0,High
+174,Science & Research,Commerce,B.Com,10+2 + Bachelor's,Chemist (Science & Research) Variant 100,18.1,Stable
+175,Hospitality & Travel,Arts,BA Psychology,10+2 + CLAT,Chef (Hospitality & Travel) Variant 101,16.4,Stable
+176,Education,Science (PCM/CS),B.Tech CSE,10+2 + JEE,School Administrator (Education) Variant 102,4.5,Evergreen
+177,Space Tech,Science (PCB),BDS,10+2 + NEET,Drone Pilot (Space Tech) Variant 103,23.5,High
+178,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,AI Researcher (AI & ML) Variant 104,23.2,Growing
+179,Gig Economy,Science (PCB),MBBS,10+2 + NEET,Gig Worker Coordinator (Gig Economy) Variant 105,3.9,High
+180,Education,Science (PCM),B.Tech CSE,10+2 + JEE,Professor (Education) Variant 106,24.9,Emerging
+181,Government & Defense,Any Stream,B.Com,Bachelor's + UPSC,Civil Servant (Government & Defense) Variant 107,9.3,Evergreen
+182,Government & Defense,Arts,BA Psychology,10+2 + CLAT,Defense Analyst (Government & Defense),3.9,Growing
+183,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Physiotherapist (Healthcare),16.6,Stable
+184,Space Tech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Astronaut Trainer (Space Tech) Variant 108,23.4,Evergreen
+185,Gig Economy,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Platform Developer (Gig Economy) Variant 109,17.9,High
+186,Law,Science (PCB),BDS,10+2 + NEET,Criminal Lawyer (Law) Variant 110,16.9,Stable
+187,Arts & Humanities,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Philosopher (Arts & Humanities) Variant 111,21.2,Stable
+188,IT & Technology,Science (PCB),B.Pharma,10+2 + NEET,Blockchain Developer (IT & Technology) Variant 112,22.7,Emerging
+189,Science & Research,Commerce,B.Com,10+2 + Bachelor's,Physicist (Science & Research),8.4,Emerging
+190,Gig Economy,Any Stream,LLB,10+2 + Diploma,Gig Worker Coordinator (Gig Economy) Variant 113,24.5,Evergreen
+191,Green Energy,Science (PCB),MBBS,10+2 + NEET,Sustainability Consultant (Green Energy) Variant 114,10.6,Evergreen
+192,Gig Economy,Any Stream,BHM,10+2 + Bachelor's,Platform Developer (Gig Economy) Variant 115,22.0,High
+193,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Research Scientist (Science & Research) Variant 116,4.8,Growing
+194,Space Tech,Arts,BA Psychology,10+2 + CLAT,Space Engineer (Space Tech) Variant 117,18.8,Stable
+195,Law,Commerce,B.Com,Bachelor's + UPSC,Corporate Lawyer (Law) Variant 118,24.0,Evergreen
+196,Gig Economy,Commerce,BA Psychology,10+2 + Bachelor's,Gig Worker Coordinator (Gig Economy) Variant 119,4.4,Evergreen
+197,Government & Defense,Any Stream,B.Com,Bachelor's + UPSC,Defense Analyst (Government & Defense) Variant 120,17.5,High
+198,Healthcare,Science (PCM),B.Sc Data Science,10+2 + CLAT,Ayurvedic Doctor (Healthcare),10.3,Growing
+199,Law,Science (PCB),MBBS,10+2 + NEET,Corporate Lawyer (Law) Variant 121,20.0,Emerging
+200,IT & Technology,Science (PCB),BDS,10+2 + NEET,Cloud Architect (IT & Technology) Variant 122,16.0,Growing
+201,Green Energy,Science (PCM),B.Sc Data Science,10+2 + Diploma,Sustainability Consultant (Green Energy) Variant 123,9.3,Emerging
+202,Law,Commerce,BA Psychology,10+2 + Bachelor's,Legal Advisor (Law) Variant 124,22.7,High
+203,Law,Science (PCB),MBBS,10+2 + NEET,Legal Advisor (Law) Variant 125,7.5,High
+204,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,Metaverse Designer (AI & ML) Variant 126,21.7,Stable
+205,Healthcare,Science (PCM),B.Pharma,10+2 + NEET,Nurse (Healthcare) Variant 127,15.2,Growing
+206,FinTech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Blockchain Specialist (FinTech) Variant 128,23.5,Emerging
+207,Media & Design,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Journalist (Media & Design) Variant 129,24.8,Evergreen
+208,Media & Design,Science (PCB),B.Sc Nursing,10+2 + NEET,UI/UX Designer (Media & Design) Variant 130,15.7,Emerging
+209,Arts & Humanities,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Historian (Arts & Humanities) Variant 131,7.8,Emerging
+210,Management,Science (PCM),B.Tech Aerospace,10+2 + JEE,Startup Founder (Management),5.9,Emerging
+211,Agriculture & Allied,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Farm Manager (Agriculture & Allied) Variant 132,3.9,Growing
+212,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Biotechnologist (Science & Research) Variant 133,13.7,Stable
+213,E-Commerce,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Digital Marketer (E-Commerce) Variant 134,6.4,Stable
+214,Gig Economy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Gig Worker Coordinator (Gig Economy) Variant 135,19.7,Stable
+215,Management,Science (PCM),B.Tech Mechanical,10+2 + JEE,Supply Chain Manager (Management) Variant 136,6.7,Stable
+216,E-Commerce,Arts,BHM,10+2 + Diploma,Supply Chain Analyst (E-Commerce) Variant 137,13.2,Evergreen
+217,Space Tech,Commerce,B.Com,Bachelor's + Cert,Space Engineer (Space Tech) Variant 138,17.1,Stable
+218,Media & Design,Science (PCM/CS),B.Tech Mechanical,10+2 + JEE,Content Creator (Media & Design) Variant 139,23.7,Evergreen
+219,Engineering,Science (PCB),MBBS,10+2 + NEET,Aerospace Engineer (Engineering) Variant 140,9.9,Growing
+220,E-Commerce,Science (PCM),B.Tech Aerospace,10+2 + JEE,Supply Chain Analyst (E-Commerce) Variant 141,10.4,Growing
+221,AI & ML,Commerce,BA Psychology,10+2 + Bachelor's,AI Researcher (AI & ML) Variant 142,10.0,Evergreen
+222,E-Commerce,Science (PCB),MBBS,10+2 + NEET,Digital Marketer (E-Commerce) Variant 143,21.4,Emerging
+223,Green Energy,Arts,BHM,10+2 + Diploma,Renewable Energy Engineer (Green Energy) Variant 144,20.4,Growing
+224,Government & Defense,Any Stream,BHM,10+2 + Diploma,Policy Maker (Government & Defense) Variant 145,4.9,Emerging
+225,FinTech,Science (PCM),B.Tech Aerospace,10+2 + JEE,Blockchain Specialist (FinTech) Variant 146,21.6,Evergreen
+226,Engineering,Science (PCM/CS),B.Tech CSE,10+2 + JEE,EV Designer (Engineering) Variant 147,10.4,Evergreen
+227,Law,Science (PCB),B.Sc Nursing,10+2 + NEET,Judge (Law) Variant 148,12.7,Evergreen
+228,Law,Science (PCB),B.Pharma,10+2 + NEET,Judge (Law) Variant 149,9.1,Evergreen
+229,IT & Technology,Any Stream,B.Com,10+2 + Bachelor's,Data Scientist (IT & Technology),16.2,Growing
+230,Gig Economy,Science (PCB),MBBS,10+2 + NEET,Platform Developer (Gig Economy) Variant 150,16.4,Growing
+231,Cybersecurity,Science (PCM),B.Pharma,10+2 + NEET,Incident Responder (Cybersecurity) Variant 151,16.2,Stable
+232,Healthcare,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Physiotherapist (Healthcare) Variant 152,23.3,High
+233,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Incident Responder (Cybersecurity) Variant 153,23.5,High
+234,Finance & Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Actuary (Finance & Commerce) Variant 154,20.8,Stable
+235,AI & ML,Science (PCM),B.Sc Data Science,10+2 + CLAT,Prompt Engineer (AI & ML) Variant 155,24.5,Evergreen
+236,Cybersecurity,Science (PCB),B.Pharma,10+2 + NEET,Incident Responder (Cybersecurity) Variant 156,17.6,Emerging
+237,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Policy Maker (Government & Defense) Variant 157,9.1,Growing
+238,Arts & Humanities,Science (PCM),B.Tech Mechanical,10+2 + JEE,Historian (Arts & Humanities) Variant 158,8.8,Growing
+239,AI & ML,Commerce,BA Psychology,10+2 + Bachelor's,Machine Learning Engineer (AI & ML) Variant 159,8.9,Evergreen
+240,Agriculture & Allied,Science (PCB),B.Sc Nursing,10+2 + NEET,Agri-Business Manager (Agriculture & Allied) Variant 160,7.8,Stable
+241,Law,Science (PCM),B.Tech CSE,10+2 + JEE,Corporate Lawyer (Law) Variant 161,4.2,Evergreen
+242,Science & Research,Science (PCM),B.Pharma,10+2 + NEET,Physicist (Science & Research) Variant 162,15.0,Emerging
+243,Space Tech,Any Stream,LLB,10+2 + Diploma,Space Engineer (Space Tech) Variant 163,17.7,High
+244,Arts & Humanities,Science (PCB),B.Sc Nursing,10+2 + NEET,Philosopher (Arts & Humanities) Variant 164,15.0,Growing
+245,Healthcare,Science (PCM),B.Tech Civil,10+2 + JEE,Medical Researcher (Healthcare) Variant 165,3.8,Stable
+246,AI & ML,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Prompt Engineer (AI & ML) Variant 166,15.0,High
+247,Hospitality & Travel,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Hotel Manager (Hospitality & Travel) Variant 167,7.2,Emerging
+248,Engineering,Commerce,B.Com,10+2 + Bachelor's,Electrical Engineer (Engineering) Variant 168,15.0,Emerging
+249,IT & Technology,Science (PCB),B.Sc Nursing,10+2 + NEET,Data Scientist (IT & Technology) Variant 169,16.4,Growing
+250,AI & ML,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (AI & ML) Variant 170,16.6,High
+251,FinTech,Science (PCB),BDS,10+2 + NEET,Blockchain Specialist (FinTech) Variant 171,5.6,Stable
+252,AI & ML,Science (PCB),BDS,10+2 + NEET,AI Researcher (AI & ML) Variant 172,9.8,High
+253,FinTech,Science (PCB),BDS,10+2 + NEET,Blockchain Specialist (FinTech) Variant 173,3.1,Growing
+254,Green Energy,Science (PCB),MBBS,10+2 + NEET,Sustainability Consultant (Green Energy) Variant 174,11.3,Evergreen
+255,Healthcare,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Pharmacist (Healthcare) Variant 175,12.9,High
+256,Healthcare,Any Stream,B.Com,10+2 + CLAT,Genetic Counselor (Healthcare) Variant 176,19.6,Growing
+257,Government & Defense,Any Stream,B.Com,Bachelor's + UPSC,Policy Maker (Government & Defense) Variant 177,19.7,Emerging
+258,Green Energy,Science (PCM),B.Tech Civil,10+2 + JEE,Renewable Energy Engineer (Green Energy) Variant 178,16.4,High
+259,IT & Technology,Arts,BHM,10+2 + Bachelor's,Blockchain Developer (IT & Technology) Variant 179,9.6,Stable
+260,Green Energy,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Renewable Energy Engineer (Green Energy) Variant 180,14.5,Stable
+261,Healthcare,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Pharmacist (Healthcare) Variant 181,8.2,Emerging
+262,Management,Science (PCB),B.Sc Nursing,10+2 + NEET,Startup Founder (Management) Variant 182,16.1,Stable
+263,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Astronaut Trainer (Space Tech) Variant 183,8.0,High
+264,Healthcare,Science (PCB),MBBS,10+2 + NEET,Physiotherapist (Healthcare) Variant 184,3.3,Evergreen
+265,Education,Science (PCM),B.Pharma,10+2 + NEET,Educational Consultant (Education) Variant 185,20.0,Evergreen
+266,Healthcare,Any Stream,BA Psychology,10+2 + Bachelor's,Genetic Counselor (Healthcare) Variant 186,8.2,Growing
+267,Media & Design,Any Stream,BA Psychology,10+2 + Bachelor's,Graphic Designer (Media & Design) Variant 187,5.0,Growing
+268,Gig Economy,Science (PCM),B.Sc Data Science,10+2 + Diploma,Freelancer (Gig Economy),23.7,Emerging
+269,Finance & Commerce,Science (PCB),B.Sc Nursing,10+2 + NEET,Tax Consultant (Finance & Commerce) Variant 188,13.4,Evergreen
+270,AI & ML,Science (PCB),B.Pharma,10+2 + NEET,AI Researcher (AI & ML) Variant 172,8.1,Stable
+271,Space Tech,Arts,BHM,Bachelor's + Cert,Drone Pilot (Space Tech) Variant 190,5.0,High
+272,Finance & Commerce,Science (PCM),B.Sc Data Science,10+2 + Bachelor's,Financial Analyst (Finance & Commerce) Variant 191,24.2,Stable
+273,Arts & Humanities,Arts,BA Psychology,Bachelor's + UPSC,Philosopher (Arts & Humanities) Variant 192,4.1,Stable
+274,Green Energy,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Renewable Energy Engineer (Green Energy) Variant 193,23.7,High
+275,E-Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,Online Retail Specialist (E-Commerce) Variant 194,19.9,Emerging
+276,Education,Science (PCB),BDS,10+2 + NEET,Professor (Education) Variant 195,22.8,Stable
+277,Finance & Commerce,Any Stream,LLB,Bachelor's + UPSC,Actuary (Finance & Commerce) Variant 196,13.9,High
+278,Green Energy,Science (PCB),MBBS,10+2 + NEET,Sustainability Consultant (Green Energy) Variant 197,21.2,Evergreen
+279,Healthcare,Science (PCM),B.Tech Mechanical,10+2 + JEE,Pharmacist (Healthcare) Variant 198,11.8,Growing
+280,Education,Commerce,B.Com,10+2 + Bachelor's,Teacher (Education) Variant 199,10.0,Growing
+281,Science & Research,Commerce,BA Psychology,10+2 + CLAT,Chemist (Science & Research) Variant 200,22.0,High
+282,Science & Research,Science (PCM),B.Pharma,10+2 + NEET,Chemist (Science & Research) Variant 201,22.5,Evergreen
+283,FinTech,Science (PCM),B.Sc Data Science,Bachelor's + Cert,Blockchain Specialist (FinTech) Variant 202,9.3,Evergreen
+284,Education,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Teacher (Education) Variant 203,14.8,High
+285,Space Tech,Arts,BHM,10+2 + Bachelor's,Drone Pilot (Space Tech) Variant 204,3.8,Stable
+286,Science & Research,Any Stream,BA Psychology,10+2 + CLAT,Biotechnologist (Science & Research) Variant 205,9.4,High
+287,Education,Science (PCM),B.Sc Data Science,10+2 + CLAT,Professor (Education) Variant 206,23.2,Evergreen
+288,Education,Arts,BHM,10+2 + Diploma,Professor (Education) Variant 206,23.2,Evergreen
+289,Healthcare,Science (PCM),B.Tech Aerospace,10+2 + JEE,Medical Researcher (Healthcare) Variant 208,5.8,Stable
+290,Law,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Lawyer (Law) Variant 209,19.1,Emerging
+291,Agriculture & Allied,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Farm Manager (Agriculture & Allied) Variant 210,16.1,Emerging
+292,Government & Defense,Science (PCM),B.Tech Civil,10+2 + JEE,Civil Servant (Government & Defense) Variant 211,4.4,High
+293,Engineering,Commerce,B.Com,10+2 + Bachelor's,EV Designer (Engineering) Variant 212,8.1,Growing
+294,Media & Design,Science (PCM),B.Pharma,10+2 + NEET,Graphic Designer (Media & Design) Variant 213,11.2,Stable
+295,Space Tech,Science (PCB),BDS,10+2 + NEET,Astronaut Trainer (Space Tech) Variant 214,8.1,Stable
+296,Gig Economy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Gig Worker Coordinator (Gig Economy) Variant 135,19.7,Stable
+297,Agriculture & Allied,Science (PCB),B.Sc Nursing,10+2 + NEET,Agricultural Engineer (Agriculture & Allied) Variant 216,16.4,Emerging
+298,Agriculture & Allied,Science (PCB),B.Sc Nursing,10+2 + NEET,Farm Manager (Agriculture & Allied) Variant 217,24.0,Evergreen
+299,Gig Economy,Any Stream,LLB,Bachelor's + CLAT,Freelancer (Gig Economy) Variant 218,23.3,High
+300,Engineering,Science (PCB),BDS,10+2 + NEET,Aerospace Engineer (Engineering) Variant 219,9.4,Emerging
+301,FinTech,Any Stream,LLB,Bachelor's + Cert,Digital Banker (FinTech) Variant 220,16.4,Stable
+302,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,Robotics Engineer (Engineering) Variant 221,22.6,Stable
+303,Law,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Corporate Lawyer (Law) Variant 222,16.4,Growing
+304,E-Commerce,Any Stream,B.Com,Bachelor's + Cert,Supply Chain Analyst (E-Commerce) Variant 223,7.0,Evergreen
+305,Cybersecurity,Science (PCM),B.Tech Civil,10+2 + JEE,Incident Responder (Cybersecurity) Variant 224,3.9,Stable
+306,Management,Any Stream,BA Psychology,10+2 + Bachelor's,Supply Chain Manager (Management) Variant 225,23.9,Evergreen
+307,Green Energy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Environmental Analyst (Green Energy) Variant 226,15.1,Stable
+308,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,FinTech Developer (FinTech) Variant 227,9.1,Stable
+309,Management,Any Stream,LLB,10+2 + Diploma,HR Manager (Management),10.4,Growing
+310,Education,Science (PCB),MBBS,10+2 + NEET,Professor (Education) Variant 228,12.3,High
+311,Management,Science (PCB),BDS,10+2 + NEET,HR Manager (Management) Variant 229,10.8,Emerging
+312,Law,Science (PCB),B.Sc Nursing,10+2 + NEET,Lawyer (Law) Variant 230,8.1,Emerging
+313,FinTech,Science (PCB),MBBS,10+2 + NEET,Blockchain Specialist (FinTech) Variant 231,14.3,Stable
+314,Finance & Commerce,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Forensic Accountant (Finance & Commerce) Variant 232,10.0,Growing
+315,Healthcare,Any Stream,LLB,Bachelor's + CLAT,Pharmacist (Healthcare) Variant 233,6.5,High
+316,Gig Economy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Freelancer (Gig Economy) Variant 234,6.3,High
+317,Law,Any Stream,B.Com,10+2 + CLAT,Lawyer (Law) Variant 235,7.1,Evergreen
+318,Hospitality & Travel,Science (PCB),B.Sc Data Science,10+2 + Diploma,Chef (Hospitality & Travel) Variant 237,18.9,Evergreen
+319,Media & Design,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Content Creator (Media & Design) Variant 237,18.9,Evergreen
+320,Finance & Commerce,Science (PCB),B.Sc Nursing,10+2 + NEET,Tax Consultant (Finance & Commerce) Variant 238,12.7,Stable
+321,AI & ML,Science (PCB),B.Sc Data Science,10+2 + Bachelor's,AI Researcher (AI & ML) Variant 239,6.3,Stable
+322,FinTech,Arts,BA Psychology,Bachelor's + UPSC,Blockchain Specialist (FinTech) Variant 240,20.6,Stable
+323,Engineering,Science (PCM),B.Sc Data Science,Bachelor's + UPSC,Aerospace Engineer (Engineering) Variant 241,18.0,Growing
+324,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Event Planner (Hospitality & Travel) Variant 242,20.1,Growing
+325,Government & Defense,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Policy Maker (Government & Defense) Variant 243,18.9,High
+326,Arts & Humanities,Science (PCM),B.Tech Civil,10+2 + JEE,Philosopher (Arts & Humanities) Variant 244,16.3,Emerging
+327,Space Tech,Commerce,B.Com,10+2 + Bachelor's,Space Engineer (Space Tech) Variant 245,18.4,Growing
+328,E-Commerce,Commerce,B.Com,Bachelor's + UPSC,E-Commerce Manager (E-Commerce) Variant 246,8.1,High
+329,Science & Research,Any Stream,LLB,Bachelor's + CLAT,Physicist (Science & Research) Variant 247,23.4,Stable
+330,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Genetic Counselor (Healthcare) Variant 248,20.5,Growing
+331,Law,Any Stream,LLB,Bachelor's + CLAT,Judge (Law) Variant 249,9.1,Emerging
+332,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Event Planner (Hospitality & Travel) Variant 250,22.9,High
+333,Space Tech,Science (PCB),B.Sc Nursing,10+2 + NEET,Drone Pilot (Space Tech) Variant 251,20.7,Growing
+334,Law,Science (PCM),B.Tech Aerospace,10+2 + JEE,Legal Advisor (Law) Variant 252,6.8,Growing
+335,FinTech,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Digital Banker (FinTech) Variant 253,20.5,Evergreen
+336,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Security Analyst (Cybersecurity) Variant 254,16.0,Stable
+337,Arts & Humanities,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Writer (Arts & Humanities) Variant 255,9.5,Stable
+338,FinTech,Science (PCM),B.Tech Aerospace,10+2 + JEE,Blockchain Specialist (FinTech) Variant 256,5.5,Evergreen
+339,Management,Science (PCB),BDS,10+2 + NEET,Supply Chain Manager (Management) Variant 257,9.9,High
+340,Cybersecurity,Science (PCM),B.Tech Mechanical,10+2 + JEE,Security Analyst (Cybersecurity) Variant 258,7.8,High
+341,E-Commerce,Any Stream,LLB,Bachelor's + CLAT,Online Retail Specialist (E-Commerce) Variant 259,23.2,Evergreen
+342,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Physicist (Science & Research) Variant 260,4.8,Growing
+343,FinTech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Blockchain Specialist (FinTech) Variant 261,21.6,Evergreen
+344,Education,Commerce,BA Psychology,10+2 + CLAT,Professor (Education) Variant 262,7.0,Stable
+345,IT & Technology,Science (PCB),MBBS,10+2 + NEET,Blockchain Developer (IT & Technology) Variant 263,21.1,Emerging
+346,Engineering,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Aerospace Engineer (Engineering) Variant 264,24.8,Emerging
+347,Agriculture & Allied,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Farm Manager (Agriculture & Allied) Variant 265,17.5,High
+348,Media & Design,Any Stream,BA Psychology,10+2 + Bachelor's,Graphic Designer (Media & Design) Variant 266,14.7,High
+349,Media & Design,Science (PCM),B.Tech Civil,10+2 + JEE,Journalist (Media & Design) Variant 267,11.6,Evergreen
+350,Education,Science (PCM),B.Sc Data Science,10+2 + Diploma,Educational Consultant (Education) Variant 268,24.1,Evergreen
+351,Finance & Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,Financial Analyst (Finance & Commerce) Variant 269,13.6,Evergreen
+352,Hospitality & Travel,Science (PCM),B.Tech CSE,10+2 + JEE,Hotel Manager (Hospitality & Travel) Variant 270,14.4,Evergreen
+353,Education,Science (PCM),MBBS,10+2 + NEET,Professor (Education) Variant 271,16.7,Growing
+354,Arts & Humanities,Science (PCM),B.Tech Civil,10+2 + JEE,Writer (Arts & Humanities) Variant 272,5.5,Stable
+355,E-Commerce,Science (PCM),B.Pharma,10+2 + NEET,E-Commerce Manager (E-Commerce) Variant 273,11.7,Emerging
+356,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,AI Researcher (AI & ML) Variant 274,16.0,High
+357,Finance & Commerce,Any Stream,LLB,Bachelor's + UPSC,ESG Analyst (Finance & Commerce) Variant 275,18.7,High
+358,Media & Design,Commerce,BA Psychology,10+2 + Bachelor's,Content Creator (Media & Design) Variant 276,6.7,Growing
+359,FinTech,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Blockchain Specialist (FinTech) Variant 277,17.2,Stable
+360,Gig Economy,Science (PCM),B.Tech Civil,10+2 + JEE,Freelancer (Gig Economy) Variant 278,14.4,Growing
+361,Education,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Educational Consultant (Education) Variant 279,12.1,Evergreen
+362,Healthcare,Science (PCM),B.Sc Data Science,10+2 + CLAT,Nurse (Healthcare) Variant 280,10.6,Stable
+363,Gig Economy,Science (PCM/CS),B.Sc Data Science,10+2 + Diploma,Gig Worker Coordinator (Gig Economy) Variant 281,7.3,Evergreen
+364,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Research Scientist (Science & Research) Variant 282,9.3,Evergreen
+365,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Farm Manager (Agriculture & Allied) Variant 283,17.4,Evergreen
+366,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Satellite Technician (Space Tech) Variant 284,18.8,Stable
+367,E-Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,Digital Marketer (E-Commerce) Variant 285,15.8,Growing
+368,Gig Economy,Arts,BHM,10+2 + Bachelor's,Platform Developer (Gig Economy) Variant 286,14.4,Stable
+369,Arts & Humanities,Science (PCM),B.Pharma,10+2 + NEET,Historian (Arts & Humanities) Variant 287,7.6,Stable
+370,Government & Defense,Science (PCM/CS),B.Sc Data Science,Bachelor's + UPSC,Policy Maker (Government & Defense) Variant 288,18.5,High
+371,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Policy Maker (Government & Defense) Variant 289,22.9,Evergreen
+372,Law,Any Stream,B.Com,10+2 + CLAT,Legal Advisor (Law) Variant 290,16.7,Emerging
+373,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,FinTech Developer (FinTech) Variant 291,23.9,Emerging
+374,Hospitality & Travel,Science (PCM),B.Tech Aerospace,10+2 + JEE,Event Planner (Hospitality & Travel) Variant 292,4.8,Stable
+375,E-Commerce,Science (PCM),B.Sc Data Science,10+2 + Bachelor's,Supply Chain Analyst (E-Commerce) Variant 293,13.2,High
+376,Engineering,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,3D Printing Specialist (Engineering),7.8,Growing
+377,IT & Technology,Any Stream,LLB,10+2 + Diploma,Full-Stack Developer (IT & Technology) Variant 294,11.9,Evergreen
+378,Law,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Lawyer (Law) Variant 295,14.1,High
+379,Science & Research,Science (PCB),B.Sc Nursing,10+2 + NEET,Research Scientist (Science & Research) Variant 296,16.6,Emerging
+380,Healthcare,Any Stream,LLB,Bachelor's + Cert,Ayurvedic Doctor (Healthcare) Variant 297,22.9,Stable
+381,IT & Technology,Science (PCM),B.Tech Aerospace,10+2 + JEE,AI Engineer (IT & Technology) Variant 298,20.8,Stable
+382,Hospitality & Travel,Commerce,B.Com,Bachelor's + UPSC,Travel Agent (Hospitality & Travel) Variant 299,20.9,High
+383,Cybersecurity,Science (PCM),B.Tech Civil,10+2 + JEE,Ethical Hacker (Cybersecurity) Variant 300,13.2,Evergreen
+384,Healthcare,Science (PCM),B.Pharma,10+2 + NEET,Ayurvedic Doctor (Healthcare) Variant 301,13.6,Growing
+385,Healthcare,Science (PCM),B.Pharma,10+2 + NEET,Physiotherapist (Healthcare) Variant 302,12.0,Emerging
+386,Hospitality & Travel,Science (PCB),B.Sc Nursing,10+2 + NEET,Chef (Hospitality & Travel) Variant 303,12.9,High
+387,IT & Technology,Commerce,B.Com,Bachelor's + Cert,Blockchain Developer (IT & Technology) Variant 304,23.7,High
+388,E-Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Digital Marketer (E-Commerce) Variant 305,11.0,Growing
+389,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Ethical Hacker (Cybersecurity) Variant 306,21.0,Growing
+390,Cybersecurity,Any Stream,LLB,Bachelor's + CLAT,Security Analyst (Cybersecurity) Variant 307,11.4,Emerging
+391,FinTech,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,FinTech Developer (FinTech) Variant 308,9.0,Stable
+392,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Travel Agent (Hospitality & Travel) Variant 309,20.7,Stable
+393,Management,Commerce,B.Com,10+2 + Bachelor's,Operations Manager (Management),15.3,Growing
+394,Law,Science (PCM),B.Pharma,10+2 + NEET,Criminal Lawyer (Law) Variant 310,6.7,Emerging
+395,Space Tech,Arts,BHM,10+2 + Bachelor's,Space Engineer (Space Tech) Variant 311,13.7,Growing
+396,Management,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Operations Manager (Management) Variant 312,6.9,Emerging
+397,FinTech,Science (PCM),B.Tech CSE,10+2 + JEE,Blockchain Specialist (FinTech) Variant 313,14.2,Stable
+398,Education,Science (PCB),B.Sc Nursing,10+2 + NEET,School Administrator (Education) Variant 314,9.9,Evergreen
+399,E-Commerce,Any Stream,BA Psychology,Bachelor's + UPSC,E-Commerce Manager (E-Commerce) Variant 315,9.0,Emerging
+400,Media & Design,Commerce,B.Com,10+2 + CLAT,Graphic Designer (Media & Design) Variant 316,23.9,Evergreen
+401,Management,Science (PCM/CS),B.Tech CSE,10+2 + JEE,HR Manager (Management) Variant 317,3.6,Emerging
+402,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Chemist (Science & Research) Variant 318,11.2,High
+403,Hospitality & Travel,Science (PCB),BDS,10+2 + NEET,Chef (Hospitality & Travel) Variant 319,5.9,High
+404,Management,Science (PCB),BDS,10+2 + NEET,HR Manager (Management) Variant 320,7.2,Stable
+405,Government & Defense,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Defense Analyst (Government & Defense) Variant 321,11.5,Emerging
+406,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Digital Banker (FinTech) Variant 322,23.8,High
+407,Media & Design,Commerce,BHM,10+2 + Bachelor's,Graphic Designer (Media & Design) Variant 323,20.6,Growing
+408,Science & Research,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Chemist (Science & Research) Variant 324,8.9,Emerging
+409,Agriculture & Allied,Science (PCB),BDS,10+2 + NEET,Farm Manager (Agriculture & Allied) Variant 325,6.7,Emerging
+410,Space Tech,Commerce,B.Com,Bachelor's + UPSC,Satellite Technician (Space Tech) Variant 326,17.7,Stable
+411,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Agricultural Engineer (Agriculture & Allied) Variant 327,15.9,Growing
+412,Arts & Humanities,Science (PCB),B.Sc Nursing,10+2 + NEET,Philosopher (Arts & Humanities) Variant 328,21.9,High
+413,Green Energy,Science (PCM),B.Sc Data Science,Bachelor's + UPSC,Renewable Energy Engineer (Green Energy) Variant 329,17.2,Stable
+414,Government & Defense,Science (PCB),BDS,10+2 + NEET,Civil Servant (Government & Defense) Variant 330,4.2,Stable
+415,Management,Any Stream,BHM,10+2 + Bachelor's,Startup Founder (Management) Variant 331,4.8,Emerging
+416,AI & ML,Any Stream,B.Com,10+2 + CLAT,Metaverse Designer (AI & ML) Variant 332,9.9,Emerging
+417,Education,Science (PCM),B.Tech Civil,10+2 + JEE,Professor (Education) Variant 333,19.8,High
+418,Hospitality & Travel,Science (PCM),B.Pharma,10+2 + NEET,Chef (Hospitality & Travel) Variant 334,10.7,Stable
+419,Healthcare,Science (PCB),B.Pharma,10+2 + NEET,Ayurvedic Doctor (Healthcare) Variant 335,18.6,Emerging
+420,Arts & Humanities,Arts,BHM,10+2 + Bachelor's,Artist (Arts & Humanities) Variant 336,18.5,Stable
+421,Hospitality & Travel,Arts,BA Psychology,10+2 + CLAT,Travel Agent (Hospitality & Travel) Variant 337,10.3,Growing
+422,Finance & Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Tax Consultant (Finance & Commerce) Variant 338,24.3,Stable
+423,Agriculture & Allied,Science (PCM),B.Sc Data Science,Bachelor's + Cert,Agri-Business Manager (Agriculture & Allied) Variant 339,19.0,Emerging
+424,Law,Science (PCB),B.Com,Bachelor's + UPSC,Legal Advisor (Law) Variant 340,20.4,Growing
+425,E-Commerce,Science (PCM),B.Pharma,10+2 + NEET,Online Retail Specialist (E-Commerce) Variant 341,3.1,High
+426,Management,Science (PCB),MBBS,10+2 + NEET,Operations Manager (Management) Variant 342,6.1,Emerging
+427,FinTech,Science (PCM),B.Tech CSE,10+2 + JEE,Blockchain Specialist (FinTech) Variant 343,17.3,Stable
+428,Finance & Commerce,Science (PCM),B.Tech Aerospace,10+2 + JEE,Financial Analyst (Finance & Commerce) Variant 344,21.9,High
+429,Engineering,Science (PCB),MBBS,10+2 + NEET,Aerospace Engineer (Engineering) Variant 345,6.2,Stable
+430,E-Commerce,Science (PCB),BDS,10+2 + NEET,Supply Chain Analyst (E-Commerce) Variant 346,23.5,High
+431,Government & Defense,Science (PCB),MBBS,10+2 + NEET,Defense Analyst (Government & Defense) Variant 347,4.8,Growing
+432,Law,Commerce,B.Com,Bachelor's + Cert,Corporate Lawyer (Law) Variant 348,18.2,Emerging
+433,IT & Technology,Commerce,B.Com,Bachelor's + UPSC,Cloud Architect (IT & Technology) Variant 349,15.6,Growing
+434,Education,Science (PCB),B.Pharma,10+2 + NEET,School Administrator (Education) Variant 350,8.1,High
+435,FinTech,Any Stream,LLB,Bachelor's + UPSC,FinTech Developer (FinTech) Variant 351,17.4,Stable
+436,E-Commerce,Science (PCB),MBBS,10+2 + NEET,E-Commerce Manager (E-Commerce) Variant 352,8.0,Growing
+437,Education,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Professor (Education) Variant 353,9.8,High
+438,Gig Economy,Science (PCB),BDS,10+2 + NEET,Platform Developer (Gig Economy) Variant 354,13.7,Emerging
+439,Engineering,Commerce,B.Sc Data Science,Bachelor's + UPSC,Robotics Engineer (Engineering) Variant 355,19.9,Stable
+440,Finance & Commerce,Science (PCB),BDS,10+2 + NEET,ESG Analyst (Finance & Commerce) Variant 356,18.4,High
+441,E-Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Supply Chain Analyst (E-Commerce) Variant 357,4.8,Growing
+442,FinTech,Science (PCB),MBBS,10+2 + NEET,FinTech Developer (FinTech) Variant 358,8.4,Stable
+443,FinTech,Science (PCB),BDS,10+2 + NEET,FinTech Developer (FinTech) Variant 359,21.8,Emerging
+444,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Pharmacist (Healthcare) Variant 360,13.6,Growing
+445,Arts & Humanities,Any Stream,LLB,10+2 + CLAT,Historian (Arts & Humanities) Variant 361,10.7,Growing
+446,Arts & Humanities,Commerce,B.Com,Bachelor's + UPSC,Artist (Arts & Humanities) Variant 362,23.3,Evergreen
+447,Engineering,Science (PCM),B.Tech Civil,10+2 + JEE,Mechanical Engineer (Engineering),15.0,Stable
+448,Green Energy,Science (PCB),MBBS,10+2 + NEET,Environmental Analyst (Green Energy) Variant 363,22.3,Emerging
+449,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Incident Responder (Cybersecurity) Variant 364,17.0,High
+450,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,AI Researcher (AI & ML) Variant 365,13.4,Evergreen
+451,Healthcare,Commerce,BHM,10+2 + Bachelor's,Dentist (Healthcare) Variant 366,14.3,Evergreen
+452,Arts & Humanities,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Artist (Arts & Humanities) Variant 367,9.0,Evergreen
+453,Gig Economy,Science (PCM),B.Tech Civil,10+2 + JEE,Platform Developer (Gig Economy) Variant 368,15.2,High
+454,FinTech,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Digital Banker (FinTech) Variant 369,24.5,Emerging
+455,Science & Research,Science (PCM),B.Tech Aerospace,10+2 + JEE,Physicist (Science & Research) Variant 370,14.2,Growing
+456,Space Tech,Science (PCM),B.Tech CSE,10+2 + JEE,Satellite Technician (Space Tech) Variant 371,24.0,Growing
+457,FinTech,Science (PCB),MBBS,10+2 + NEET,Blockchain Specialist (FinTech) Variant 372,14.1,Stable
+458,Management,Science (PCM),B.Tech Aerospace,10+2 + JEE,Supply Chain Manager (Management) Variant 373,21.0,Growing
+459,Space Tech,Science (PCM),B.Tech Civil,10+2 + JEE,Satellite Technician (Space Tech) Variant 374,12.4,Emerging
+460,Gig Economy,Commerce,B.Sc Data Science,10+2 + Bachelor's,Platform Developer (Gig Economy) Variant 375,17.5,Growing
+461,Arts & Humanities,Science (PCB),B.Sc Nursing,10+2 + NEET,Historian (Arts & Humanities) Variant 376,12.5,High
+462,Engineering,Science (PCM),B.Tech Aerospace,10+2 + JEE,Robotics Engineer (Engineering) Variant 377,7.3,Stable
+463,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Incident Responder (Cybersecurity) Variant 378,5.6,Evergreen
+464,Government & Defense,Arts,BHM,10+2 + Diploma,Defense Analyst (Government & Defense) Variant 379,19.0,Stable
+465,Hospitality & Travel,Science (PCB),B.Pharma,10+2 + NEET,Event Planner (Hospitality & Travel) Variant 380,14.6,High
+466,Government & Defense,Arts,BHM,10+2 + Bachelor's,Defense Analyst (Government & Defense) Variant 381,6.6,Emerging
+467,Government & Defense,Commerce,B.Com,10+2 + CLAT,Policy Maker (Government & Defense) Variant 382,22.1,Growing
+468,Management,Science (PCM),B.Tech Mechanical,10+2 + JEE,Marketing Manager (Management) Variant 383,3.7,Growing
+469,Arts & Humanities,Science (PCM),B.Sc Data Science,10+2 + Diploma,Philosopher (Arts & Humanities) Variant 384,16.0,Evergreen
+470,AI & ML,Science (PCM),B.Tech Civil,10+2 + JEE,Metaverse Designer (AI & ML) Variant 385,16.8,Emerging
+471,Engineering,Any Stream,BA Psychology,10+2 + CLAT,EV Designer (Engineering) Variant 386,9.6,Evergreen
+472,Media & Design,Arts,BA Psychology,10+2 + CLAT,Graphic Designer (Media & Design) Variant 387,13.8,High
+473,Arts & Humanities,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Artist (Arts & Humanities) Variant 388,6.6,Growing
+474,E-Commerce,Commerce,B.Com,Bachelor's + UPSC,Supply Chain Analyst (E-Commerce) Variant 389,24.2,Evergreen
+475,Government & Defense,Science (PCB),B.Sc Nursing,10+2 + NEET,Policy Maker (Government & Defense) Variant 390,18.1,Evergreen
+476,Healthcare,Commerce,B.Com,Bachelor's + UPSC,Dentist (Healthcare) Variant 391,21.0,Growing
+477,IT & Technology,Science (PCM),B.Tech Civil,10+2 + JEE,Cybersecurity Analyst (IT & Technology),5.8,High
+478,Government & Defense,Science (PCM/CS),B.Tech Mechanical,10+2 + JEE,Policy Maker (Government & Defense) Variant 392,6.9,Stable
+479,Hospitality & Travel,Science (PCB),B.Pharma,10+2 + NEET,Chef (Hospitality & Travel) Variant 393,16.6,Growing
+480,Agriculture & Allied,Science (PCM),B.Tech Civil,10+2 + JEE,Farm Manager (Agriculture & Allied) Variant 394,9.1,Growing
+481,Government & Defense,Science (PCB),B.Pharma,10+2 + NEET,Policy Maker (Government & Defense) Variant 395,15.0,Emerging
+482,Law,Any Stream,B.Com,10+2 + CLAT,Legal Advisor (Law) Variant 396,12.5,Stable
+483,Arts & Humanities,Science (PCM),B.Tech Mechanical,10+2 + JEE,Historian (Arts & Humanities) Variant 397,8.3,Stable
+484,Government & Defense,Science (PCB),B.Sc Nursing,10+2 + NEET,Civil Servant (Government & Defense) Variant 398,12.7,Growing
+485,Green Energy,Any Stream,LLB,10+2 + CLAT,Sustainability Consultant (Green Energy) Variant 399,22.2,Stable
+486,Management,Science (PCB),B.Pharma,10+2 + NEET,Startup Founder (Management) Variant 400,10.7,Stable
+487,Space Tech,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Astronaut Trainer (Space Tech) Variant 401,23.0,High
+488,Gig Economy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Platform Developer (Gig Economy) Variant 402,14.5,Evergreen
+489,Agriculture & Allied,Any Stream,LLB,Bachelor's + Cert,Farm Manager (Agriculture & Allied) Variant 403,20.1,Evergreen
+490,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Research Scientist (Science & Research) Variant 404,15.6,Stable
+491,Cybersecurity,Science (PCM),B.Tech Civil,10+2 + JEE,Ethical Hacker (Cybersecurity) Variant 405,16.1,Evergreen
+492,Green Energy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Renewable Energy Engineer (Green Energy) Variant 406,21.7,Emerging
+493,Agriculture & Allied,Commerce,B.Com,10+2 + Bachelor's,Agri-Business Manager (Agriculture & Allied) Variant 407,20.5,High
+494,FinTech,Science (PCM),B.Tech Civil,10+2 + JEE,FinTech Developer (FinTech) Variant 408,7.7,High
+495,AI & ML,Science (PCB),B.Sc Nursing,10+2 + NEET,AI Researcher (AI & ML) Variant 409,10.6,High
+496,E-Commerce,Any Stream,LLB,10+2 + Diploma,Online Retail Specialist (E-Commerce) Variant 410,14.9,Stable
+497,Hospitality & Travel,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Hotel Manager (Hospitality & Travel) Variant 411,16.9,Stable
+498,Agriculture & Allied,Any Stream,LLB,10+2 + CLAT,Farm Manager (Agriculture & Allied) Variant 412,4.7,Emerging
+499,Healthcare,Science (PCB),BDS,10+2 + NEET,Physiotherapist (Healthcare) Variant 413,17.8,High
+500,Space Tech,Science (PCM),B.Tech Civil,10+2 + JEE,Space Engineer (Space Tech) Variant 414,14.9,High
+501,Agriculture & Allied,Commerce,B.Com,Bachelor's + UPSC,Farm Manager (Agriculture & Allied) Variant 415,16.1,Evergreen
+502,Gig Economy,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Freelancer (Gig Economy) Variant 416,3.3,Stable
+503,Engineering,Science (PCB),MBBS,10+2 + NEET,Robotics Engineer (Engineering) Variant 417,21.8,High
+504,Agriculture & Allied,Science (PCM),B.Tech Aerospace,10+2 + JEE,Farm Manager (Agriculture & Allied) Variant 418,4.9,Emerging
+505,Science & Research,Science (PCB),B.Sc Nursing,10+2 + NEET,Physicist (Science & Research) Variant 419,14.6,High
+506,Space Tech,Science (PCM),B.Tech Mechanical,10+2 + JEE,Drone Pilot (Space Tech) Variant 420,20.2,Stable
+507,Finance & Commerce,Any Stream,BA Psychology,10+2 + Bachelor's,Actuary (Finance & Commerce) Variant 421,7.8,Emerging
+508,E-Commerce,Science (PCB),BDS,10+2 + NEET,Digital Marketer (E-Commerce) Variant 422,19.5,Emerging
+509,Law,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Lawyer (Law) Variant 423,21.9,Emerging
+510,Agriculture & Allied,Science (PCM),B.Sc Data Science,10+2 + Diploma,Farm Manager (Agriculture & Allied) Variant 424,4.6,Stable
+511,E-Commerce,Science (PCM),B.Tech Aerospace,10+2 + JEE,Digital Marketer (E-Commerce) Variant 425,6.1,High
+512,Arts & Humanities,Commerce,B.Com,Bachelor's + UPSC,Writer (Arts & Humanities) Variant 426,13.2,Emerging
+513,Gig Economy,Science (PCM),B.Tech Mechanical,10+2 + JEE,Platform Developer (Gig Economy) Variant 427,7.9,Stable
+514,Green Energy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Sustainability Consultant (Green Energy) Variant 428,8.0,Emerging
+515,E-Commerce,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,E-Commerce Manager (E-Commerce) Variant 429,17.8,Evergreen
+516,Healthcare,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Doctor (Healthcare) Variant 430,21.9,Emerging
+517,Education,Science (PCB),MBBS,10+2 + NEET,School Administrator (Education) Variant 431,22.4,Evergreen
+518,Government & Defense,Science (PCM),B.Pharma,10+2 + NEET,Policy Maker (Government & Defense) Variant 432,4.3,Evergreen
+519,Hospitality & Travel,Commerce,BA Psychology,Bachelor's + UPSC,Event Planner (Hospitality & Travel) Variant 433,17.8,Emerging
+520,Arts & Humanities,Science (PCB),MBBS,10+2 + NEET,Writer (Arts & Humanities) Variant 434,10.9,Growing
+521,Finance & Commerce,Science (PCM),B.Tech CSE,10+2 + JEE,Financial Analyst (Finance & Commerce) Variant 435,5.9,Evergreen
+522,Education,Science (PCM),B.Tech CSE,10+2 + JEE,Teacher (Education) Variant 436,24.5,Evergreen
+523,E-Commerce,Any Stream,LLB,Bachelor's + UPSC,Online Retail Specialist (E-Commerce) Variant 437,22.8,Growing
+524,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Event Planner (Hospitality & Travel) Variant 438,15.4,Emerging
+525,Hospitality & Travel,Science (PCM),B.Sc Data Science,10+2 + CLAT,Event Planner (Hospitality & Travel) Variant 439,5.1,Growing
+526,Arts & Humanities,Science (PCM/CS),B.Sc Data Science,Bachelor's + UPSC,Artist (Arts & Humanities) Variant 440,3.7,Evergreen
+527,Hospitality & Travel,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Travel Agent (Hospitality & Travel) Variant 441,12.8,Emerging
+528,Media & Design,Science (PCM),B.Tech Mechanical,10+2 + JEE,Journalist (Media & Design) Variant 442,6.8,High
+529,AI & ML,Science (PCM),B.Tech Mechanical,10+2 + JEE,Machine Learning Engineer (AI & ML) Variant 443,15.1,Growing
+530,Green Energy,Science (PCB),B.Sc Nursing,10+2 + NEET,Environmental Analyst (Green Energy) Variant 444,23.9,Growing
+531,Green Energy,Science (PCM),B.Sc Nursing,10+2 + NEET,Environmental Analyst (Green Energy) Variant 445,3.6,Growing
+532,Gig Economy,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Freelancer (Gig Economy) Variant 446,15.0,Emerging
+533,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Genetic Counselor (Healthcare) Variant 447,20.5,Growing
+534,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Research Scientist (Science & Research) Variant 448,15.8,Emerging
+535,Arts & Humanities,Science (PCM),B.Sc Nursing,10+2 + NEET,Philosopher (Arts & Humanities) Variant 448,15.8,Emerging
+536,Gig Economy,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Freelancer (Gig Economy) Variant 446,15.0,Emerging
+537,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Genetic Counselor (Healthcare) Variant 447,20.5,Growing
+538,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Research Scientist (Science & Research) Variant 448,15.8,Emerging
+539,Cybersecurity,Any Stream,BHM,10+2 + Bachelor's,Ethical Hacker (Cybersecurity) Variant 453,18.2,High
+540,AI & ML,Commerce,BA Psychology,10+2 + Bachelor's,Prompt Engineer (AI & ML) Variant 454,23.1,High
+541,Media & Design,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Content Creator (Media & Design) Variant 455,8.6,Evergreen
+542,FinTech,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Blockchain Specialist (FinTech) Variant 456,12.5,Evergreen
+543,Government & Defense,Commerce,BA Psychology,10+2 + Bachelor's,Defense Analyst (Government & Defense) Variant 457,16.3,Emerging
+544,Law,Science (PCM),B.Sc Data Science,10+2 + Diploma,Legal Advisor (Law) Variant 458,20.7,Emerging
+545,Media & Design,Science (PCB),B.Sc Nursing,10+2 + NEET,Content Creator (Media & Design) Variant 459,11.8,High
+546,Government & Defense,Any Stream,LLB,Bachelor's + UPSC,Policy Maker (Government & Defense) Variant 460,24.8,Stable
+547,Cybersecurity,Any Stream,B.Com,Bachelor's + UPSC,Ethical Hacker (Cybersecurity) Variant 461,18.3,High
+548,Government & Defense,Science (PCB),BDS,10+2 + NEET,Defense Analyst (Government & Defense) Variant 462,19.6,High
+549,Science & Research,Science (PCB),B.Pharma,10+2 + NEET,Chemist (Science & Research) Variant 463,7.3,Emerging
+550,Engineering,Science (PCM),B.Tech Mechanical,10+2 + JEE,Civil Engineer (Engineering),20.3,Stable
+551,Green Energy,Science (PCM),B.Tech Aerospace,10+2 + JEE,Sustainability Consultant (Green Energy) Variant 464,5.1,Emerging
+552,FinTech,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,FinTech Developer (FinTech) Variant 465,12.3,Stable
+553,E-Commerce,Any Stream,BHM,10+2 + Bachelor's,E-Commerce Manager (E-Commerce) Variant 466,10.6,High
+554,Healthcare,Any Stream,B.Com,10+2 + CLAT,Ayurvedic Doctor (Healthcare) Variant 467,4.3,High
+555,Healthcare,Science (PCM),B.Sc Data Science,Bachelor's + Cert,Doctor (Healthcare) Variant 468,16.5,Evergreen
+556,Gig Economy,Commerce,BHM,10+2 + Diploma,Gig Worker Coordinator (Gig Economy) Variant 469,6.8,High
+557,Hospitality & Travel,Science (PCM),B.Sc Data Science,10+2 + Diploma,Hotel Manager (Hospitality & Travel) Variant 470,12.1,Emerging
+558,Healthcare,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Nurse (Healthcare) Variant 471,21.8,High
+559,IT & Technology,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Data Scientist (IT & Technology) Variant 472,17.7,High
+560,Media & Design,Science (PCB),B.Pharma,10+2 + NEET,Film Director (Media & Design) Variant 473,5.8,Emerging
+561,Agriculture & Allied,Science (PCM),B.Tech Civil,10+2 + JEE,Agricultural Engineer (Agriculture & Allied) Variant 474,3.1,Evergreen
+562,AI & ML,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Machine Learning Engineer (AI & ML) Variant 475,15.8,High
+563,Finance & Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,Investment Banker (Finance & Commerce),17.1,Growing
+564,Gig Economy,Any Stream,BA Psychology,10+2 + Bachelor's,Freelancer (Gig Economy) Variant 476,18.4,Growing
+565,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,Robotics Engineer (Engineering) Variant 477,7.3,Evergreen
+566,Cybersecurity,Any Stream,B.Com,Bachelor's + Cert,Incident Responder (Cybersecurity) Variant 478,14.8,High
+567,Gig Economy,Science (PCB),B.Pharma,10+2 + NEET,Freelancer (Gig Economy) Variant 479,13.7,Emerging
+568,Education,Science (PCB),B.Sc Nursing,10+2 + NEET,Teacher (Education) Variant 480,10.7,Evergreen
+569,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Physiotherapist (Healthcare) Variant 481,13.9,Stable
+570,Management,Science (PCM),B.Tech Civil,10+2 + JEE,HR Manager (Management) Variant 482,9.3,Evergreen
+571,Space Tech,Science (PCB),BDS,10+2 + NEET,Satellite Technician (Space Tech) Variant 483,5.9,Emerging
+572,FinTech,Science (PCB),MBBS,10+2 + NEET,FinTech Developer (FinTech) Variant 484,5.2,Emerging
+573,Agriculture & Allied,Science (PCM),B.Tech CSE,10+2 + JEE,Farm Manager (Agriculture & Allied) Variant 485,15.8,Stable
+574,Finance & Commerce,Any Stream,B.Com,Bachelor's + Cert,Actuary (Finance & Commerce) Variant 486,3.5,Stable
+575,Green Energy,Science (PCM),B.Tech Mechanical,10+2 + JEE,Sustainability Consultant (Green Energy) Variant 487,11.4,High
+576,Space Tech,Commerce,B.Com,10+2 + Bachelor's,Satellite Technician (Space Tech) Variant 488,16.7,Emerging
+577,Engineering,Commerce,B.Com,10+2 + CLAT,EV Designer (Engineering) Variant 489,24.0,Growing
+578,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Blockchain Specialist (FinTech) Variant 490,15.6,Emerging
+579,FinTech,Any Stream,LLB,Bachelor's + Cert,Digital Banker (FinTech) Variant 491,6.1,Stable
+580,Healthcare,Science (PCM),B.Tech Aerospace,10+2 + JEE,Medical Researcher (Healthcare) Variant 492,9.5,Stable
+581,Government & Defense,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Policy Maker (Government & Defense) Variant 493,17.5,Evergreen
+582,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,Mechanical Engineer (Engineering) Variant 494,7.3,Stable
+583,Space Tech,Science (PCM),B.Tech Aerospace,10+2 + JEE,Space Engineer (Space Tech) Variant 495,11.1,High
+584,Management,Commerce,BHM,10+2 + Bachelor's,HR Manager (Management) Variant 496,13.0,High
+585,AI & ML,Science (PCM),B.Tech Mechanical,10+2 + JEE,Machine Learning Engineer (AI & ML) Variant 497,3.0,Stable
+586,Government & Defense,Any Stream,BHM,Bachelor's + Cert,Civil Servant (Government & Defense) Variant 498,3.7,Growing
+587,Education,Science (PCM),B.Sc Data Science,10+2 + Diploma,Teacher (Education) Variant 499,3.4,Emerging
+588,Healthcare,Science (PCM),B.Tech Mechanical,10+2 + JEE,Physiotherapist (Healthcare) Variant 500,24.7,High
+589,Finance & Commerce,Science (PCB),B.Pharma,10+2 + NEET,Forensic Accountant (Finance & Commerce) Variant 501,5.8,Emerging
+590,Media & Design,Science (PCB),B.Tech CSE,10+2 + JEE,Film Director (Media & Design) Variant 502,4.8,Growing
+591,Finance & Commerce,Science (PCM),B.Tech Civil,10+2 + JEE,ESG Analyst (Finance & Commerce) Variant 503,8.5,Growing
+592,Management,Science (PCM),B.Tech Mechanical,10+2 + JEE,Marketing Manager (Management) Variant 504,18.9,Emerging
+593,FinTech,Arts,BHM,Bachelor's + Cert,FinTech Developer (FinTech) Variant 505,6.3,Evergreen
+594,Law,Commerce,BHM,10+2 + Bachelor's,Criminal Lawyer (Law) Variant 506,23.7,Growing
+595,Government & Defense,Science (PCM),B.Pharma,10+2 + NEET,Policy Maker (Government & Defense) Variant 507,10.2,High
+596,IT & Technology,Science (PCM),B.Tech CSE,10+2 + JEE,AI Engineer (IT & Technology) Variant 508,24.3,High
+597,Finance & Commerce,Any Stream,B.Com,10+2 + Bachelor's,Forensic Accountant (Finance & Commerce) Variant 509,15.0,Growing
+598,Cybersecurity,Commerce,B.Com,10+2 + Bachelor's,Security Analyst (Cybersecurity) Variant 510,22.0,High
+599,Government & Defense,Science (PCB),B.Sc Nursing,10+2 + NEET,Defense Analyst (Government & Defense) Variant 511,6.1,Evergreen
+600,IT & Technology,Science (PCB),MBBS,10+2 + NEET,Data Scientist (IT & Technology) Variant 512,11.9,High
+601,Gig Economy,Science (PCM),B.Tech Civil,10+2 + JEE,Gig Worker Coordinator (Gig Economy) Variant 513,9.4,Evergreen
+602,Science & Research,Commerce,BHM,Bachelor's + Cert,Chemist (Science & Research) Variant 514,6.2,Growing
+603,Cybersecurity,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Ethical Hacker (Cybersecurity) Variant 515,4.5,Evergreen
+604,Media & Design,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Content Creator (Media & Design) Variant 516,6.9,Emerging
+605,Education,Science (PCM),B.Pharma,10+2 + NEET,School Administrator (Education) Variant 517,4.3,High
+606,Gig Economy,Commerce,B.Com,10+2 + Bachelor's,Platform Developer (Gig Economy) Variant 518,19.7,Evergreen
+607,Healthcare,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Nurse (Healthcare) Variant 519,12.5,High
+608,Cybersecurity,Science (PCM/CS),B.Sc Data Science,Bachelor's + Cert,Security Analyst (Cybersecurity) Variant 520,24.9,High
+609,Media & Design,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Content Creator (Media & Design) Variant 521,8.9,Growing
+610,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Civil Servant (Government & Defense) Variant 522,16.3,Emerging
+611,Arts & Humanities,Commerce,B.Com,Bachelor's + UPSC,Philosopher (Arts & Humanities) Variant 523,7.6,Stable
+612,FinTech,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Digital Banker (FinTech) Variant 524,6.7,Growing
+613,Government & Defense,Science (PCB),BDS,10+2 + NEET,Defense Analyst (Government & Defense) Variant 525,20.9,Emerging
+614,Green Energy,Science (PCM),B.Tech Mechanical,10+2 + JEE,Renewable Energy Engineer (Green Energy) Variant 526,22.2,Emerging
+615,Government & Defense,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Civil Servant (Government & Defense) Variant 527,6.2,Emerging
+616,Science & Research,Any Stream,B.Com,10+2 + CLAT,Biotechnologist (Science & Research) Variant 528,24.3,Growing
+617,Green Energy,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Renewable Energy Engineer (Green Energy) Variant 529,17.1,Emerging
+618,Hospitality & Travel,Any Stream,BA Psychology,10+2 + Bachelor's,Event Planner (Hospitality & Travel) Variant 530,18.1,Emerging
+619,Healthcare,Any Stream,B.Com,10+2 + CLAT,Doctor (Healthcare) Variant 531,20.4,Growing
+620,Finance & Commerce,Any Stream,BA Psychology,10+2 + Bachelor's,Forensic Accountant (Finance & Commerce) Variant 532,19.1,Growing
+621,Finance & Commerce,Science (PCB),B.Sc Nursing,10+2 + NEET,ESG Analyst (Finance & Commerce) Variant 533,14.4,Stable
+622,Green Energy,Arts,BHM,Bachelor's + Cert,Sustainability Consultant (Green Energy) Variant 534,15.2,Emerging
+623,Space Tech,Science (PCM),B.Tech Civil,10+2 + JEE,Space Engineer (Space Tech) Variant 535,21.8,High
+624,Space Tech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Space Engineer (Space Tech) Variant 536,21.4,Growing
+625,IT & Technology,Science (PCM),B.Tech Civil,10+2 + JEE,Cybersecurity Analyst (IT & Technology) Variant 537,20.7,Growing
+626,AI & ML,Any Stream,LLB,Bachelor's + Cert,Prompt Engineer (AI & ML) Variant 538,21.7,Stable
+627,E-Commerce,Science (PCM),B.Tech CSE,10+2 + JEE,Supply Chain Analyst (E-Commerce) Variant 539,12.3,Stable
+628,Healthcare,Science (PCB),BDS,10+2 + NEET,Pharmacist (Healthcare) Variant 540,8.8,Evergreen
+629,Science & Research,Science (PCB),B.Sc Nursing,10+2 + NEET,Biotechnologist (Science & Research) Variant 541,20.6,High
+630,AI & ML,Any Stream,BHM,10+2 + Diploma,AI Researcher (AI & ML) Variant 542,17.0,Stable
+631,Space Tech,Commerce,BA Psychology,10+2 + Bachelor's,Astronaut Trainer (Space Tech) Variant 543,17.2,High
+632,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Agricultural Engineer (Agriculture & Allied) Variant 544,22.3,Stable
+633,Government & Defense,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Defense Analyst (Government & Defense) Variant 545,5.9,High
+634,Media & Design,Any Stream,LLB,Bachelor's + CLAT,Graphic Designer (Media & Design) Variant 546,7.3,Emerging
+635,FinTech,Science (PCB),B.Sc Nursing,10+2 + NEET,FinTech Developer (FinTech) Variant 547,16.1,Emerging
+636,Media & Design,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Film Director (Media & Design) Variant 548,14.5,Evergreen
+637,AI & ML,Commerce,B.Com,10+2 + CLAT,Prompt Engineer (AI & ML) Variant 549,5.9,High
+638,E-Commerce,Science (PCB),B.Pharma,10+2 + NEET,Online Retail Specialist (E-Commerce) Variant 550,5.9,Emerging
+639,Space Tech,Any Stream,LLB,Bachelor's + CLAT,Space Engineer (Space Tech) Variant 551,20.7,Emerging
+640,Education,Science (PCB),MBBS,10+2 + NEET,Professor (Education) Variant 552,14.1,High
+641,Management,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Startup Founder (Management) Variant 553,23.3,Evergreen
+642,Government & Defense,Science (PCM),B.Tech Civil,10+2 + JEE,Civil Servant (Government & Defense) Variant 554,15.8,High
+643,Gig Economy,Any Stream,BHM,10+2 + Diploma,Gig Worker Coordinator (Gig Economy) Variant 555,24.6,Emerging
+644,Gig Economy,Science (PCB),B.Sc Nursing,10+2 + NEET,Platform Developer (Gig Economy) Variant 556,6.9,Stable
+645,Engineering,Science (PCB),B.Pharma,10+2 + NEET,Civil Engineer (Engineering) Variant 557,3.0,High
+646,Hospitality & Travel,Science (PCB),B.Sc Nursing,10+2 + NEET,Chef (Hospitality & Travel) Variant 558,5.2,High
+647,Education,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Educational Consultant (Education) Variant 559,19.8,Growing
+648,IT & Technology,Any Stream,BHM,10+2 + Bachelor's,Full-Stack Developer (IT & Technology) Variant 560,8.2,Growing
+649,E-Commerce,Science (PCB),B.Pharma,10+2 + NEET,Supply Chain Analyst (E-Commerce) Variant 561,5.1,Stable
+650,Agriculture & Allied,Science (PCM),B.Tech Civil,10+2 + JEE,Agricultural Engineer (Agriculture & Allied) Variant 562,4.4,Evergreen
+651,Law,Commerce,B.Com,Bachelor's + Cert,Corporate Lawyer (Law) Variant 563,22.8,Emerging
+652,AI & ML,Commerce,BA Psychology,10+2 + Bachelor's,AI Researcher (AI & ML) Variant 564,6.0,Emerging
+653,E-Commerce,Science (PCB),BHM,10+2 + Bachelor's,Supply Chain Analyst (E-Commerce) Variant 565,12.0,Stable
+654,Science & Research,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Biotechnologist (Science & Research) Variant 566,10.9,High
+655,Management,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Operations Manager (Management) Variant 567,6.5,High
+656,Government & Defense,Science (PCB),B.Pharma,10+2 + NEET,Civil Servant (Government & Defense) Variant 568,3.2,Evergreen
+657,Hospitality & Travel,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Hotel Manager (Hospitality & Travel) Variant 569,11.8,Emerging
+658,Healthcare,Commerce,BA Psychology,Bachelor's + UPSC,Doctor (Healthcare) Variant 570,11.9,Stable
+659,Space Tech,Science (PCM/CS),B.Sc Data Science,Bachelor's + UPSC,Astronaut Trainer (Space Tech) Variant 571,20.4,Stable
+660,Healthcare,Science (PCM),B.Pharma,10+2 + NEET,Doctor (Healthcare) Variant 572,20.5,High
+661,Engineering,Science (PCM),B.Tech Civil,10+2 + JEE,Aerospace Engineer (Engineering) Variant 573,9.5,Emerging
+662,Healthcare,Science (PCM),B.Tech Mechanical,10+2 + JEE,Genetic Counselor (Healthcare) Variant 574,23.7,Stable
+663,Management,Science (PCM),B.Tech Civil,10+2 + JEE,HR Manager (Management) Variant 575,8.3,Emerging
+664,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Pharmacist (Healthcare) Variant 576,22.7,Growing
+665,Law,Science (PCB),MBBS,10+2 + NEET,Judge (Law) Variant 577,11.5,Growing
+666,Government & Defense,Science (PCM),B.Tech Mechanical,10+2 + JEE,Defense Analyst (Government & Defense) Variant 578,21.1,Growing
+667,Education,Science (PCM),B.Tech Civil,10+2 + JEE,School Administrator (Education) Variant 579,11.8,Emerging
+668,Government & Defense,Science (PCM),B.Tech Civil,10+2 + JEE,Defense Analyst (Government & Defense) Variant 580,8.6,High
+669,Agriculture & Allied,Arts,BHM,Bachelor's + Cert,Farm Manager (Agriculture & Allied) Variant 581,19.2,Evergreen
+670,Science & Research,Science (PCB),B.Sc Nursing,10+2 + NEET,Physicist (Science & Research) Variant 582,16.7,Evergreen
+671,Green Energy,Science (PCB),BDS,10+2 + NEET,Environmental Analyst (Green Energy) Variant 583,7.7,High
+672,Hospitality & Travel,Science (PCM),B.Tech Civil,10+2 + JEE,Hotel Manager (Hospitality & Travel) Variant 584,13.0,High
+673,Media & Design,Science (PCB),MBBS,10+2 + NEET,Graphic Designer (Media & Design) Variant 585,22.3,Evergreen
+674,Space Tech,Science (PCM),B.Tech Civil,10+2 + JEE,Satellite Technician (Space Tech) Variant 586,5.9,High
+675,AI & ML,Commerce,B.Com,10+2 + CLAT,Machine Learning Engineer (AI & ML) Variant 587,9.4,Evergreen
+676,Management,Science (PCM),B.Tech Civil,10+2 + JEE,Startup Founder (Management) Variant 588,8.4,Evergreen
+677,Green Energy,Science (PCB),BDS,10+2 + NEET,Environmental Analyst (Green Energy) Variant 589,3.9,Growing
+678,Law,Any Stream,LLB,10+2 + CLAT,Corporate Lawyer (Law) Variant 590,9.1,Evergreen
+679,Space Tech,Any Stream,LLB,Bachelor's + Cert,Space Engineer (Space Tech) Variant 591,13.9,Evergreen
+680,Agriculture & Allied,Any Stream,BA Psychology,Bachelor's + UPSC,Agri-Business Manager (Agriculture & Allied) Variant 592,21.5,High
+681,Science & Research,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Physicist (Science & Research) Variant 593,19.8,Growing
+682,Gig Economy,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Gig Worker Coordinator (Gig Economy) Variant 594,15.8,Stable
+683,Green Energy,Commerce,BA Psychology,10+2 + Bachelor's,Environmental Analyst (Green Energy) Variant 595,3.4,Evergreen
+684,IT & Technology,Science (PCM),B.Tech Civil,10+2 + JEE,Cybersecurity Analyst (IT & Technology) Variant 596,24.0,Stable
+685,Hospitality & Travel,Science (PCB),BDS,10+2 + NEET,Travel Agent (Hospitality & Travel) Variant 597,23.8,Growing
+686,Media & Design,Science (PCM),B.Tech Civil,10+2 + JEE,Film Director (Media & Design) Variant 598,8.3,High
+687,Education,Science (PCB),B.Sc Nursing,10+2 + NEET,Professor (Education) Variant 599,5.7,Evergreen
+688,Cybersecurity,Science (PCB),BDS,10+2 + NEET,Security Analyst (Cybersecurity) Variant 600,17.3,Emerging
+689,Arts & Humanities,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Writer (Arts & Humanities) Variant 601,17.0,Growing
+690,FinTech,Any Stream,B.Com,Bachelor's + UPSC,Digital Banker (FinTech) Variant 602,18.2,Emerging
+691,Cybersecurity,Any Stream,LLB,Bachelor's + Cert,Incident Responder (Cybersecurity) Variant 603,6.6,Growing
+692,Space Tech,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Drone Pilot (Space Tech) Variant 604,18.2,Evergreen
+693,Law,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Lawyer (Law) Variant 605,7.2,High
+694,AI & ML,Science (PCM),B.Pharma,10+2 + NEET,Prompt Engineer (AI & ML) Variant 606,19.5,High
+695,Engineering,Science (PCB),MBBS,10+2 + NEET,EV Designer (Engineering) Variant 607,12.4,High
+696,Engineering,Science (PCM),B.Pharma,10+2 + NEET,EV Designer (Engineering) Variant 608,16.2,Stable
+697,Law,Science (PCB),B.Pharma,10+2 + NEET,Legal Advisor (Law) Variant 609,22.8,Emerging
+698,Cybersecurity,Science (PCM),B.Tech Civil,10+2 + JEE,Incident Responder (Cybersecurity) Variant 610,18.3,Emerging
+699,Science & Research,Science (PCM),B.Tech CSE,10+2 + JEE,Research Scientist (Science & Research) Variant 611,12.2,Stable
+700,Healthcare,Science (PCM),B.Tech Aerospace,10+2 + JEE,Pharmacist (Healthcare) Variant 612,22.4,Evergreen
+701,Law,Science (PCB),MBBS,10+2 + NEET,Legal Advisor (Law) Variant 613,21.5,Stable
+702,Cybersecurity,Science (PCM/CS),B.Sc Data Science,10+2 + CLAT,Incident Responder (Cybersecurity) Variant 614,6.3,Emerging
+703,Agriculture & Allied,Science (PCM),B.Tech Mechanical,10+2 + JEE,Agricultural Engineer (Agriculture & Allied) Variant 615,13.8,High
+704,Media & Design,Commerce,BA Psychology,10+2 + CLAT,Graphic Designer (Media & Design) Variant 616,17.3,Growing
+705,Engineering,Science (PCB),MBBS,10+2 + NEET,3D Printing Specialist (Engineering) Variant 617,9.5,Emerging
+706,AI & ML,Science (PCB),B.Pharma,10+2 + NEET,Metaverse Designer (AI & ML) Variant 618,5.6,Emerging
+707,Gig Economy,Science (PCB),B.Pharma,10+2 + NEET,Freelancer (Gig Economy) Variant 619,20.3,Growing
+708,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Agricultural Engineer (Agriculture & Allied) Variant 620,18.0,High
+709,Science & Research,Any Stream,LLB,10+2 + Diploma,Research Scientist (Science & Research) Variant 621,12.6,Emerging
+710,IT & Technology,Science (PCM),B.Tech Civil,10+2 + JEE,Full-Stack Developer (IT & Technology) Variant 622,15.2,Growing
+711,Cybersecurity,Science (PCM),B.Pharma,10+2 + NEET,Ethical Hacker (Cybersecurity) Variant 623,24.5,Evergreen
+712,Science & Research,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Physicist (Science & Research) Variant 624,10.6,Emerging
+713,Cybersecurity,Science (PCB),MBBS,10+2 + NEET,Security Analyst (Cybersecurity) Variant 625,5.6,Evergreen
+714,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Chemist (Science & Research) Variant 626,19.6,High
+715,Media & Design,Science (PCB),BDS,10+2 + NEET,Journalist (Media & Design) Variant 627,21.0,Stable
+716,Healthcare,Arts,BHM,10+2 + Diploma,Physiotherapist (Healthcare) Variant 628,7.9,Evergreen
+717,FinTech,Science (PCM),B.Tech Civil,10+2 + JEE,Digital Banker (FinTech) Variant 629,8.3,Emerging
+718,Government & Defense,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Defense Analyst (Government & Defense) Variant 630,17.2,High
+719,IT & Technology,Science (PCB),B.Sc Nursing,10+2 + NEET,Data Scientist (IT & Technology) Variant 631,19.5,Stable
+720,Hospitality & Travel,Any Stream,B.Com,10+2 + Bachelor's,Chef (Hospitality & Travel) Variant 632,13.8,Stable
+721,Education,Science (PCM),B.Pharma,10+2 + NEET,Educational Consultant (Education) Variant 633,20.7,Growing
+722,Gig Economy,Science (PCB),B.Sc Nursing,10+2 + NEET,Platform Developer (Gig Economy) Variant 634,14.2,Emerging
+723,Cybersecurity,Science (PCB),B.Pharma,10+2 + NEET,Security Analyst (Cybersecurity) Variant 635,18.2,Emerging
+724,Education,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Teacher (Education) Variant 636,17.0,Stable
+725,Government & Defense,Science (PCB),MBBS,10+2 + NEET,Policy Maker (Government & Defense) Variant 637,6.9,Stable
+726,Science & Research,Science (PCB),B.Pharma,10+2 + NEET,Chemist (Science & Research) Variant 638,4.8,Emerging
+727,Government & Defense,Science (PCB),B.Pharma,10+2 + NEET,Civil Servant (Government & Defense) Variant 639,17.7,Evergreen
+728,Arts & Humanities,Science (PCB),MBBS,10+2 + NEET,Writer (Arts & Humanities) Variant 640,10.7,Stable
+729,Law,Science (PCM),B.Tech Civil,10+2 + JEE,Judge (Law) Variant 641,13.9,High
+730,Science & Research,Science (PCM),B.Tech Civil,10+2 + JEE,Research Scientist (Science & Research) Variant 642,15.0,Growing
+731,Space Tech,Arts,BA Psychology,10+2 + Bachelor's,Drone Pilot (Space Tech) Variant 643,20.9,Stable
+732,Agriculture & Allied,Science (PCB),MBBS,10+2 + NEET,Agri-Business Manager (Agriculture & Allied) Variant 644,5.8,Growing
+733,Healthcare,Science (PCB),B.Sc Nursing,10+2 + NEET,Nurse (Healthcare) Variant 645,7.8,High
+734,Engineering,Science (PCB),B.Sc Nursing,10+2 + NEET,EV Designer (Engineering) Variant 646,9.1,Evergreen
+735,Arts & Humanities,Science (PCB),BDS,10+2 + NEET,Artist (Arts & Humanities) Variant 647,21.6,Emerging
+736,Management,Any Stream,B.Com,Bachelor's + Cert,Operations Manager (Management) Variant 648,4.0,Growing
+737,AI & ML,Science (PCB),B.Pharma,10+2 + NEET,Sustainability Consultant (AI & ML),14.6,Stable
+738,Gig Economy,Any Stream,BA Psychology,10+2 + Bachelor's,Marketing Manager (Gig),7,Emerging
+739,FinTech,Arts,LLB,10+2 + Diploma,CA (FinTech),3.6,Growing
+740,Arts & Humanities,Science (PCM),B.Com,10+2 + CLAT,Drone Pilot (Arts),5,Evergreen
+741,Healthcare,Science (PCM),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Ayurvedic Doctor (Healthcare),20.9,Emerging
+742,Gig Economy,Science (PCM),BA Psychology,10+2 + CLAT,Marketing Manager (Gig) Variant 962,19.3,Evergreen
+743,FinTech,Arts,BHM,Bachelor's + Cert,Investment Banker (FinTech),22.3,Growing
+744,Space Tech,Commerce,B.Com,10+2 + CLAT,Marketing Manager (Space),11.2,High
+745,Finance & Commerce,Science (PCB),B.Sc Data Science,10+2 + Bachelor's,Tax Consultant (Finance),4.2,Evergreen
+746,AI & ML,Science (PCM),BHM,10+2 + Diploma,Sustainability Consultant (AI),22.2,Growing
+747,Cybersecurity,Science (PCB),B.Tech Mechanical,10+2 + JEE,Metaverse Designer (Cybersecurity),8.8,High
+748,FinTech,Arts,B.Com,10+2 + Bachelor's,Investment Banker (FinTech),23,High
+749,Agriculture & Allied,Science (PCM),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,HR Manager (Agriculture),9.9,Stable
+750,Government & Defense,Science (PCM),B.Sc Data Science,10+2 + Diploma,Quantum Computing Researcher (Government),24.7,Emerging
+751,Law,Any Stream,BHM,Bachelor's + UPSC,Startup Founder (Law),19.4,High
+752,Gig Economy,Science (PCM),B.Pharma,10+2 + NEET,Prompt Engineer (Gig),11.5,Evergreen
+753,Law,Commerce,B.Com,Bachelor's + UPSC,Startup Founder (Law),7.8,Growing
+754,Green Energy,Science (PCM),MBBS,10+2 + NEET,Sustainability Consultant (Green),11.4,Stable
+755,Cybersecurity,Commerce,B.Sc Data Science,10+2 + CLAT,Metaverse Designer (Cybersecurity),16.5,Emerging
+756,Gig Economy,Commerce,MBBS,10+2 + NEET,HR Manager (Gig),16.6,Growing
+757,Agriculture & Allied,Science (PCB),BA Psychology,10+2 + CLAT,Startup Founder (Agriculture),3.5,Evergreen
+758,Gig Economy,Any Stream,LLB,Bachelor's + Cert,Marketing Manager (Gig),21.9,Stable
+759,Agriculture & Allied,Science (PCB),B.Sc Data Science,Bachelor's + Cert,Startup Founder (Agriculture),10.5,Evergreen
+760,Green Energy,Any Stream,BA Psychology,10+2 + CLAT,Startup Founder (Green),10.2,Stable
+761,E-Commerce,Science (PCM/CS),B.Sc Data Science,Bachelor's + UPSC,Startup Founder (E-Commerce),21.7,Evergreen
+762,Space Tech,Science (PCM/CS),BA Psychology,10+2 + CLAT,Operations Manager (Space),19.3,Evergreen
+763,Management,Science (PCM),BHM,10+2 + Diploma,Operations Manager (Management),9.3,Growing
+764,Education,Arts,B.Tech Aerospace,10+2 + JEE,Prompt Engineer (Education),23.4,Evergreen
+765,Engineering,Any Stream,BA Psychology,10+2 + Diploma,EV Designer (Engineering),23.5,Emerging
+766,Green Energy,Science (PCB),B.Tech Mechanical,10+2 + JEE,Quantum Computing Researcher (Green),5.2,Stable
+767,E-Commerce,Science (PCM),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (E-Commerce),16.2,Evergreen
+768,Healthcare,Science (PCB),B.Com,10+2 + CLAT,Ayurvedic Doctor (Healthcare),24.3,Evergreen
+769,E-Commerce,Science (PCB),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,HR Manager (E-Commerce),18.9,Evergreen
+770,E-Commerce,Science (PCM/CS),LLB,10+2 + Diploma,Sustainability Consultant (E-Commerce),13.8,Growing
+771,Government & Defense,Commerce,BA Psychology,10+2 + CLAT,Startup Founder (Government),20.9,Emerging
+772,Media & Design,Commerce,BA Psychology,10+2 + CLAT,Prompt Engineer (Media),9.1,Evergreen
+773,Agriculture & Allied,Science (PCB),LLB,Bachelor's + UPSC,Metaverse Designer (Agriculture),23.3,High
+774,IT & Technology,Science (PCB),BHM,Bachelor's + UPSC,Full-Stack Developer (IT),13.4,Emerging
+775,Media & Design,Any Stream,MBBS,10+2 + NEET,Prompt Engineer (Media),16.7,Stable
+776,Media & Design,Arts,BHM,Bachelor's + Cert,Prompt Engineer (Media),9.2,High
+777,FinTech,Commerce,B.Tech Aerospace,10+2 + JEE,Tax Consultant (FinTech),21.6,Growing
+778,Media & Design,Any Stream,B.Tech Mechanical,10+2 + JEE,Startup Founder (Media),4.4,Growing
+779,Government & Defense,Science (PCB),B.Tech Aerospace,10+2 + JEE,Startup Founder (Government),21.4,Evergreen
+780,Law,Science (PCM),BA Psychology,10+2 + CLAT,Marketing Manager (Law),5.2,Evergreen
+781,Healthcare,Commerce,BA Psychology,10+2 + Bachelor's,Pharmacist (Healthcare),10.6,Growing
+782,Green Energy,Any Stream,BHM,Bachelor's + Cert,Drone Pilot (Green),22.5,Evergreen
+783,Media & Design,Commerce,B.Tech Mechanical,10+2 + JEE,Marketing Manager (Media),15.4,High
+784,AI & ML,Arts,LLB,Bachelor's + Cert,Prompt Engineer (AI),21.7,Growing
+785,Management,Any Stream,B.Sc Data Science,10+2 + Bachelor's,Quantum Computing Researcher (Management),9.2,High
+786,Agriculture & Allied,Science (PCB),BA Psychology,10+2 + CLAT,Sustainability Consultant (Agriculture),23.1,Evergreen
+787,Hospitality & Travel,Science (PCM/CS),BA Psychology,10+2 + CLAT,Operations Manager (Hospitality),14.3,Growing
+788,Agriculture & Allied,Science (PCB),BHM,10+2 + Bachelor's,Marketing Manager (Agriculture),21.9,Emerging
+789,Healthcare,Arts,BA Psychology,10+2 + Diploma,Nurse (Healthcare),15.7,Emerging
+790,Science & Research,Arts,B.Sc Data Science,10+2 + CLAT,Supply Chain Manager (Science),22.8,Evergreen
+791,Science & Research,Arts,BA Psychology,Bachelor's + UPSC,Marketing Manager (Science),13.5,Emerging
+792,Engineering,Commerce,B.Com,10+2 + CLAT,EV Designer (Engineering),7.6,Emerging
+793,Management,Arts,B.Sc Data Science,10+2 + CLAT,HR Manager (Management),21.6,Evergreen
+794,Space Tech,Any Stream,BHM,10+2 + CLAT,Startup Founder (Space),10,Emerging
+795,Agriculture & Allied,Science (PCB),LLB,10+2 + CLAT,HR Manager (Agriculture),14.1,Evergreen
+796,Cybersecurity,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Blockchain Developer (Cybersecurity),5.7,Growing
+797,Green Energy,Science (PCB),BA Psychology,10+2 + CLAT,Metaverse Designer (Green),13.7,Growing
+798,Green Energy,Science (PCM/CS),B.Pharma,10+2 + NEET,Prompt Engineer (Green),16.8,High
+799,Education,Arts,BA Psychology,Bachelor's + Cert,Operations Manager (Education),3.7,Evergreen
+800,E-Commerce,Any Stream,LLB,10+2 + Bachelor's,Quantum Computing Researcher (E-Commerce),24,Growing
+801,Space Tech,Commerce,B.Tech Aerospace,10+2 + JEE,Metaverse Designer (Space),8.3,Evergreen
+802,Engineering,Science (PCM),BA Psychology,10+2 + CLAT,Robotics Engineer (Engineering),19.3,High
+803,Healthcare,Science (PCM),BHM,Bachelor's + UPSC,Physiotherapist (Healthcare),16.4,Evergreen
+804,FinTech,Commerce,B.Pharma,10+2 + NEET,Tax Consultant (FinTech),9.6,Growing
+805,IT & Technology,Science (PCB),B.Tech Civil,10+2 + JEE,Drone Pilot (IT),22,Growing
+806,Law,Science (PCB),B.Tech Civil,10+2 + JEE,Prompt Engineer (Law),12.2,High
+807,Science & Research,Commerce,BA Psychology,10+2 + Diploma,Metaverse Designer (Science),23.5,Stable
+808,Government & Defense,Science (PCB),B.Com,10+2 + Diploma,Drone Pilot (Government),18.8,High
+809,AI & ML,Arts,LLB,10+2 + Diploma,Drone Pilot (AI),23.7,Emerging
+810,Finance & Commerce,Science (PCM/CS),BA Psychology,Bachelor's + UPSC,CA (Finance),22,Emerging
+811,Gig Economy,Commerce,LLB,10+2 + Diploma,Supply Chain Manager (Gig),22.3,Growing
+812,Cybersecurity,Commerce,BHM,Bachelor's + Cert,Cybersecurity Analyst (Cybersecurity),9.4,Growing
+813,Management,Arts,LLB,10+2 + Bachelor's,Marketing Manager (Management),9.6,Emerging
+814,E-Commerce,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (E-Commerce),3.2,Evergreen
+815,Finance & Commerce,Science (PCM/CS),MBBS,10+2 + NEET,Investment Banker (Finance),3.2,Growing
+816,Science & Research,Arts,BA Psychology,10+2 + Diploma,Supply Chain Manager (Science),13.1,Stable
+817,E-Commerce,Arts,LLB,Bachelor's + Cert,HR Manager (E-Commerce),24.2,Evergreen
+818,Gig Economy,Science (PCM),B.Tech Mechanical,10+2 + JEE,Supply Chain Manager (Gig),6,Emerging
+819,Education,Any Stream,LLB,10+2 + Bachelor's,Operations Manager (Education),15.4,Evergreen
+820,Green Energy,Science (PCM),LLB,Bachelor's + UPSC,HR Manager (Green),13.5,Growing
+821,Arts & Humanities,Science (PCM),B.Tech Mechanical,10+2 + JEE,Metaverse Designer (Arts),13.7,Emerging
+822,Space Tech,Any Stream,LLB,10+2 + Diploma,Startup Founder (Space),15,High
+823,Management,Arts,MBBS,10+2 + NEET,Prompt Engineer (Management),9.1,High
+824,IT & Technology,Arts,BHM,10+2 + Bachelor's,Metaverse Designer (IT),11.6,Stable
+825,Hospitality & Travel,Any Stream,LLB,10+2 + CLAT,Metaverse Designer (Hospitality),10,Evergreen
+826,Healthcare,Arts,B.Sc Data Science,Bachelor's + Cert,Dentist (Healthcare),8.7,High
+827,Science & Research,Science (PCM),B.Sc Data Science,10+2 + CLAT,Marketing Manager (Science),23.9,Growing
+828,Media & Design,Science (PCM/CS),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Sustainability Consultant (Media),3.3,Growing
+829,Finance & Commerce,Science (PCM/CS),B.Tech Civil,10+2 + JEE,Actuary (Finance),22.1,Stable
+830,Law,Science (PCM),BHM,10+2 + Diploma,Startup Founder (Law),4.2,High
+831,IT & Technology,Science (PCM),B.Tech CSE,10+2 + JEE,DevOps Engineer (IT),13.3,High
+832,Science & Research,Any Stream,B.Com,10+2 + CLAT,Sustainability Consultant (Science),24.7,Stable
+833,Law,Arts,BDS,10+2 + NEET,Operations Manager (Law),12.4,High
+834,Gig Economy,Science (PCM/CS),LLB,10+2 + Diploma,Drone Pilot (Gig),21,Emerging
+835,Arts & Humanities,Science (PCB),BHM,Bachelor's + Cert,Metaverse Designer (Arts),4.7,Evergreen
+836,IT & Technology,Commerce,B.Com,10+2 + Bachelor's,Prompt Engineer (IT),8,High
+837,Law,Commerce,LLB,10+2 + CLAT,HR Manager (Law),4.5,Evergreen
+838,Agriculture & Allied,Science (PCM/CS),BA Psychology,Bachelor's + Cert,Supply Chain Manager (Agriculture),18,Emerging
+839,Engineering,Any Stream,LLB,Bachelor's + UPSC,Mechanical Engineer (Engineering),17.6,High
+840,Engineering,Science (PCB),LLB,10+2 + Diploma,EV Designer (Engineering),4.3,Emerging
+841,Finance & Commerce,Arts,B.Com,10+2 + CLAT,Actuary (Finance),6.8,Growing
+842,Space Tech,Commerce,B.Tech Aerospace,10+2 + JEE,Drone Pilot (Space),13.4,Evergreen
+843,E-Commerce,Any Stream,LLB,10+2 + CLAT,Startup Founder (E-Commerce),8.4,Evergreen
+844,Cybersecurity,Any Stream,B.Com,Bachelor's + UPSC,Data Scientist (Cybersecurity),16.4,Emerging
+845,Arts & Humanities,Commerce,MBBS,10+2 + NEET,Startup Founder (Arts),8,Evergreen
+846,Healthcare,Science (PCM),B.Sc Data Science,10+2 + CLAT,Nurse (Healthcare),8.3,High
+847,Government & Defense,Science (PCM/CS),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (Government),23.7,Growing
+848,Arts & Humanities,Science (PCM/CS),LLB,Bachelor's + UPSC,Prompt Engineer (Arts),21.7,Growing
+849,Agriculture & Allied,Science (PCM),BDS,10+2 + NEET,Prompt Engineer (Agriculture),16.8,Growing
+850,Green Energy,Any Stream,LLB,10+2 + Bachelor's,Metaverse Designer (Green),21,Evergreen
+851,Engineering,Science (PCB),B.Sc Data Science,10+2 + Bachelor's,Mechanical Engineer (Engineering),10.6,Emerging
+852,FinTech,Science (PCB),B.Tech CSE,10+2 + JEE,Investment Banker (FinTech),13.5,High
+853,Finance & Commerce,Any Stream,B.Tech Aerospace,10+2 + JEE,Forensic Accountant (Finance),19.8,Evergreen
+854,Cybersecurity,Science (PCM/CS),B.Com,10+2 + Bachelor's,Prompt Engineer (Cybersecurity),17.7,Growing
+855,Education,Arts,MBBS,10+2 + NEET,Startup Founder (Education),8.1,Evergreen
+856,Agriculture & Allied,Commerce,BA Psychology,10+2 + CLAT,Startup Founder (Agriculture),9.1,Evergreen
+857,Government & Defense,Any Stream,B.Sc Nursing,10+2 + NEET,Metaverse Designer (Government),11.5,Evergreen
+858,E-Commerce,Science (PCB),BDS,10+2 + NEET,Sustainability Consultant (E-Commerce),13.7,Growing
+859,AI & ML,Science (PCM),B.Com,10+2 + Diploma,Cloud Architect (AI),6.1,High
+860,Green Energy,Science (PCM/CS),LLB,10+2 + Diploma,HR Manager (Green),16.9,High
+861,Management,Commerce,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Startup Founder (Management),17.4,Growing
+862,Management,Commerce,B.Sc Data Science,10+2 + Diploma,Operations Manager (Management),12.1,Evergreen
+863,Management,Any Stream,B.Sc Data Science,10+2 + Diploma,Marketing Manager (Management),12.2,Evergreen
+864,Media & Design,Science (PCB),BHM,Bachelor's + Cert,Metaverse Designer (Media),7.7,Evergreen
+865,FinTech,Arts,BA Psychology,10+2 + CLAT,Actuary (FinTech),4.4,Emerging
+866,Gig Economy,Science (PCM/CS),B.Tech Aerospace,10+2 + JEE,Supply Chain Manager (Gig),8.9,Evergreen
+867,Finance & Commerce,Science (PCB),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Tax Consultant (Finance),17.3,Stable
+868,Science & Research,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Prompt Engineer (Science),11.6,Growing
+869,Hospitality & Travel,Science (PCM),B.Tech Aerospace,10+2 + JEE,HR Manager (Hospitality),9.9,High
+870,Healthcare,Commerce,B.Com,Bachelor's + Cert,Medical Researcher (Healthcare),21.5,Growing
+871,Education,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (Education),17.5,Stable
+872,Education,Science (PCM),LLB,10+2 + Diploma,HR Manager (Education),12.9,Evergreen
+873,E-Commerce,Arts,BHM,Bachelor's + Cert,HR Manager (E-Commerce),4.1,High
+874,Government & Defense,Science (PCM),B.Sc Data Science,10+2 + CLAT,Operations Manager (Government),3.3,Evergreen
+875,Cybersecurity,Arts,LLB,Bachelor's + Cert,Metaverse Designer (Cybersecurity),10.7,Stable
+876,Law,Science (PCM/CS),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Operations Manager (Law),6.8,Evergreen
+877,Management,Any Stream,BA Psychology,Bachelor's + UPSC,Drone Pilot (Management),3.5,Emerging
+878,Gig Economy,Science (PCM),B.Tech Civil,10+2 + JEE,Marketing Manager (Gig),7.5,High
+879,Finance & Commerce,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Forensic Accountant (Finance),4.5,High
+880,FinTech,Science (PCB),LLB,10+2 + CLAT,Tax Consultant (FinTech),13.4,Growing
+881,Hospitality & Travel,Arts,B.Sc Data Science,Bachelor's + Cert,Marketing Manager (Hospitality),4,High
+882,Education,Science (PCB),B.Com,10+2 + Diploma,Sustainability Consultant (Education),11.3,Emerging
+883,FinTech,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Forensic Accountant (FinTech),23.4,Emerging
+884,E-Commerce,Any Stream,B.Tech CSE,10+2 + JEE,Drone Pilot (E-Commerce),9.3,High
+885,Agriculture & Allied,Science (PCM),BHM,10+2 + Diploma,Marketing Manager (Agriculture),19.6,Evergreen
+886,Education,Any Stream,LLB,Bachelor's + Cert,Metaverse Designer (Education),4.2,Stable
+887,Hospitality & Travel,Science (PCB),B.Sc Nursing,10+2 + NEET,Supply Chain Manager (Hospitality),5,Growing
+888,AI & ML,Science (PCM/CS),LLB,10+2 + Diploma,Blockchain Developer (AI),19.1,Stable
+889,Management,Arts,B.Tech Civil,10+2 + JEE,Drone Pilot (Management),9.5,Stable
+890,Law,Commerce,BHM,10+2 + Diploma,Sustainability Consultant (Law),6.5,Growing
+891,Space Tech,Science (PCM),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Supply Chain Manager (Space),22.4,Emerging
+892,Education,Science (PCM/CS),BA Psychology,Bachelor's + Cert,Quantum Computing Researcher (Education),7.5,Growing
+893,Green Energy,Science (PCM/CS),B.Com,10+2 + Bachelor's,Marketing Manager (Green),11.3,High
+894,Cybersecurity,Commerce,BA Psychology,Bachelor's + UPSC,Metaverse Designer (Cybersecurity),21.5,Emerging
+895,Gig Economy,Any Stream,BA Psychology,Bachelor's + UPSC,Sustainability Consultant (Gig),19.7,Emerging
+896,Government & Defense,Science (PCM/CS),B.Sc Data Science,10+2 + Diploma,Metaverse Designer (Government),24.9,Emerging
+897,AI & ML,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,DevOps Engineer (AI),20.2,Stable
+898,Management,Any Stream,BHM,10+2 + CLAT,Prompt Engineer (Management),3.6,Emerging
+899,Hospitality & Travel,Commerce,B.Tech Civil,10+2 + JEE,Metaverse Designer (Hospitality),13.6,Stable
+900,Management,Science (PCB),LLB,10+2 + Diploma,Startup Founder (Management),4.2,Growing
+901,FinTech,Science (PCM/CS),LLB,10+2 + Diploma,Tax Consultant (FinTech),10.1,Stable
+902,Hospitality & Travel,Commerce,BHM,Bachelor's + UPSC,Quantum Computing Researcher (Hospitality),20.3,Stable
+903,Space Tech,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (Space),19.2,High
+904,FinTech,Commerce,B.Tech Aerospace,10+2 + JEE,Financial Analyst (FinTech),19.2,Stable
+905,Hospitality & Travel,Science (PCM),B.Tech Aerospace,10+2 + JEE,Prompt Engineer (Hospitality),13.9,Stable
+906,AI & ML,Any Stream,B.Sc Data Science,10+2 + Diploma,Sustainability Consultant (AI),19.3,Growing
+907,Space Tech,Arts,B.Tech CSE,10+2 + JEE,Startup Founder (Space),24.6,Stable
+908,Hospitality & Travel,Science (PCM/CS),B.Tech CSE,10+2 + JEE,Prompt Engineer (Hospitality),18.3,Stable
+909,Hospitality & Travel,Science (PCM/CS),BA Psychology,10+2 + CLAT,Operations Manager (Hospitality),21.8,Growing
+910,E-Commerce,Arts,LLB,10+2 + CLAT,Supply Chain Manager (E-Commerce),20.7,Growing
+911,Management,Commerce,LLB,Bachelor's + UPSC,Quantum Computing Researcher (Management),4.1,Growing
+912,Engineering,Science (PCM),LLB,Bachelor's + Cert,Civil Engineer (Engineering),19.8,Emerging
+913,Agriculture & Allied,Commerce,B.Tech Aerospace,10+2 + JEE,Startup Founder (Agriculture),13.4,Evergreen
+914,Agriculture & Allied,Science (PCB),LLB,Bachelor's + UPSC,Prompt Engineer (Agriculture),18.5,Growing
+915,Education,Science (PCB),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,HR Manager (Education),14.4,High
+916,Science & Research,Arts,BHM,Bachelor's + UPSC,HR Manager (Science),4.7,Growing
+917,Arts & Humanities,Science (PCB),BA Psychology,Bachelor's + UPSC,Quantum Computing Researcher (Arts),21.1,Growing
+918,Agriculture & Allied,Science (PCM),B.Sc Data Science,Bachelor's + Cert,Operations Manager (Agriculture),3.7,High
+919,Law,Science (PCM),B.Pharma,10+2 + NEET,Drone Pilot (Law),18.7,Emerging
+920,AI & ML,Science (PCM/CS),B.Sc Data Science,10+2 + Diploma,AI Engineer (AI),22.7,Emerging
+921,Arts & Humanities,Science (PCB),B.Sc Data Science,Bachelor's + UPSC,Quantum Computing Researcher (Arts),3.9,Emerging
+922,Media & Design,Any Stream,LLB,10+2 + Bachelor's,Marketing Manager (Media),8.4,Evergreen
+923,Hospitality & Travel,Science (PCM/CS),B.Sc Nursing,10+2 + NEET,Operations Manager (Hospitality),13.3,Evergreen
+924,Education,Arts,B.Sc Data Science,10+2 + Diploma,Supply Chain Manager (Education),6.6,Growing
+925,E-Commerce,Any Stream,B.Com,10+2 + CLAT,Drone Pilot (E-Commerce),13.9,Emerging
+926,Media & Design,Any Stream,B.Com,10+2 + Bachelor's,Prompt Engineer (Media),21.5,High
+927,Cybersecurity,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Sustainability Consultant (Cybersecurity),11.2,Emerging
+928,FinTech,Science (PCM),LLB,10+2 + Bachelor's,CA (FinTech),3.6,Growing
+929,Finance & Commerce,Science (PCB),LLB,10+2 + Diploma,Investment Banker (Finance),12.3,Growing
+930,E-Commerce,Science (PCM/CS),MBBS,10+2 + NEET,Prompt Engineer (E-Commerce),7.6,Evergreen
+931,FinTech,Arts,B.Sc Data Science,10+2 + Diploma,CA (FinTech),20.1,Emerging
+932,Space Tech,Any Stream,LLB,10+2 + Diploma,Quantum Computing Researcher (Space),11.2,Growing
+933,Management,Arts,LLB,Bachelor's + UPSC,Sustainability Consultant (Management),11.9,High
+934,Cybersecurity,Science (PCB),B.Com,10+2 + Diploma,Full-Stack Developer (Cybersecurity),11.6,High
+935,Healthcare,Science (PCM/CS),B.Com,10+2 + CLAT,Medical Researcher (Healthcare),20,Emerging
+936,Hospitality & Travel,Science (PCM/CS),BDS,10+2 + NEET,Operations Manager (Hospitality),6.7,Growing
+937,Media & Design,Commerce,B.Com,Bachelor's + UPSC,Sustainability Consultant (Media),12.9,Stable
+938,Agriculture & Allied,Science (PCM),B.Tech Aerospace,10+2 + JEE,Prompt Engineer (Agriculture),11.3,Stable
+939,Management,Arts,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Supply Chain Manager (Management),20.2,Emerging
+940,AI & ML,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Drone Pilot (AI),5.5,Growing
+941,Green Energy,Science (PCB),B.Tech Aerospace,10+2 + JEE,Supply Chain Manager (Green),4.1,High
+942,Engineering,Any Stream,B.Sc Data Science,10+2 + CLAT,Robotics Engineer (Engineering),10,High
+943,E-Commerce,Any Stream,MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Quantum Computing Researcher (E-Commerce),11.7,Growing
+944,Government & Defense,Any Stream,BDS,10+2 + NEET,Sustainability Consultant (Government),24.4,Stable
+945,FinTech,Commerce,BHM,Bachelor's + UPSC,Tax Consultant (FinTech),6.2,Growing
+946,Media & Design,Commerce,BA Psychology,10+2 + Diploma,Drone Pilot (Media),7.1,Evergreen
+947,Arts & Humanities,Arts,BA Psychology,10+2 + Diploma,Prompt Engineer (Arts),17.6,Growing
+948,Government & Defense,Science (PCB),BA Psychology,10+2 + Bachelor's,Marketing Manager (Government),16.6,High
+949,Agriculture & Allied,Science (PCM/CS),LLB,Bachelor's + Cert,Sustainability Consultant (Agriculture),17.9,Stable
+950,Space Tech,Any Stream,B.Com,10+2 + CLAT,Supply Chain Manager (Space),5.3,Emerging
+951,Healthcare,Science (PCB),B.Com,Bachelor's + Cert,Ayurvedic Doctor (Healthcare),22.1,High
+952,Space Tech,Arts,B.Tech CSE,10+2 + JEE,Supply Chain Manager (Space),9.4,Stable
+953,Finance & Commerce,Science (PCB),LLB,10+2 + CLAT,Forensic Accountant (Finance),17.7,Growing
+954,FinTech,Arts,B.Tech Civil,10+2 + JEE,ESG Analyst (FinTech),22.1,High
+955,Law,Science (PCM),LLB,10+2 + CLAT,HR Manager (Law),16.4,Evergreen
+956,E-Commerce,Commerce,B.Com,10+2 + CLAT,Sustainability Consultant (E-Commerce),8.2,High
+957,Engineering,Commerce,B.Sc Data Science,Bachelor's + UPSC,Mechanical Engineer (Engineering),16.3,Growing
+958,Healthcare,Any Stream,B.Tech CSE,10+2 + JEE,Pharmacist (Healthcare),22,Growing
+959,Arts & Humanities,Commerce,B.Com,10+2 + CLAT,Quantum Computing Researcher (Arts),11.4,Growing
+960,Space Tech,Arts,B.Sc Data Science,10+2 + Diploma,Startup Founder (Space),19.8,Growing
+961,Agriculture & Allied,Science (PCM/CS),B.Sc Data Science,10+2 + Bachelor's,Supply Chain Manager (Agriculture),3.2,Evergreen
+962,AI & ML,Science (PCM),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Drone Pilot (AI),11.4,Emerging
+963,Hospitality & Travel,Any Stream,BHM,10+2 + Bachelor's,Marketing Manager (Hospitality),16.6,Evergreen
+964,Cybersecurity,Any Stream,LLB,10+2 + Bachelor's,Quantum Computing Researcher (Cybersecurity),14.9,Growing
+965,Finance & Commerce,Any Stream,MBBS,10+2 + NEET,Investment Banker (Finance),24.5,Growing
+966,Government & Defense,Commerce,MBBS,10+2 + NEET,Metaverse Designer (Government),7.1,High
+967,Media & Design,Arts,B.Pharma,10+2 + NEET,Drone Pilot (Media),12.3,High
+968,Agriculture & Allied,Arts,BDS,10+2 + NEET,Metaverse Designer (Agriculture),21,Emerging
+969,Science & Research,Science (PCB),B.Tech Aerospace,10+2 + JEE,Quantum Computing Researcher (Science),12,Evergreen
+970,Media & Design,Science (PCM),B.Pharma,10+2 + NEET,Supply Chain Manager (Media),9,Stable
+971,Finance & Commerce,Commerce,B.Com,10+2 + Diploma,Investment Banker (Finance),5.1,Emerging
+972,Media & Design,Science (PCM),BHM,10+2 + Diploma,Marketing Manager (Media),6.7,Stable
+973,Agriculture & Allied,Science (PCB),B.Tech CSE,10+2 + JEE,Metaverse Designer (Agriculture),5.1,Evergreen
+974,AI & ML,Science (PCM/CS),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,AI Engineer (AI),15,Growing
+975,Science & Research,Any Stream,B.Com,10+2 + CLAT,Sustainability Consultant (Science),24.7,Stable
+976,Law,Arts,BDS,10+2 + NEET,Operations Manager (Law),12.4,High
+977,Gig Economy,Science (PCM/CS),LLB,10+2 + Diploma,Drone Pilot (Gig),21,Emerging
+978,Arts & Humanities,Science (PCB),BHM,Bachelor's + Cert,Metaverse Designer (Arts),4.7,Evergreen
+979,IT & Technology,Commerce,B.Com,10+2 + Bachelor's,Prompt Engineer (IT),8,High
+980,Law,Commerce,LLB,10+2 + CLAT,HR Manager (Law),4.5,Evergreen
+981,Agriculture & Allied,Science (PCM/CS),BA Psychology,Bachelor's + Cert,Supply Chain Manager (Agriculture),18,Emerging
+982,Engineering,Any Stream,LLB,Bachelor's + UPSC,Mechanical Engineer (Engineering),17.6,High
+983,Engineering,Science (PCB),LLB,10+2 + Diploma,EV Designer (Engineering),4.3,Emerging
+984,Finance & Commerce,Arts,B.Com,10+2 + CLAT,Actuary (Finance),6.8,Growing
+985,Space Tech,Commerce,B.Tech Aerospace,10+2 + JEE,Drone Pilot (Space),13.4,Evergreen
+986,E-Commerce,Any Stream,LLB,10+2 + CLAT,Startup Founder (E-Commerce),8.4,Evergreen
+987,Cybersecurity,Any Stream,B.Com,Bachelor's + UPSC,Data Scientist (Cybersecurity),16.4,Emerging
+988,Arts & Humanities,Commerce,MBBS,10+2 + NEET,Startup Founder (Arts),8,Evergreen
+989,Healthcare,Science (PCM),B.Sc Data Science,10+2 + CLAT,Nurse (Healthcare),8.3,High
+990,Government & Defense,Science (PCM/CS),MBA Finance/Marketing/HR,Bachelor's + CAT/MAT,Metaverse Designer (Government),23.7,Growing
+991,Arts & Humanities,Science (PCM/CS),LLB,Bachelor's + UPSC,Prompt Engineer (Arts),21.7,Growing
+992,Agriculture & Allied,Science (PCM),BDS,10+2 + NEET,Prompt Engineer (Agriculture),16.8,Growing
+993,Green Energy,Any Stream,LLB,10+2 + Bachelor's,Metaverse Designer (Green),21,Evergreen
+994,Engineering,Science (PCB),B.Sc Data Science,10+2 + Bachelor's,Mechanical Engineer (Engineering),10.6,Emerging
+995,FinTech,Science (PCB),B.Tech CSE,10+2 + JEE,Investment Banker (FinTech),13.5,High
+996,Finance & Commerce,Any Stream,B.Tech Aerospace,10+2 + JEE,Forensic Accountant (Finance),19.8,Evergreen
+997,Cybersecurity,Science (PCM/CS),B.Com,10+2 + Bachelor's,Prompt Engineer (Cybersecurity),17.7,Growing
+998,Education,Arts,MBBS,10+2 + NEET,Startup Founder (Education),8.1,Evergreen
+999,Agriculture & Allied,Commerce,BA Psychology,10+2 + CLAT,Startup Founder (Agriculture),9.1,Evergreen
+1000,Government & Defense,Any Stream,B.Sc Nursing,10+2 + NEET,Metaverse Designer (Government),11.5,Evergreen

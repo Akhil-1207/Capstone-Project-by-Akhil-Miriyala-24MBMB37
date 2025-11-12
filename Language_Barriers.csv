@@ -1,0 +1,1001 @@
+school_id,state,district,village,total_students,primary_language_spoken,teaching_language,percentage_non_native_speakers,barrier_severity,learning_impact_score,survey_year
+1,Odisha,Rourkela,Rajgangpur,152,Bhojpuri,Hindi,100.0,High,5,2025
+2,Madhya Pradesh,Sagar,Khurai,156,Telugu,Hindi,100.0,High,5,2023
+3,Uttar Pradesh,Allahabad,Karchana,152,Rajasthani,Hindi,81.7,High,6,2025
+4,Uttar Pradesh,Agra,Jagner,380,Bundeli,Hindi,82.6,High,6,2023
+5,Tamil Nadu,Chennai,Sholinganallur,149,Tamil,Hindi,63.6,Medium,7,2025
+6,Bihar,Patna,Phulwari,199,Bhojpuri,Hindi,58.4,Medium,7,2024
+7,Uttar Pradesh,Lucknow,Mal,343,Odia,Hindi,55.0,Medium,8,2023
+8,Andhra Pradesh,Vijayawada,Gannavaram,210,Marathi,English,73.3,Medium,7,2024
+9,Uttar Pradesh,Allahabad,Handia,302,Kannada,English,80.9,High,6,2023
+10,Tamil Nadu,Chennai,Avadi,108,Hindi,Hindi,54.0,Medium,6,2025
+11,Bihar,Darbhanga,Benipur,239,Tamil,English,60.4,Medium,7,2024
+12,Rajasthan,Jodhpur,Osian,100,Rajasthani,Hindi,77.9,High,6,2023
+13,Maharashtra,Amravati,Daryapur,180,Bengali,Hindi,100.0,High,5,2025
+14,Madhya Pradesh,Gwalior,Ghatigaon,70,Tamil,Hindi,82.0,High,6,2024
+15,West Bengal,Kolkata,Baruipur,437,Bengali,English,100.0,High,5,2024
+16,Tamil Nadu,Chennai,Maduravoyal,291,Hindi,English,78.1,High,6,2024
+17,Maharashtra,Nagpur,Saoner,102,Bhojpuri,English,68.9,Medium,7,2025
+18,Madhya Pradesh,Bhopal,Huzur,493,Odia,English,62.3,Medium,7,2023
+19,Karnataka,Mysore,Nanjangud,313,Magahi,English,57.1,Medium,8,2024
+20,West Bengal,Bardhaman,Katwa,130,Marathi,Hindi,70.5,Medium,7,2024
+21,Bihar,Bhagalpur,Sabour,439,Magahi,Hindi,67.5,Medium,7,2024
+22,Andhra Pradesh,Guntur,Tulluru,240,Telugu,Hindi,100.0,High,5,2024
+23,Odisha,Rourkela,Rajgangpur,251,Marathi,Hindi,100.0,High,5,2024
+24,Tamil Nadu,Coimbatore,Annur,400,Telugu,English,100.0,High,5,2024
+25,Odisha,Cuttack,Salepur,264,Bengali,Hindi,86.3,High,6,2024
+26,West Bengal,Durgapur,Faridpur,345,Bengali,Hindi,100.0,High,5,2023
+27,Uttar Pradesh,Gorakhpur,Campierganj,387,Telugu,Hindi,87.4,High,6,2024
+28,Tamil Nadu,Tiruchirappalli,Manachanallur,266,Magahi,Hindi,71.9,Medium,7,2023
+29,Maharashtra,Nagpur,Umred,90,Bundeli,Hindi,72.8,Medium,7,2023
+30,Tamil Nadu,Coimbatore,Kinathukadavu,114,Kannada,English,55.9,Medium,8,2023
+31,Bihar,Darbhanga,Keotiranway,393,Magahi,Hindi,78.7,High,6,2025
+32,Bihar,Gaya,Mohanpur,188,Bengali,Hindi,66.9,Medium,7,2025
+33,Uttar Pradesh,Varanasi,Arajiline,468,Hindi,English,100.0,High,5,2023
+34,Karnataka,Mysore,Periyapatna,280,Telugu,Hindi,94.1,High,5,2025
+35,Odisha,Berhampur,Hinjilicut,250,Maithili,English,92.4,High,5,2024
+36,Odisha,Berhampur,Digapahandi,82,Magahi,English,58.8,Medium,7,2025
+37,Karnataka,Bengaluru,Hosakote,111,Magahi,English,74.5,Medium,7,2025
+38,West Bengal,Kolkata,Baruipur,221,Telugu,Hindi,93.3,High,5,2025
+39,Bihar,Patna,Daniawan,84,Bundeli,English,83.3,High,6,2023
+40,Maharashtra,Pune,Junnar,480,Maithili,English,97.8,High,5,2023
+41,West Bengal,Durgapur,Andal,54,Tamil,English,88.7,High,6,2025
+42,Uttar Pradesh,Allahabad,Phulpur,447,Rajasthani,English,84.6,High,6,2023
+43,Madhya Pradesh,Gwalior,Bhitarwar,256,Hindi,Hindi,55.7,Medium,5,2024
+44,West Bengal,Durgapur,Pandabeswar,429,Magahi,Hindi,61.5,Medium,7,2025
+45,West Bengal,Bardhaman,Kalna,401,Magahi,English,93.2,High,5,2023
+46,Tamil Nadu,Coimbatore,Annur,145,Bhojpuri,English,96.7,High,5,2023
+47,Tamil Nadu,Coimbatore,Mettupalayam,456,Maithili,English,91.3,High,6,2025
+48,Maharashtra,Pune,Haveli,220,Telugu,Hindi,67.2,Medium,7,2023
+49,Bihar,Patna,Bihta,209,Bundeli,Hindi,90.9,High,6,2025
+50,Bihar,Patna,Paliganj,135,Odia,English,100.0,High,5,2024
+51,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,94,Magahi,English,72.7,Medium,7,2023
+52,Maharashtra,Aurangabad,Kannad,183,Telugu,English,82.4,High,6,2024
+53,West Bengal,Asansol,Barabani,495,Kannada,Hindi,87.4,High,6,2024
+54,Rajasthan,Ajmer,Pushkar,397,Bundeli,English,76.4,High,6,2024
+55,Rajasthan,Udaipur,Salumbar,274,Rajasthani,Hindi,71.3,Medium,7,2025
+56,Karnataka,Davanagere,Harihar,495,Telugu,Hindi,55.0,Medium,8,2023
+57,West Bengal,Durgapur,Pandabeswar,282,Bengali,Hindi,73.3,Medium,7,2024
+58,Maharashtra,Nashik,Niphad,460,Odia,Hindi,80.0,High,6,2023
+59,Tamil Nadu,Madurai,Vadipatti,274,Bengali,English,62.2,Medium,7,2025
+60,Uttar Pradesh,Lucknow,Gosainganj,364,Bhojpuri,English,74.4,Medium,7,2023
+61,Karnataka,Mysore,Hunsur,229,Telugu,Hindi,76.8,High,6,2023
+62,Rajasthan,Jaipur,Sanganer,491,Marathi,Hindi,100.0,High,5,2024
+63,Madhya Pradesh,Jabalpur,Patan,344,Bundeli,English,84.8,High,6,2023
+64,Tamil Nadu,Madurai,Alanganallur,150,Bhojpuri,Hindi,72.1,Medium,7,2023
+65,Andhra Pradesh,Vijayawada,Ibrahimpatnam,236,Magahi,English,91.6,High,6,2024
+66,Maharashtra,Amravati,Chandur Bazar,269,Rajasthani,English,58.1,Medium,8,2023
+67,Madhya Pradesh,Sagar,Rahatgarh,273,Maithili,English,100.0,High,5,2025
+68,Odisha,Berhampur,Hinjilicut,175,Odia,Hindi,63.7,Medium,7,2024
+69,Rajasthan,Udaipur,Gogunda,209,Telugu,English,88.2,High,6,2025
+70,Uttar Pradesh,Gorakhpur,Bansgaon,373,Magahi,English,59.9,Medium,7,2025
+71,Uttar Pradesh,Allahabad,Chaka,450,Odia,English,98.7,High,5,2023
+72,Andhra Pradesh,Visakhapatnam,Padmanabham,421,Marathi,Hindi,100.0,High,5,2024
+73,Rajasthan,Jodhpur,Mandor,444,Bengali,Hindi,100.0,High,5,2023
+74,West Bengal,Asansol,Raniganj,250,Odia,Hindi,74.2,Medium,7,2024
+75,West Bengal,Asansol,Raniganj,398,Marathi,Hindi,100.0,High,5,2025
+76,Rajasthan,Bikaner,Nokha,469,Bundeli,Hindi,56.0,Medium,8,2025
+77,Uttar Pradesh,Varanasi,Arajiline,196,Bhojpuri,Hindi,75.9,High,6,2025
+78,Odisha,Berhampur,Digapahandi,357,Bengali,Hindi,100.0,High,5,2025
+79,Madhya Pradesh,Indore,Sanwer,387,Marathi,English,100.0,High,5,2025
+80,Uttar Pradesh,Gorakhpur,Khorabar,490,Kannada,Hindi,61.8,Medium,7,2025
+81,Maharashtra,Nashik,Niphad,464,Rajasthani,English,100.0,High,5,2025
+82,Uttar Pradesh,Agra,Etmadpur,312,Kannada,English,94.6,High,5,2024
+83,Karnataka,Belgaum,Hukkeri,161,Bhojpuri,Hindi,88.3,High,6,2023
+84,Uttar Pradesh,Varanasi,Baragaon,51,Tamil,English,100.0,High,5,2024
+85,Odisha,Rourkela,Rajgangpur,189,Tamil,English,88.5,High,6,2025
+86,Madhya Pradesh,Indore,Depalpur,58,Hindi,Hindi,46.7,Low,6,2025
+87,Rajasthan,Jodhpur,Luni,353,Tamil,English,100.0,High,5,2024
+88,West Bengal,Durgapur,Pandabeswar,169,Bhojpuri,Hindi,100.0,High,5,2025
+89,Karnataka,Belgaum,Chikodi,162,Marathi,English,64.7,Medium,7,2024
+90,West Bengal,Kolkata,Rajarhat,153,Tamil,Hindi,91.4,High,6,2025
+91,Rajasthan,Jodhpur,Bilara,161,Kannada,Hindi,61.1,Medium,7,2025
+92,Rajasthan,Ajmer,Peesangan,202,Kannada,Hindi,55.3,Medium,8,2024
+93,Bihar,Darbhanga,Benipur,387,Magahi,Hindi,84.1,High,6,2025
+94,Madhya Pradesh,Sagar,Rehli,257,Marathi,Hindi,100.0,High,5,2023
+95,Karnataka,Belgaum,Athani,117,Kannada,English,69.2,Medium,7,2023
+96,Odisha,Brahmapur,Kukudakhandi,353,Tamil,Hindi,99.8,High,5,2025
+97,Tamil Nadu,Coimbatore,Annur,244,Tamil,Hindi,94.5,High,5,2023
+98,Tamil Nadu,Tiruchirappalli,Manapparai,225,Telugu,English,60.6,Medium,7,2025
+99,Rajasthan,Bikaner,Kolayat,424,Tamil,English,70.0,Medium,7,2024
+100,West Bengal,Durgapur,Faridpur,87,Marathi,English,100.0,High,5,2025
+101,Uttar Pradesh,Allahabad,Meja,487,Hindi,Hindi,84.4,High,3,2025
+102,Maharashtra,Pune,Ambegaon,275,Bengali,Hindi,76.0,High,6,2023
+103,Bihar,Darbhanga,Benipur,333,Maithili,English,95.1,High,5,2023
+104,Rajasthan,Bikaner,Nokha,366,Odia,Hindi,85.0,High,6,2025
+105,Rajasthan,Jaipur,Chaksu,241,Odia,Hindi,93.7,High,5,2023
+106,Odisha,Cuttack,Salepur,221,Rajasthani,Hindi,100.0,High,5,2023
+107,Tamil Nadu,Coimbatore,Kinathukadavu,95,Bhojpuri,Hindi,100.0,High,5,2025
+108,Karnataka,Hubli,Navalgund,429,Bhojpuri,Hindi,55.9,Medium,8,2023
+109,West Bengal,Bardhaman,Manteswar,351,Maithili,Hindi,100.0,High,5,2025
+110,Karnataka,Hubli,Navalgund,237,Bhojpuri,English,100.0,High,5,2025
+111,Uttar Pradesh,Varanasi,Sevapuri,302,Maithili,English,78.1,High,6,2025
+112,Bihar,Bhagalpur,Sabour,210,Marathi,English,74.0,Medium,7,2024
+113,Uttar Pradesh,Gorakhpur,Campierganj,330,Telugu,English,78.7,High,6,2024
+114,Andhra Pradesh,Vijayawada,Nandigama,107,Magahi,English,100.0,High,5,2024
+115,Uttar Pradesh,Agra,Fatehabad,329,Bengali,Hindi,67.5,Medium,7,2025
+116,Uttar Pradesh,Varanasi,Harhua,391,Kannada,Hindi,76.5,High,6,2025
+117,Rajasthan,Ajmer,Kishangarh,204,Odia,Hindi,72.7,Medium,7,2024
+118,Rajasthan,Ajmer,Pushkar,322,Telugu,Hindi,100.0,High,5,2023
+119,Andhra Pradesh,Kurnool,Alur,348,Bhojpuri,Hindi,97.5,High,5,2025
+120,West Bengal,Durgapur,Kanksa,219,Telugu,Hindi,100.0,High,5,2025
+121,Uttar Pradesh,Allahabad,Chaka,355,Odia,English,100.0,High,5,2023
+122,Karnataka,Bengaluru,Hosakote,365,Magahi,Hindi,85.7,High,6,2023
+123,Uttar Pradesh,Gorakhpur,Pipraich,85,Odia,English,100.0,High,5,2023
+124,Uttar Pradesh,Lucknow,Bakshi Ka Talab,313,Bhojpuri,Hindi,97.1,High,5,2024
+125,Bihar,Bhagalpur,Pirpainti,420,Bhojpuri,Hindi,75.3,High,6,2024
+126,Madhya Pradesh,Sagar,Bina,371,Odia,Hindi,81.3,High,6,2025
+127,Rajasthan,Jaipur,Phagi,391,Telugu,Hindi,74.7,Medium,7,2024
+128,Rajasthan,Bikaner,Kolayat,112,Bengali,Hindi,100.0,High,5,2024
+129,Bihar,Gaya,Sherghati,363,Magahi,English,100.0,High,5,2023
+130,Rajasthan,Ajmer,Kishangarh,229,Kannada,English,57.3,Medium,8,2025
+131,Odisha,Bhubaneswar,Balipatna,103,Hindi,Hindi,62.2,Medium,5,2023
+132,Odisha,Cuttack,Nischintakoili,313,Tamil,English,100.0,High,5,2023
+133,Bihar,Muzaffarpur,Sakra,152,Hindi,English,60.1,Medium,7,2023
+134,Andhra Pradesh,Guntur,Tadepalle,421,Rajasthani,English,79.7,High,6,2025
+135,Tamil Nadu,Chennai,Avadi,360,Bundeli,English,63.3,Medium,7,2023
+136,Andhra Pradesh,Visakhapatnam,Anandapuram,419,Bundeli,English,86.0,High,6,2024
+137,Andhra Pradesh,Vijayawada,Gannavaram,196,Hindi,Hindi,77.7,High,3,2025
+138,Rajasthan,Ajmer,Peesangan,324,Bundeli,Hindi,81.3,High,6,2025
+139,Maharashtra,Aurangabad,Khuldabad,395,Hindi,English,56.5,Medium,8,2023
+140,West Bengal,Howrah,Shyampur,367,Odia,Hindi,100.0,High,5,2023
+141,Odisha,Brahmapur,Golabandha,445,Rajasthani,Hindi,79.5,High,6,2024
+142,Madhya Pradesh,Gwalior,Ghatigaon,171,Bengali,Hindi,64.4,Medium,7,2024
+143,West Bengal,Kolkata,Sonarpur,145,Marathi,Hindi,88.0,High,6,2023
+144,Uttar Pradesh,Lucknow,Gosainganj,286,Bhojpuri,English,71.8,Medium,7,2023
+145,Andhra Pradesh,Kurnool,Adoni,241,Odia,English,88.3,High,6,2024
+146,Karnataka,Hubli,Alnavar,398,Bundeli,Hindi,80.2,High,6,2024
+147,Uttar Pradesh,Gorakhpur,Sahjanwa,193,Rajasthani,Hindi,64.5,Medium,7,2024
+148,Karnataka,Davanagere,Jagalur,234,Hindi,Hindi,50.5,Medium,6,2023
+149,Madhya Pradesh,Gwalior,Dabra,96,Bengali,English,57.4,Medium,8,2024
+150,West Bengal,Durgapur,Faridpur,495,Magahi,Hindi,97.2,High,5,2024
+151,Bihar,Darbhanga,Bahadurpur,481,Rajasthani,Hindi,100.0,High,5,2023
+152,Tamil Nadu,Madurai,Melur,303,Hindi,English,81.0,High,6,2025
+153,Uttar Pradesh,Allahabad,Chaka,299,Marathi,English,92.0,High,5,2023
+154,Andhra Pradesh,Kurnool,Aspari,149,Telugu,Hindi,57.7,Medium,8,2025
+155,Uttar Pradesh,Allahabad,Karchana,443,Hindi,Hindi,67.6,Medium,4,2024
+156,Karnataka,Mysore,T.Narsipur,145,Bengali,English,100.0,High,5,2023
+157,Rajasthan,Bikaner,Kolayat,53,Telugu,English,92.0,High,5,2025
+158,Odisha,Berhampur,Ganjam,307,Odia,English,56.6,Medium,8,2025
+159,Bihar,Patna,Masaurhi,389,Odia,English,89.5,High,6,2024
+160,Uttar Pradesh,Agra,Bah,212,Bhojpuri,English,93.6,High,5,2023
+161,Karnataka,Bengaluru,Anekal,494,Maithili,English,87.7,High,6,2023
+162,Bihar,Gaya,Imamganj,317,Bhojpuri,English,78.2,High,6,2023
+163,Andhra Pradesh,Vijayawada,Gannavaram,217,Bundeli,English,100.0,High,5,2023
+164,Uttar Pradesh,Allahabad,Handia,446,Maithili,Hindi,67.9,Medium,7,2024
+165,Tamil Nadu,Madurai,Thiruparankundram,435,Maithili,Hindi,57.3,Medium,8,2024
+166,Bihar,Gaya,Imamganj,84,Hindi,English,75.2,High,6,2024
+167,Uttar Pradesh,Allahabad,Meja,313,Odia,Hindi,78.1,High,6,2024
+168,West Bengal,Howrah,Amta,139,Tamil,Hindi,75.4,High,6,2025
+169,Uttar Pradesh,Lucknow,Mal,154,Bengali,English,84.8,High,6,2024
+170,Uttar Pradesh,Lucknow,Bakshi Ka Talab,163,Bhojpuri,English,92.7,High,5,2023
+171,Rajasthan,Ajmer,Peesangan,425,Telugu,English,99.1,High,5,2023
+172,Maharashtra,Nashik,Dindori,298,Tamil,English,87.9,High,6,2023
+173,Andhra Pradesh,Visakhapatnam,Pendurthi,457,Rajasthani,Hindi,100.0,High,5,2023
+174,Odisha,Cuttack,Tangi,148,Magahi,English,79.8,High,6,2024
+175,Bihar,Patna,Phulwari,145,Bundeli,Hindi,75.4,High,6,2024
+176,Karnataka,Mysore,Hunsur,273,Maithili,English,100.0,High,5,2023
+177,Karnataka,Belgaum,Hukkeri,232,Odia,Hindi,100.0,High,5,2023
+178,Madhya Pradesh,Jabalpur,Shahpura,404,Telugu,Hindi,61.2,Medium,7,2023
+179,Odisha,Brahmapur,Golabandha,418,Maithili,English,85.3,High,6,2023
+180,Bihar,Patna,Maner,391,Kannada,English,72.9,Medium,7,2025
+181,Uttar Pradesh,Agra,Bah,226,Marathi,English,58.2,Medium,8,2023
+182,West Bengal,Bardhaman,Katwa,282,Bundeli,Hindi,100.0,High,5,2023
+183,Uttar Pradesh,Varanasi,Baragaon,333,Bhojpuri,English,100.0,High,5,2025
+184,Madhya Pradesh,Indore,Mhow,416,Magahi,English,60.0,Medium,7,2023
+185,Madhya Pradesh,Sagar,Rehli,148,Marathi,English,91.1,High,6,2025
+186,Uttar Pradesh,Varanasi,Harhua,102,Marathi,Hindi,100.0,High,5,2023
+187,Uttar Pradesh,Agra,Kheragarh,88,Hindi,Hindi,35.5,Low,7,2024
+188,Bihar,Muzaffarpur,Bochaha,235,Maithili,Hindi,58.5,Medium,7,2025
+189,Uttar Pradesh,Gorakhpur,Bansgaon,171,Tamil,Hindi,81.5,High,6,2025
+190,Rajasthan,Bikaner,Nokha,270,Bundeli,English,76.1,High,6,2024
+191,Rajasthan,Jodhpur,Bilara,288,Tamil,Hindi,63.6,Medium,7,2024
+192,West Bengal,Howrah,Amta,491,Magahi,Hindi,92.1,High,5,2023
+193,Maharashtra,Nagpur,Hingna,279,Bhojpuri,English,60.0,Medium,7,2023
+194,Uttar Pradesh,Allahabad,Phulpur,217,Rajasthani,English,59.4,Medium,7,2024
+195,Bihar,Darbhanga,Benipur,332,Odia,Hindi,97.4,High,5,2023
+196,Odisha,Bhubaneswar,Khurda,78,Bhojpuri,English,60.1,Medium,7,2025
+197,Andhra Pradesh,Kurnool,Alur,185,Kannada,English,77.5,High,6,2023
+198,Maharashtra,Nashik,Niphad,391,Kannada,English,100.0,High,5,2025
+199,Karnataka,Mysore,T.Narsipur,376,Odia,English,100.0,High,5,2024
+200,Tamil Nadu,Chennai,Sholinganallur,301,Bundeli,English,60.0,Medium,7,2023
+201,Uttar Pradesh,Lucknow,Sarojaninagar,413,Telugu,Hindi,88.5,High,6,2025
+202,Karnataka,Belgaum,Ramdurg,251,Magahi,English,100.0,High,5,2025
+203,Maharashtra,Amravati,Achalpur,175,Odia,English,84.6,High,6,2023
+204,Karnataka,Davanagere,Honnali,291,Marathi,English,83.1,High,6,2024
+205,Uttar Pradesh,Varanasi,Pindra,197,Bhojpuri,English,62.1,Medium,7,2023
+206,Uttar Pradesh,Lucknow,Gosainganj,432,Telugu,English,94.0,High,5,2023
+207,Maharashtra,Nagpur,Kalmeshwar,436,Odia,Hindi,90.0,High,6,2024
+208,Andhra Pradesh,Nellore,Udayagiri,240,Rajasthani,Hindi,83.7,High,6,2023
+209,Tamil Nadu,Madurai,Vadipatti,361,Bundeli,Hindi,86.7,High,6,2023
+210,Rajasthan,Jaipur,Jamwa Ramgarh,183,Marathi,Hindi,100.0,High,5,2023
+211,Odisha,Bhubaneswar,Balipatna,209,Tamil,English,88.4,High,6,2025
+212,Maharashtra,Nashik,Dindori,198,Kannada,English,57.6,Medium,8,2023
+213,Rajasthan,Jodhpur,Osian,252,Marathi,English,100.0,High,5,2025
+214,Tamil Nadu,Salem,Yercaud,196,Maithili,Hindi,100.0,High,5,2024
+215,Odisha,Berhampur,Ganjam,96,Maithili,English,92.8,High,5,2024
+216,Bihar,Bhagalpur,Sabour,192,Hindi,English,82.3,High,6,2023
+217,Madhya Pradesh,Indore,Sanwer,103,Tamil,English,90.1,High,6,2025
+218,Maharashtra,Nashik,Malegaon,490,Bundeli,Hindi,100.0,High,5,2024
+219,Rajasthan,Jaipur,Phagi,273,Marathi,English,58.5,Medium,7,2024
+220,Uttar Pradesh,Allahabad,Handia,457,Kannada,Hindi,92.2,High,5,2024
+221,Tamil Nadu,Salem,Yercaud,397,Bengali,English,93.8,High,5,2024
+222,Rajasthan,Ajmer,Masuda,365,Rajasthani,English,90.0,High,6,2023
+223,Andhra Pradesh,Guntur,Pedakakani,90,Maithili,Hindi,70.6,Medium,7,2025
+224,Karnataka,Bengaluru,Anekal,496,Maithili,Hindi,87.2,High,6,2023
+225,Madhya Pradesh,Indore,Mhow,261,Magahi,English,91.2,High,6,2023
+226,Andhra Pradesh,Kurnool,Devanakonda,446,Kannada,Hindi,100.0,High,5,2023
+227,Bihar,Darbhanga,Benipur,439,Telugu,English,100.0,High,5,2023
+228,Maharashtra,Aurangabad,Kannad,352,Marathi,English,100.0,High,5,2024
+229,Maharashtra,Nashik,Dindori,361,Bengali,English,100.0,High,5,2025
+230,Rajasthan,Jodhpur,Osian,414,Tamil,English,64.9,Medium,7,2023
+231,Karnataka,Hubli,Kalghatgi,423,Bhojpuri,English,100.0,High,5,2025
+232,Uttar Pradesh,Lucknow,Gosainganj,226,Bundeli,Hindi,77.6,High,6,2024
+233,Andhra Pradesh,Kurnool,Aspari,112,Marathi,Hindi,78.6,High,6,2025
+234,Andhra Pradesh,Kurnool,Alur,332,Magahi,Hindi,89.1,High,6,2023
+235,Maharashtra,Nashik,Malegaon,147,Hindi,Hindi,32.2,Low,8,2025
+236,Odisha,Bhubaneswar,Jatni,434,Hindi,Hindi,30.8,Low,8,2025
+237,Uttar Pradesh,Gorakhpur,Campierganj,55,Rajasthani,English,96.5,High,5,2023
+238,Uttar Pradesh,Gorakhpur,Khorabar,400,Bhojpuri,Hindi,100.0,High,5,2025
+239,Bihar,Patna,Maner,486,Bundeli,English,90.1,High,6,2023
+240,Andhra Pradesh,Visakhapatnam,Anandapuram,214,Bengali,Hindi,100.0,High,5,2025
+241,Tamil Nadu,Tiruchirappalli,Manapparai,194,Maithili,Hindi,69.5,Medium,7,2023
+242,Andhra Pradesh,Vijayawada,Mylavaram,415,Rajasthani,English,70.1,Medium,7,2023
+243,Maharashtra,Nashik,Niphad,254,Maithili,Hindi,67.4,Medium,7,2023
+244,Madhya Pradesh,Sagar,Rahatgarh,418,Maithili,English,100.0,High,5,2024
+245,Karnataka,Bengaluru,Nelamangala,397,Bundeli,Hindi,71.1,Medium,7,2025
+246,Rajasthan,Ajmer,Peesangan,203,Maithili,Hindi,84.9,High,6,2024
+247,Maharashtra,Nagpur,Umred,167,Bundeli,English,100.0,High,5,2024
+248,Odisha,Cuttack,Nischintakoili,317,Magahi,Hindi,100.0,High,5,2023
+249,West Bengal,Howrah,Udaynarayanpur,271,Maithili,Hindi,100.0,High,5,2023
+250,Andhra Pradesh,Vijayawada,Nandigama,161,Odia,English,83.8,High,6,2025
+251,Uttar Pradesh,Varanasi,Kashividyapeeth,256,Bengali,Hindi,100.0,High,5,2024
+252,Rajasthan,Ajmer,Pushkar,115,Magahi,English,100.0,High,5,2025
+253,Uttar Pradesh,Varanasi,Cholapur,471,Tamil,English,92.0,High,5,2024
+254,Maharashtra,Nagpur,Parseoni,343,Tamil,English,91.5,High,6,2024
+255,Odisha,Cuttack,Salepur,335,Kannada,Hindi,88.3,High,6,2025
+256,Uttar Pradesh,Allahabad,Phulpur,496,Rajasthani,English,98.6,High,5,2023
+257,Karnataka,Mysore,Hunsur,215,Odia,English,82.1,High,6,2025
+258,Bihar,Patna,Maner,79,Tamil,English,92.3,High,5,2025
+259,Maharashtra,Nashik,Malegaon,130,Marathi,Hindi,100.0,High,5,2024
+260,Rajasthan,Jodhpur,Bilara,233,Kannada,Hindi,100.0,High,5,2023
+261,Maharashtra,Nagpur,Hingna,389,Kannada,English,82.5,High,6,2024
+262,Andhra Pradesh,Visakhapatnam,Padmanabham,311,Hindi,English,84.6,High,6,2023
+263,Odisha,Cuttack,Salepur,175,Bengali,Hindi,93.0,High,5,2025
+264,Rajasthan,Jaipur,Phagi,420,Marathi,English,87.2,High,6,2025
+265,West Bengal,Howrah,Jagatballavpur,232,Telugu,English,90.1,High,6,2025
+266,Rajasthan,Jodhpur,Mandor,423,Maithili,English,96.9,High,5,2023
+267,Andhra Pradesh,Guntur,Mangalagiri,244,Hindi,Hindi,82.5,High,3,2025
+268,Madhya Pradesh,Jabalpur,Patan,142,Marathi,English,100.0,High,5,2023
+269,Rajasthan,Jaipur,Chaksu,171,Odia,Hindi,68.4,Medium,7,2023
+270,Bihar,Muzaffarpur,Bochaha,54,Kannada,English,75.7,High,6,2024
+271,Uttar Pradesh,Lucknow,Bakshi Ka Talab,366,Hindi,Hindi,31.9,Low,8,2024
+272,Madhya Pradesh,Bhopal,Huzur,50,Marathi,English,87.1,High,6,2024
+273,Bihar,Muzaffarpur,Sakra,95,Marathi,English,76.9,High,6,2024
+274,Uttar Pradesh,Lucknow,Bakshi Ka Talab,267,Maithili,English,96.4,High,5,2023
+275,Bihar,Muzaffarpur,Kanti,331,Odia,English,100.0,High,5,2023
+276,Odisha,Berhampur,Ganjam,263,Bundeli,English,59.9,Medium,7,2024
+277,Andhra Pradesh,Nellore,Kavali,156,Bundeli,English,100.0,High,5,2023
+278,Rajasthan,Jaipur,Amber,386,Telugu,English,71.6,Medium,7,2023
+279,Uttar Pradesh,Lucknow,Mohanlalganj,57,Bhojpuri,Hindi,99.9,High,5,2023
+280,Maharashtra,Pune,Ambegaon,229,Bhojpuri,Hindi,67.6,Medium,7,2025
+281,Karnataka,Belgaum,Chikodi,105,Marathi,English,84.1,High,6,2024
+282,Rajasthan,Jodhpur,Luni,77,Bundeli,English,77.1,High,6,2024
+283,Maharashtra,Pune,Ambegaon,414,Marathi,English,58.7,Medium,7,2025
+284,Uttar Pradesh,Varanasi,Baragaon,361,Bengali,Hindi,63.0,Medium,7,2025
+285,Madhya Pradesh,Jabalpur,Sihora,160,Hindi,Hindi,80.7,High,3,2025
+286,Rajasthan,Jaipur,Sanganer,288,Hindi,Hindi,31.8,Low,8,2024
+287,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,343,Telugu,Hindi,87.0,High,6,2025
+288,Odisha,Rourkela,Lahunipara,241,Kannada,Hindi,71.2,Medium,7,2023
+289,Uttar Pradesh,Varanasi,Cholapur,77,Maithili,English,56.2,Medium,8,2023
+290,Bihar,Gaya,Mohanpur,322,Kannada,English,67.7,Medium,7,2024
+291,Andhra Pradesh,Guntur,Mangalagiri,175,Rajasthani,Hindi,62.2,Medium,7,2023
+292,Bihar,Gaya,Wazirganj,62,Kannada,Hindi,90.6,High,6,2024
+293,Tamil Nadu,Tiruchirappalli,Manapparai,116,Bhojpuri,English,93.9,High,5,2024
+294,Rajasthan,Jodhpur,Balesar,160,Bhojpuri,Hindi,90.1,High,6,2024
+295,West Bengal,Durgapur,Andal,83,Rajasthani,English,88.5,High,6,2023
+296,Madhya Pradesh,Jabalpur,Patan,285,Marathi,Hindi,62.7,Medium,7,2023
+297,Andhra Pradesh,Guntur,Amaravati,150,Tamil,Hindi,76.8,High,6,2024
+298,Andhra Pradesh,Vijayawada,Ibrahimpatnam,369,Odia,English,89.2,High,6,2025
+299,Uttar Pradesh,Lucknow,Gosainganj,414,Kannada,English,74.8,Medium,7,2023
+300,Odisha,Berhampur,Digapahandi,338,Maithili,English,55.5,Medium,8,2023
+301,Madhya Pradesh,Gwalior,Dabra,247,Maithili,Hindi,76.9,High,6,2024
+302,Karnataka,Bengaluru,Anekal,380,Bundeli,Hindi,60.3,Medium,7,2024
+303,Maharashtra,Amravati,Daryapur,144,Marathi,Hindi,58.3,Medium,8,2023
+304,Bihar,Bhagalpur,Pirpainti,296,Magahi,Hindi,58.1,Medium,8,2025
+305,West Bengal,Asansol,Raniganj,89,Marathi,Hindi,96.8,High,5,2025
+306,Andhra Pradesh,Visakhapatnam,Padmanabham,55,Bhojpuri,Hindi,78.9,High,6,2025
+307,Uttar Pradesh,Allahabad,Soraon,53,Tamil,English,55.3,Medium,8,2024
+308,Bihar,Muzaffarpur,Kanti,418,Maithili,English,84.4,High,6,2024
+309,Rajasthan,Ajmer,Peesangan,484,Hindi,Hindi,79.3,High,3,2024
+310,Rajasthan,Bikaner,Khajuwala,384,Bundeli,English,87.1,High,6,2024
+311,Rajasthan,Jaipur,Amber,484,Kannada,Hindi,100.0,High,5,2023
+312,Bihar,Gaya,Sherghati,375,Marathi,English,100.0,High,5,2025
+313,West Bengal,Kolkata,Rajarhat,261,Magahi,Hindi,85.5,High,6,2023
+314,Odisha,Berhampur,Ganjam,189,Bhojpuri,Hindi,61.9,Medium,7,2024
+315,Uttar Pradesh,Allahabad,Koraon,191,Rajasthani,English,72.3,Medium,7,2023
+316,Karnataka,Bengaluru,Devanahalli,431,Rajasthani,Hindi,64.3,Medium,7,2023
+317,Rajasthan,Jodhpur,Balesar,308,Rajasthani,English,58.1,Medium,8,2024
+318,Tamil Nadu,Coimbatore,Kinathukadavu,59,Bundeli,English,87.9,High,6,2024
+319,Uttar Pradesh,Allahabad,Karchana,221,Bhojpuri,English,67.1,Medium,7,2024
+320,Bihar,Muzaffarpur,Kanti,133,Telugu,English,70.3,Medium,7,2023
+321,Rajasthan,Jaipur,Phagi,378,Odia,English,100.0,High,5,2025
+322,Uttar Pradesh,Allahabad,Chaka,448,Bhojpuri,Hindi,83.3,High,6,2025
+323,Uttar Pradesh,Allahabad,Koraon,468,Bundeli,English,75.9,High,6,2023
+324,Tamil Nadu,Salem,Vazhapadi,118,Telugu,Hindi,100.0,High,5,2024
+325,Madhya Pradesh,Gwalior,Bhitarwar,383,Marathi,Hindi,100.0,High,5,2025
+326,Maharashtra,Amravati,Chandur Bazar,186,Magahi,English,67.3,Medium,7,2025
+327,West Bengal,Bardhaman,Kalna,84,Hindi,Hindi,85.6,High,2,2024
+328,Bihar,Gaya,Imamganj,109,Odia,English,100.0,High,5,2025
+329,Rajasthan,Jodhpur,Osian,410,Rajasthani,English,100.0,High,5,2024
+330,Odisha,Cuttack,Salepur,340,Kannada,Hindi,64.9,Medium,7,2023
+331,Bihar,Gaya,Imamganj,388,Bengali,English,94.9,High,5,2024
+332,Maharashtra,Amravati,Chandur Bazar,111,Bengali,Hindi,76.5,High,6,2023
+333,Odisha,Berhampur,Chhatrapur,91,Rajasthani,English,78.5,High,6,2025
+334,Karnataka,Davanagere,Channagiri,153,Bundeli,English,77.6,High,6,2025
+335,Rajasthan,Bikaner,Khajuwala,174,Magahi,English,73.1,Medium,7,2025
+336,Tamil Nadu,Madurai,Melur,112,Odia,Hindi,85.2,High,6,2023
+337,Uttar Pradesh,Gorakhpur,Campierganj,194,Bhojpuri,English,100.0,High,5,2025
+338,Bihar,Gaya,Wazirganj,499,Bengali,Hindi,87.6,High,6,2025
+339,Andhra Pradesh,Guntur,Tulluru,88,Tamil,Hindi,62.0,Medium,7,2024
+340,Uttar Pradesh,Varanasi,Sevapuri,116,Odia,English,92.7,High,5,2024
+341,Odisha,Bhubaneswar,Balianta,497,Hindi,Hindi,40.0,Low,7,2025
+342,Madhya Pradesh,Jabalpur,Sihora,206,Bengali,English,84.7,High,6,2024
+343,Karnataka,Davanagere,Harihar,280,Kannada,Hindi,89.4,High,6,2023
+344,Odisha,Cuttack,Salepur,87,Telugu,Hindi,100.0,High,5,2023
+345,Rajasthan,Bikaner,Lunkaransar,460,Kannada,English,99.6,High,5,2024
+346,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,245,Hindi,Hindi,64.2,Medium,5,2024
+347,Rajasthan,Jodhpur,Osian,54,Rajasthani,English,100.0,High,5,2023
+348,Andhra Pradesh,Visakhapatnam,Anandapuram,167,Hindi,English,100.0,High,5,2025
+349,Madhya Pradesh,Sagar,Rehli,352,Marathi,Hindi,100.0,High,5,2025
+350,Bihar,Patna,Phulwari,206,Bhojpuri,Hindi,87.4,High,6,2023
+351,Rajasthan,Udaipur,Kherwara,96,Bundeli,English,79.5,High,6,2023
+352,Madhya Pradesh,Bhopal,Phanda,179,Bundeli,English,55.7,Medium,8,2025
+353,Odisha,Bhubaneswar,Jatni,292,Kannada,English,88.9,High,6,2024
+354,Uttar Pradesh,Agra,Bah,348,Kannada,Hindi,90.9,High,6,2025
+355,Tamil Nadu,Madurai,Vadipatti,303,Marathi,Hindi,100.0,High,5,2024
+356,Rajasthan,Bikaner,Kolayat,183,Telugu,English,79.1,High,6,2025
+357,Andhra Pradesh,Guntur,Mangalagiri,395,Odia,English,100.0,High,5,2024
+358,Tamil Nadu,Salem,Yercaud,190,Hindi,English,63.3,Medium,7,2024
+359,Madhya Pradesh,Bhopal,Huzur,160,Telugu,English,98.6,High,5,2025
+360,West Bengal,Howrah,Udaynarayanpur,405,Kannada,English,100.0,High,5,2023
+361,Andhra Pradesh,Vijayawada,Gannavaram,425,Bengali,English,56.4,Medium,8,2025
+362,Uttar Pradesh,Gorakhpur,Bansgaon,155,Bengali,Hindi,100.0,High,5,2025
+363,Bihar,Darbhanga,Benipur,427,Marathi,English,59.1,Medium,7,2025
+364,Uttar Pradesh,Lucknow,Sarojaninagar,78,Tamil,Hindi,61.3,Medium,7,2023
+365,Maharashtra,Nagpur,Umred,263,Bundeli,English,100.0,High,5,2023
+366,Rajasthan,Jaipur,Sanganer,351,Tamil,English,69.2,Medium,7,2024
+367,Uttar Pradesh,Lucknow,Bakshi Ka Talab,159,Magahi,Hindi,66.2,Medium,7,2025
+368,Rajasthan,Jodhpur,Mandor,362,Hindi,Hindi,49.9,Low,6,2024
+369,Rajasthan,Bikaner,Nokha,104,Maithili,English,68.6,Medium,7,2025
+370,Maharashtra,Pune,Ambegaon,198,Kannada,Hindi,77.8,High,6,2023
+371,Madhya Pradesh,Sagar,Khurai,186,Kannada,Hindi,67.3,Medium,7,2023
+372,Rajasthan,Ajmer,Pushkar,166,Rajasthani,English,91.2,High,6,2025
+373,Uttar Pradesh,Allahabad,Karchana,112,Rajasthani,Hindi,79.9,High,6,2024
+374,Bihar,Gaya,Mohanpur,124,Telugu,English,100.0,High,5,2025
+375,Karnataka,Belgaum,Chikodi,259,Bundeli,English,83.9,High,6,2025
+376,Uttar Pradesh,Allahabad,Soraon,66,Bhojpuri,English,90.2,High,6,2025
+377,Odisha,Cuttack,Tangi,413,Magahi,English,100.0,High,5,2024
+378,Maharashtra,Pune,Mawal,201,Magahi,English,89.7,High,6,2024
+379,Maharashtra,Nashik,Igatpuri,393,Hindi,Hindi,48.7,Low,6,2023
+380,Uttar Pradesh,Lucknow,Gosainganj,112,Magahi,English,71.7,Medium,7,2024
+381,Uttar Pradesh,Varanasi,Baragaon,205,Bundeli,Hindi,67.8,Medium,7,2023
+382,Uttar Pradesh,Allahabad,Soraon,386,Bhojpuri,Hindi,100.0,High,5,2023
+383,Uttar Pradesh,Varanasi,Cholapur,197,Rajasthani,English,79.9,High,6,2025
+384,Uttar Pradesh,Agra,Jagner,238,Hindi,English,66.1,Medium,7,2025
+385,West Bengal,Howrah,Udaynarayanpur,306,Hindi,English,73.6,Medium,7,2024
+386,West Bengal,Kolkata,Baruipur,264,Bengali,English,80.6,High,6,2025
+387,West Bengal,Bardhaman,Katwa,367,Marathi,English,67.3,Medium,7,2023
+388,Andhra Pradesh,Kurnool,Aspari,354,Magahi,Hindi,57.2,Medium,8,2024
+389,Tamil Nadu,Salem,Attur,193,Rajasthani,Hindi,88.9,High,6,2024
+390,Karnataka,Bengaluru,Anekal,306,Tamil,Hindi,100.0,High,5,2025
+391,Rajasthan,Udaipur,Gogunda,243,Maithili,Hindi,87.1,High,6,2023
+392,Uttar Pradesh,Lucknow,Bakshi Ka Talab,163,Kannada,English,84.8,High,6,2025
+393,Uttar Pradesh,Agra,Bah,368,Telugu,Hindi,61.2,Medium,7,2023
+394,West Bengal,Asansol,Raniganj,104,Kannada,English,100.0,High,5,2024
+395,Bihar,Patna,Phulwari,415,Odia,Hindi,86.6,High,6,2023
+396,Rajasthan,Ajmer,Kishangarh,136,Kannada,English,100.0,High,5,2024
+397,West Bengal,Asansol,Jamuria,440,Telugu,English,94.5,High,5,2023
+398,Bihar,Muzaffarpur,Marwan,362,Telugu,English,68.3,Medium,7,2025
+399,Odisha,Bhubaneswar,Balianta,492,Telugu,Hindi,85.3,High,6,2024
+400,Tamil Nadu,Madurai,Alanganallur,298,Kannada,Hindi,100.0,High,5,2025
+401,Uttar Pradesh,Gorakhpur,Sahjanwa,100,Tamil,English,94.2,High,5,2025
+402,West Bengal,Kolkata,Baruipur,313,Telugu,English,61.0,Medium,7,2024
+403,Uttar Pradesh,Gorakhpur,Khorabar,337,Magahi,English,100.0,High,5,2025
+404,Rajasthan,Jaipur,Jamwa Ramgarh,449,Hindi,Hindi,53.8,Medium,6,2023
+405,Tamil Nadu,Tiruchirappalli,Manapparai,231,Bundeli,English,67.3,Medium,7,2025
+406,Karnataka,Mysore,Periyapatna,360,Telugu,Hindi,100.0,High,5,2025
+407,Tamil Nadu,Tiruchirappalli,Thuraiyur,379,Bengali,Hindi,60.1,Medium,7,2025
+408,Odisha,Cuttack,Tangi,134,Marathi,English,56.6,Medium,8,2023
+409,Bihar,Patna,Daniawan,452,Bundeli,Hindi,90.0,High,6,2024
+410,Karnataka,Davanagere,Jagalur,51,Bhojpuri,Hindi,100.0,High,5,2023
+411,Madhya Pradesh,Sagar,Rehli,453,Kannada,Hindi,75.2,High,6,2025
+412,West Bengal,Howrah,Amta,435,Bengali,Hindi,76.8,High,6,2025
+413,Madhya Pradesh,Gwalior,Bhander,445,Telugu,English,100.0,High,5,2023
+414,Maharashtra,Pune,Ambegaon,471,Tamil,Hindi,100.0,High,5,2023
+415,Odisha,Bhubaneswar,Khurda,275,Rajasthani,English,100.0,High,5,2025
+416,Maharashtra,Pune,Junnar,391,Odia,English,100.0,High,5,2023
+417,Karnataka,Mysore,T.Narsipur,251,Rajasthani,English,88.9,High,6,2025
+418,Tamil Nadu,Tiruchirappalli,Manachanallur,264,Kannada,English,100.0,High,5,2023
+419,Maharashtra,Pune,Junnar,419,Bengali,Hindi,56.3,Medium,8,2024
+420,Bihar,Gaya,Wazirganj,58,Bhojpuri,Hindi,87.5,High,6,2023
+421,Maharashtra,Nashik,Malegaon,330,Marathi,English,70.5,Medium,7,2024
+422,Odisha,Bhubaneswar,Balipatna,327,Odia,English,100.0,High,5,2024
+423,Madhya Pradesh,Gwalior,Bhander,491,Tamil,Hindi,100.0,High,5,2024
+424,Bihar,Bhagalpur,Pirpainti,264,Odia,Hindi,96.0,High,5,2024
+425,Uttar Pradesh,Gorakhpur,Campierganj,195,Bengali,English,86.8,High,6,2024
+426,West Bengal,Durgapur,Pandabeswar,405,Tamil,English,84.9,High,6,2024
+427,Maharashtra,Nashik,Niphad,66,Magahi,Hindi,79.3,High,6,2024
+428,Bihar,Gaya,Sherghati,427,Hindi,English,98.2,High,5,2023
+429,Karnataka,Bengaluru,Anekal,411,Marathi,Hindi,63.4,Medium,7,2025
+430,Odisha,Cuttack,Salepur,362,Kannada,English,71.0,Medium,7,2025
+431,Uttar Pradesh,Allahabad,Meja,217,Tamil,Hindi,70.0,Medium,7,2023
+432,West Bengal,Kolkata,Rajarhat,358,Hindi,Hindi,40.5,Low,7,2023
+433,Madhya Pradesh,Jabalpur,Shahpura,450,Kannada,Hindi,80.1,High,6,2024
+434,Maharashtra,Pune,Haveli,171,Marathi,Hindi,80.3,High,6,2024
+435,Tamil Nadu,Salem,Vazhapadi,359,Kannada,English,99.3,High,5,2025
+436,Uttar Pradesh,Gorakhpur,Campierganj,230,Bundeli,English,91.2,High,6,2024
+437,West Bengal,Asansol,Jamuria,78,Bundeli,Hindi,78.4,High,6,2025
+438,Odisha,Bhubaneswar,Balipatna,213,Magahi,Hindi,98.1,High,5,2025
+439,Karnataka,Hubli,Kundgol,281,Kannada,English,89.0,High,6,2024
+440,Rajasthan,Jodhpur,Mandor,104,Hindi,English,94.8,High,5,2024
+441,Uttar Pradesh,Allahabad,Meja,455,Kannada,English,99.0,High,5,2023
+442,Uttar Pradesh,Gorakhpur,Pipraich,299,Bengali,Hindi,56.9,Medium,8,2025
+443,Bihar,Gaya,Imamganj,276,Bengali,English,100.0,High,5,2023
+444,Rajasthan,Jodhpur,Luni,495,Tamil,English,100.0,High,5,2025
+445,Karnataka,Belgaum,Hukkeri,250,Bhojpuri,English,100.0,High,5,2023
+446,Madhya Pradesh,Gwalior,Bhitarwar,122,Magahi,Hindi,59.5,Medium,7,2023
+447,Odisha,Berhampur,Chhatrapur,178,Magahi,Hindi,84.7,High,6,2025
+448,Bihar,Darbhanga,Benipur,153,Bengali,Hindi,81.1,High,6,2025
+449,Andhra Pradesh,Guntur,Tulluru,340,Maithili,Hindi,100.0,High,5,2023
+450,Rajasthan,Udaipur,Salumbar,157,Odia,Hindi,96.7,High,5,2024
+451,West Bengal,Durgapur,Faridpur,151,Marathi,Hindi,90.4,High,6,2025
+452,Maharashtra,Aurangabad,Phulambri,150,Rajasthani,Hindi,60.5,Medium,7,2025
+453,Rajasthan,Jodhpur,Luni,354,Rajasthani,Hindi,63.2,Medium,7,2024
+454,Maharashtra,Nashik,Sinnar,106,Telugu,Hindi,81.8,High,6,2025
+455,Maharashtra,Nashik,Igatpuri,61,Magahi,Hindi,87.5,High,6,2025
+456,Andhra Pradesh,Vijayawada,Nandigama,313,Hindi,English,93.3,High,5,2023
+457,West Bengal,Kolkata,Sonarpur,264,Marathi,English,98.4,High,5,2024
+458,Uttar Pradesh,Lucknow,Bakshi Ka Talab,249,Rajasthani,English,70.0,Medium,7,2023
+459,Bihar,Darbhanga,Hanumannagar,317,Rajasthani,English,68.3,Medium,7,2024
+460,Madhya Pradesh,Sagar,Khurai,414,Bhojpuri,Hindi,95.2,High,5,2024
+461,Bihar,Muzaffarpur,Sakra,65,Kannada,English,100.0,High,5,2025
+462,Madhya Pradesh,Indore,Depalpur,331,Maithili,Hindi,89.1,High,6,2024
+463,Uttar Pradesh,Gorakhpur,Pipraich,440,Odia,Hindi,57.0,Medium,8,2023
+464,Karnataka,Mysore,T.Narsipur,56,Hindi,English,72.8,Medium,7,2024
+465,Uttar Pradesh,Agra,Etmadpur,364,Magahi,Hindi,100.0,High,5,2024
+466,Rajasthan,Jodhpur,Luni,272,Kannada,English,100.0,High,5,2025
+467,Odisha,Berhampur,Chhatrapur,451,Magahi,Hindi,86.3,High,6,2025
+468,Rajasthan,Jaipur,Jamwa Ramgarh,322,Bundeli,English,94.0,High,5,2025
+469,Rajasthan,Ajmer,Kishangarh,157,Bhojpuri,English,62.2,Medium,7,2024
+470,Tamil Nadu,Tiruchirappalli,Lalgudi,180,Rajasthani,Hindi,96.8,High,5,2024
+471,Andhra Pradesh,Guntur,Amaravati,232,Telugu,English,79.3,High,6,2025
+472,Tamil Nadu,Coimbatore,Mettupalayam,64,Maithili,English,100.0,High,5,2023
+473,Uttar Pradesh,Gorakhpur,Khorabar,458,Odia,English,99.3,High,5,2023
+474,Maharashtra,Pune,Junnar,65,Bundeli,Hindi,80.6,High,6,2024
+475,Odisha,Rourkela,Bisra,499,Magahi,Hindi,56.5,Medium,8,2024
+476,Odisha,Brahmapur,Golabandha,83,Kannada,Hindi,56.3,Medium,8,2025
+477,Odisha,Bhubaneswar,Balianta,318,Bengali,English,86.7,High,6,2025
+478,Karnataka,Mysore,T.Narsipur,428,Tamil,Hindi,100.0,High,5,2023
+479,Maharashtra,Pune,Haveli,495,Tamil,English,60.3,Medium,7,2024
+480,Uttar Pradesh,Lucknow,Sarojaninagar,294,Telugu,English,83.8,High,6,2025
+481,West Bengal,Durgapur,Pandabeswar,426,Magahi,English,100.0,High,5,2023
+482,Rajasthan,Udaipur,Kherwara,408,Bhojpuri,Hindi,86.4,High,6,2023
+483,Madhya Pradesh,Sagar,Rehli,226,Tamil,Hindi,61.6,Medium,7,2024
+484,Maharashtra,Pune,Haveli,425,Bundeli,English,72.2,Medium,7,2024
+485,Tamil Nadu,Coimbatore,Annur,495,Rajasthani,Hindi,90.3,High,6,2023
+486,West Bengal,Durgapur,Faridpur,486,Odia,English,100.0,High,5,2023
+487,Uttar Pradesh,Gorakhpur,Campierganj,448,Bhojpuri,English,78.1,High,6,2025
+488,Andhra Pradesh,Nellore,Udayagiri,342,Magahi,English,100.0,High,5,2025
+489,Rajasthan,Ajmer,Kishangarh,429,Hindi,English,80.1,High,6,2025
+490,Tamil Nadu,Madurai,Alanganallur,351,Telugu,English,91.0,High,6,2024
+491,Maharashtra,Nagpur,Kalmeshwar,382,Maithili,Hindi,100.0,High,5,2025
+492,West Bengal,Durgapur,Faridpur,101,Magahi,English,58.9,Medium,7,2023
+493,Uttar Pradesh,Varanasi,Pindra,112,Bhojpuri,English,68.8,Medium,7,2025
+494,Odisha,Bhubaneswar,Balianta,415,Odia,English,68.8,Medium,7,2024
+495,Maharashtra,Aurangabad,Gangapur,362,Telugu,Hindi,68.2,Medium,7,2023
+496,Tamil Nadu,Chennai,Maduravoyal,308,Tamil,Hindi,100.0,High,5,2023
+497,Tamil Nadu,Tiruchirappalli,Manachanallur,310,Magahi,English,92.8,High,5,2025
+498,Uttar Pradesh,Agra,Jagner,226,Rajasthani,English,86.1,High,6,2024
+499,Rajasthan,Jaipur,Amber,290,Telugu,English,65.4,Medium,7,2024
+500,Andhra Pradesh,Kurnool,Devanakonda,468,Hindi,Hindi,75.5,High,3,2024
+501,West Bengal,Kolkata,Baruipur,194,Maithili,English,64.2,Medium,7,2025
+502,Rajasthan,Bikaner,Kolayat,318,Rajasthani,Hindi,68.4,Medium,7,2025
+503,Madhya Pradesh,Gwalior,Bhitarwar,138,Bundeli,Hindi,90.6,High,6,2024
+504,Tamil Nadu,Chennai,Ambattur,406,Tamil,English,60.5,Medium,7,2023
+505,Andhra Pradesh,Guntur,Tulluru,489,Rajasthani,English,70.9,Medium,7,2023
+506,Madhya Pradesh,Sagar,Rahatgarh,186,Bundeli,English,57.7,Medium,8,2024
+507,Andhra Pradesh,Vijayawada,Gannavaram,381,Maithili,Hindi,57.1,Medium,8,2025
+508,Bihar,Darbhanga,Hanumannagar,89,Rajasthani,Hindi,100.0,High,5,2025
+509,Maharashtra,Nashik,Malegaon,492,Maithili,Hindi,71.9,Medium,7,2025
+510,Uttar Pradesh,Agra,Etmadpur,87,Bhojpuri,English,70.6,Medium,7,2023
+511,Uttar Pradesh,Varanasi,Baragaon,225,Magahi,English,84.8,High,6,2024
+512,Bihar,Darbhanga,Keotiranway,86,Maithili,English,68.2,Medium,7,2023
+513,Odisha,Bhubaneswar,Balipatna,333,Telugu,Hindi,59.6,Medium,7,2023
+514,Maharashtra,Nashik,Niphad,163,Odia,Hindi,84.7,High,6,2024
+515,Andhra Pradesh,Vijayawada,Gannavaram,398,Tamil,Hindi,100.0,High,5,2025
+516,Rajasthan,Udaipur,Sarada,105,Magahi,English,94.7,High,5,2025
+517,Madhya Pradesh,Sagar,Bina,286,Magahi,English,99.0,High,5,2025
+518,Bihar,Bhagalpur,Sabour,385,Marathi,English,94.5,High,5,2023
+519,Tamil Nadu,Madurai,Vadipatti,108,Hindi,Hindi,82.0,High,3,2023
+520,Odisha,Cuttack,Tangi,318,Telugu,Hindi,100.0,High,5,2023
+521,Andhra Pradesh,Visakhapatnam,Anandapuram,230,Rajasthani,English,95.8,High,5,2025
+522,Rajasthan,Ajmer,Kishangarh,204,Bengali,Hindi,100.0,High,5,2025
+523,Uttar Pradesh,Allahabad,Karchana,182,Kannada,English,100.0,High,5,2024
+524,Tamil Nadu,Tiruchirappalli,Thuraiyur,298,Rajasthani,English,56.8,Medium,8,2025
+525,Maharashtra,Pune,Mawal,475,Bundeli,Hindi,62.7,Medium,7,2025
+526,Rajasthan,Udaipur,Salumbar,486,Odia,English,99.6,High,5,2025
+527,Rajasthan,Bikaner,Lunkaransar,131,Tamil,Hindi,100.0,High,5,2024
+528,Uttar Pradesh,Allahabad,Handia,126,Hindi,English,85.4,High,6,2025
+529,Madhya Pradesh,Bhopal,Phanda,499,Bengali,English,72.2,Medium,7,2024
+530,West Bengal,Kolkata,Sonarpur,204,Tamil,English,100.0,High,5,2023
+531,Rajasthan,Ajmer,Kishangarh,409,Bhojpuri,English,70.6,Medium,7,2023
+532,Uttar Pradesh,Gorakhpur,Sahjanwa,212,Bengali,Hindi,62.7,Medium,7,2025
+533,West Bengal,Durgapur,Kanksa,463,Maithili,English,56.1,Medium,8,2023
+534,Karnataka,Mysore,Hunsur,273,Bundeli,English,100.0,High,5,2025
+535,Madhya Pradesh,Jabalpur,Shahpura,271,Tamil,Hindi,100.0,High,5,2024
+536,Uttar Pradesh,Agra,Bah,245,Tamil,English,65.4,Medium,7,2024
+537,Madhya Pradesh,Gwalior,Ghatigaon,373,Bhojpuri,English,73.1,Medium,7,2023
+538,Madhya Pradesh,Sagar,Khurai,61,Bundeli,English,59.0,Medium,7,2024
+539,Uttar Pradesh,Allahabad,Bara,423,Bengali,Hindi,75.8,High,6,2024
+540,Rajasthan,Ajmer,Masuda,169,Odia,Hindi,57.7,Medium,8,2024
+541,Maharashtra,Pune,Junnar,319,Odia,Hindi,100.0,High,5,2023
+542,Andhra Pradesh,Vijayawada,Ibrahimpatnam,253,Bengali,English,100.0,High,5,2025
+543,Madhya Pradesh,Bhopal,Berasia,485,Magahi,Hindi,100.0,High,5,2025
+544,Uttar Pradesh,Gorakhpur,Pipraich,78,Bhojpuri,Hindi,56.3,Medium,8,2024
+545,Bihar,Muzaffarpur,Muraul,416,Marathi,Hindi,84.3,High,6,2025
+546,Tamil Nadu,Salem,Attur,107,Rajasthani,Hindi,55.1,Medium,8,2024
+547,Tamil Nadu,Tiruchirappalli,Manachanallur,479,Magahi,English,83.1,High,6,2023
+548,Bihar,Patna,Bihta,148,Maithili,English,82.1,High,6,2025
+549,Bihar,Patna,Maner,320,Maithili,English,100.0,High,5,2023
+550,Karnataka,Davanagere,Channagiri,124,Bengali,Hindi,68.2,Medium,7,2024
+551,Uttar Pradesh,Varanasi,Pindra,224,Bhojpuri,English,95.8,High,5,2024
+552,Uttar Pradesh,Varanasi,Sevapuri,76,Magahi,English,100.0,High,5,2024
+553,West Bengal,Howrah,Udaynarayanpur,285,Telugu,Hindi,56.9,Medium,8,2023
+554,Andhra Pradesh,Nellore,Kavali,70,Odia,Hindi,100.0,High,5,2023
+555,Madhya Pradesh,Sagar,Khurai,492,Kannada,English,100.0,High,5,2025
+556,Bihar,Gaya,Mohanpur,490,Hindi,English,81.5,High,6,2025
+557,Karnataka,Mysore,Hunsur,306,Telugu,Hindi,74.2,Medium,7,2024
+558,Odisha,Brahmapur,Kukudakhandi,64,Bhojpuri,English,99.8,High,5,2025
+559,Bihar,Patna,Daniawan,369,Maithili,Hindi,100.0,High,5,2024
+560,Uttar Pradesh,Lucknow,Sarojaninagar,320,Maithili,Hindi,83.3,High,6,2025
+561,Maharashtra,Nagpur,Parseoni,121,Maithili,English,64.6,Medium,7,2023
+562,Rajasthan,Bikaner,Kolayat,194,Rajasthani,Hindi,60.5,Medium,7,2025
+563,Uttar Pradesh,Lucknow,Gosainganj,76,Bhojpuri,English,100.0,High,5,2025
+564,Rajasthan,Udaipur,Kherwara,436,Bhojpuri,Hindi,100.0,High,5,2023
+565,Bihar,Gaya,Sherghati,73,Marathi,English,100.0,High,5,2025
+566,Uttar Pradesh,Allahabad,Karchana,453,Odia,Hindi,100.0,High,5,2023
+567,West Bengal,Howrah,Amta,271,Bengali,English,62.0,Medium,7,2023
+568,Tamil Nadu,Salem,Gangavalli,431,Tamil,English,96.1,High,5,2023
+569,Bihar,Patna,Masaurhi,215,Maithili,Hindi,68.5,Medium,7,2025
+570,West Bengal,Kolkata,Sonarpur,263,Magahi,English,89.9,High,6,2023
+571,Rajasthan,Udaipur,Gogunda,435,Bengali,Hindi,100.0,High,5,2025
+572,Andhra Pradesh,Guntur,Amaravati,113,Magahi,English,82.3,High,6,2023
+573,Rajasthan,Udaipur,Sarada,323,Telugu,Hindi,95.8,High,5,2024
+574,Maharashtra,Amravati,Chandur Bazar,415,Bhojpuri,Hindi,100.0,High,5,2024
+575,Andhra Pradesh,Kurnool,Aspari,81,Telugu,English,94.4,High,5,2023
+576,Andhra Pradesh,Vijayawada,Gannavaram,338,Maithili,Hindi,100.0,High,5,2023
+577,Madhya Pradesh,Sagar,Khurai,441,Odia,English,98.5,High,5,2025
+578,Odisha,Berhampur,Hinjilicut,137,Bengali,Hindi,63.8,Medium,7,2023
+579,Uttar Pradesh,Gorakhpur,Campierganj,95,Bundeli,Hindi,63.5,Medium,7,2024
+580,Odisha,Brahmapur,Golabandha,135,Magahi,English,67.6,Medium,7,2023
+581,Rajasthan,Ajmer,Masuda,251,Bengali,Hindi,100.0,High,5,2024
+582,West Bengal,Bardhaman,Manteswar,402,Telugu,Hindi,86.1,High,6,2023
+583,Odisha,Brahmapur,Golabandha,282,Bengali,English,76.0,High,6,2023
+584,Karnataka,Belgaum,Chikodi,126,Marathi,Hindi,59.7,Medium,7,2024
+585,West Bengal,Durgapur,Faridpur,152,Bhojpuri,English,63.0,Medium,7,2025
+586,Karnataka,Davanagere,Jagalur,139,Bhojpuri,Hindi,96.4,High,5,2024
+587,Uttar Pradesh,Varanasi,Kashividyapeeth,192,Bengali,Hindi,67.0,Medium,7,2025
+588,Tamil Nadu,Coimbatore,Mettupalayam,477,Tamil,Hindi,61.3,Medium,7,2025
+589,Tamil Nadu,Coimbatore,Sulur,366,Rajasthani,Hindi,97.4,High,5,2024
+590,Rajasthan,Ajmer,Kishangarh,58,Kannada,Hindi,100.0,High,5,2025
+591,Karnataka,Davanagere,Honnali,272,Bengali,Hindi,87.5,High,6,2024
+592,Uttar Pradesh,Varanasi,Cholapur,253,Maithili,English,100.0,High,5,2024
+593,Maharashtra,Nagpur,Saoner,397,Bundeli,English,100.0,High,5,2024
+594,Uttar Pradesh,Lucknow,Sarojaninagar,160,Odia,Hindi,100.0,High,5,2025
+595,Madhya Pradesh,Sagar,Rehli,133,Kannada,Hindi,88.2,High,6,2024
+596,West Bengal,Durgapur,Andal,363,Magahi,English,100.0,High,5,2025
+597,Bihar,Patna,Phulwari,52,Telugu,English,57.4,Medium,8,2024
+598,Rajasthan,Bikaner,Nokha,63,Odia,English,59.9,Medium,7,2024
+599,Tamil Nadu,Chennai,Avadi,61,Marathi,Hindi,69.8,Medium,7,2023
+600,Bihar,Patna,Paliganj,74,Hindi,English,100.0,High,5,2024
+601,West Bengal,Asansol,Jamuria,196,Odia,Hindi,100.0,High,5,2023
+602,Rajasthan,Jodhpur,Mandor,441,Odia,Hindi,100.0,High,5,2023
+603,Rajasthan,Udaipur,Salumbar,232,Bhojpuri,Hindi,57.6,Medium,8,2024
+604,Rajasthan,Jaipur,Chaksu,451,Kannada,Hindi,94.2,High,5,2023
+605,Karnataka,Mysore,T.Narsipur,401,Tamil,Hindi,87.5,High,6,2025
+606,Uttar Pradesh,Allahabad,Chaka,180,Kannada,English,59.9,Medium,7,2025
+607,Uttar Pradesh,Agra,Etmadpur,84,Tamil,Hindi,68.2,Medium,7,2024
+608,Karnataka,Bengaluru,Hosakote,496,Odia,English,67.2,Medium,7,2025
+609,Uttar Pradesh,Gorakhpur,Pipraich,381,Tamil,Hindi,65.5,Medium,7,2023
+610,Tamil Nadu,Chennai,Sholinganallur,208,Marathi,Hindi,80.0,High,6,2023
+611,Maharashtra,Nagpur,Hingna,53,Bhojpuri,English,99.1,High,5,2024
+612,West Bengal,Bardhaman,Memari,69,Rajasthani,Hindi,85.3,High,6,2024
+613,Bihar,Gaya,Imamganj,226,Telugu,English,85.8,High,6,2023
+614,Bihar,Bhagalpur,Pirpainti,469,Rajasthani,English,56.8,Medium,8,2024
+615,Uttar Pradesh,Lucknow,Mal,277,Maithili,Hindi,100.0,High,5,2024
+616,Madhya Pradesh,Bhopal,Berasia,469,Hindi,English,80.3,High,6,2024
+617,Odisha,Brahmapur,Patrapur,292,Rajasthani,English,90.5,High,6,2024
+618,Maharashtra,Nashik,Dindori,174,Telugu,Hindi,67.6,Medium,7,2023
+619,Madhya Pradesh,Jabalpur,Patan,67,Bhojpuri,Hindi,92.9,High,5,2025
+620,Uttar Pradesh,Gorakhpur,Campierganj,274,Tamil,English,62.9,Medium,7,2024
+621,Rajasthan,Jodhpur,Bilara,136,Bhojpuri,English,93.0,High,5,2024
+622,Tamil Nadu,Coimbatore,Mettupalayam,383,Odia,Hindi,85.8,High,6,2023
+623,Odisha,Bhubaneswar,Khurda,374,Odia,Hindi,59.1,Medium,7,2023
+624,Rajasthan,Bikaner,Nokha,367,Rajasthani,English,60.8,Medium,7,2023
+625,Odisha,Brahmapur,Kukudakhandi,160,Hindi,English,90.6,High,6,2025
+626,Uttar Pradesh,Agra,Kheragarh,133,Maithili,English,90.6,High,6,2024
+627,Karnataka,Hubli,Kalghatgi,194,Magahi,Hindi,78.5,High,6,2023
+628,Madhya Pradesh,Gwalior,Ghatigaon,77,Bengali,Hindi,70.5,Medium,7,2023
+629,Madhya Pradesh,Sagar,Khurai,310,Odia,Hindi,74.5,Medium,7,2023
+630,Tamil Nadu,Tiruchirappalli,Manapparai,456,Kannada,Hindi,82.2,High,6,2025
+631,Odisha,Cuttack,Salepur,59,Tamil,English,59.4,Medium,7,2024
+632,Bihar,Gaya,Mohanpur,129,Bundeli,Hindi,86.2,High,6,2024
+633,West Bengal,Kolkata,Bhangar,381,Bhojpuri,English,100.0,High,5,2023
+634,Uttar Pradesh,Agra,Kheragarh,182,Bundeli,Hindi,69.9,Medium,7,2025
+635,Andhra Pradesh,Guntur,Mangalagiri,50,Maithili,English,70.2,Medium,7,2024
+636,Andhra Pradesh,Kurnool,Alur,333,Hindi,English,57.2,Medium,8,2023
+637,Maharashtra,Aurangabad,Gangapur,224,Bengali,Hindi,94.8,High,5,2023
+638,Karnataka,Mysore,T.Narsipur,354,Magahi,English,100.0,High,5,2025
+639,Bihar,Bhagalpur,Pirpainti,256,Kannada,Hindi,88.5,High,6,2025
+640,Tamil Nadu,Coimbatore,Kinathukadavu,494,Rajasthani,Hindi,57.1,Medium,8,2024
+641,Rajasthan,Udaipur,Salumbar,179,Kannada,Hindi,62.4,Medium,7,2023
+642,Madhya Pradesh,Bhopal,Phanda,69,Marathi,Hindi,58.1,Medium,8,2023
+643,West Bengal,Bardhaman,Memari,168,Marathi,Hindi,68.5,Medium,7,2023
+644,Maharashtra,Pune,Ambegaon,294,Telugu,English,60.3,Medium,7,2023
+645,Tamil Nadu,Madurai,Vadipatti,228,Odia,English,57.5,Medium,8,2024
+646,Bihar,Gaya,Mohanpur,325,Hindi,Hindi,89.2,High,2,2025
+647,Rajasthan,Bikaner,Kolayat,348,Bengali,Hindi,56.0,Medium,8,2023
+648,Uttar Pradesh,Varanasi,Pindra,355,Bengali,English,100.0,High,5,2025
+649,Andhra Pradesh,Guntur,Mangalagiri,272,Bengali,English,70.3,Medium,7,2025
+650,Karnataka,Mysore,Hunsur,227,Bundeli,English,75.6,High,6,2024
+651,Tamil Nadu,Salem,Attur,389,Bengali,Hindi,62.5,Medium,7,2024
+652,Rajasthan,Udaipur,Girwa,350,Bundeli,English,63.6,Medium,7,2024
+653,West Bengal,Durgapur,Andal,283,Odia,English,99.0,High,5,2024
+654,West Bengal,Durgapur,Kanksa,390,Bhojpuri,English,60.6,Medium,7,2023
+655,Madhya Pradesh,Bhopal,Huzur,401,Tamil,Hindi,69.1,Medium,7,2025
+656,Maharashtra,Aurangabad,Khuldabad,135,Telugu,English,70.3,Medium,7,2023
+657,Maharashtra,Nagpur,Hingna,360,Bhojpuri,English,100.0,High,5,2025
+658,Uttar Pradesh,Varanasi,Arajiline,463,Telugu,English,84.8,High,6,2023
+659,Uttar Pradesh,Varanasi,Kashividyapeeth,75,Maithili,English,100.0,High,5,2023
+660,Tamil Nadu,Madurai,Melur,125,Bundeli,English,61.8,Medium,7,2023
+661,Andhra Pradesh,Kurnool,Devanakonda,351,Kannada,Hindi,100.0,High,5,2023
+662,Madhya Pradesh,Bhopal,Berasia,196,Bengali,English,100.0,High,5,2024
+663,Rajasthan,Jaipur,Jamwa Ramgarh,102,Magahi,Hindi,95.0,High,5,2023
+664,Rajasthan,Ajmer,Pushkar,139,Magahi,English,75.9,High,6,2024
+665,West Bengal,Howrah,Amta,241,Odia,Hindi,57.9,Medium,8,2023
+666,Bihar,Patna,Daniawan,210,Rajasthani,English,79.4,High,6,2023
+667,Bihar,Patna,Paliganj,122,Rajasthani,Hindi,60.4,Medium,7,2025
+668,Uttar Pradesh,Gorakhpur,Pipraich,373,Magahi,English,94.0,High,5,2024
+669,West Bengal,Bardhaman,Katwa,181,Tamil,Hindi,95.1,High,5,2024
+670,Tamil Nadu,Salem,Yercaud,131,Rajasthani,English,100.0,High,5,2025
+671,West Bengal,Durgapur,Faridpur,388,Bengali,English,100.0,High,5,2023
+672,Maharashtra,Amravati,Daryapur,393,Bhojpuri,Hindi,72.8,Medium,7,2025
+673,Maharashtra,Pune,Khed,138,Bengali,English,74.7,Medium,7,2023
+674,Maharashtra,Pune,Khed,125,Magahi,English,91.6,High,6,2025
+675,Bihar,Patna,Maner,454,Bhojpuri,Hindi,77.8,High,6,2023
+676,Madhya Pradesh,Jabalpur,Shahpura,466,Rajasthani,English,69.3,Medium,7,2023
+677,Madhya Pradesh,Jabalpur,Sihora,340,Tamil,Hindi,68.6,Medium,7,2024
+678,Bihar,Bhagalpur,Kahalgaon,316,Telugu,English,91.2,High,6,2024
+679,Odisha,Brahmapur,Golabandha,379,Maithili,English,100.0,High,5,2023
+680,Bihar,Bhagalpur,Kahalgaon,52,Kannada,Hindi,87.5,High,6,2024
+681,Andhra Pradesh,Visakhapatnam,Pendurthi,461,Rajasthani,Hindi,56.5,Medium,8,2024
+682,Uttar Pradesh,Gorakhpur,Pipraich,202,Rajasthani,English,77.8,High,6,2024
+683,Madhya Pradesh,Jabalpur,Panagar,353,Magahi,English,89.8,High,6,2025
+684,Uttar Pradesh,Gorakhpur,Pipraich,92,Bengali,Hindi,100.0,High,5,2024
+685,Maharashtra,Amravati,Achalpur,351,Odia,English,98.1,High,5,2025
+686,Madhya Pradesh,Indore,Hatod,476,Rajasthani,Hindi,56.1,Medium,8,2025
+687,West Bengal,Bardhaman,Katwa,156,Bengali,Hindi,55.5,Medium,8,2025
+688,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,166,Marathi,Hindi,100.0,High,5,2023
+689,Uttar Pradesh,Gorakhpur,Sahjanwa,341,Kannada,Hindi,100.0,High,5,2025
+690,West Bengal,Bardhaman,Kalna,373,Odia,English,100.0,High,5,2024
+691,Bihar,Gaya,Belaganj,324,Odia,Hindi,61.1,Medium,7,2023
+692,Karnataka,Bengaluru,Hosakote,422,Bhojpuri,Hindi,72.1,Medium,7,2025
+693,Madhya Pradesh,Sagar,Rehli,206,Tamil,English,100.0,High,5,2025
+694,Madhya Pradesh,Sagar,Khurai,185,Tamil,English,73.7,Medium,7,2024
+695,Tamil Nadu,Tiruchirappalli,Lalgudi,195,Maithili,Hindi,79.0,High,6,2023
+696,Andhra Pradesh,Guntur,Tulluru,181,Bengali,Hindi,100.0,High,5,2024
+697,Uttar Pradesh,Lucknow,Sarojaninagar,312,Kannada,English,95.9,High,5,2024
+698,Andhra Pradesh,Vijayawada,Ibrahimpatnam,88,Odia,Hindi,86.5,High,6,2025
+699,Andhra Pradesh,Visakhapatnam,Padmanabham,496,Rajasthani,English,61.4,Medium,7,2024
+700,Rajasthan,Bikaner,Nokha,494,Hindi,Hindi,45.4,Low,6,2024
+701,Madhya Pradesh,Jabalpur,Sihora,312,Rajasthani,English,100.0,High,5,2023
+702,Tamil Nadu,Coimbatore,Annur,411,Rajasthani,English,61.7,Medium,7,2023
+703,Rajasthan,Jodhpur,Osian,424,Marathi,English,93.3,High,5,2023
+704,Madhya Pradesh,Jabalpur,Panagar,263,Telugu,Hindi,90.6,High,6,2024
+705,Bihar,Patna,Paliganj,58,Marathi,English,93.8,High,5,2024
+706,Andhra Pradesh,Guntur,Tulluru,170,Magahi,English,100.0,High,5,2023
+707,Karnataka,Mysore,T.Narsipur,203,Odia,Hindi,70.3,Medium,7,2024
+708,Rajasthan,Bikaner,Nokha,201,Magahi,Hindi,100.0,High,5,2025
+709,Tamil Nadu,Chennai,Ambattur,251,Maithili,Hindi,100.0,High,5,2025
+710,Tamil Nadu,Salem,Gangavalli,213,Magahi,English,64.0,Medium,7,2025
+711,Karnataka,Davanagere,Honnali,291,Maithili,Hindi,64.2,Medium,7,2023
+712,Karnataka,Bengaluru,Anekal,157,Hindi,Hindi,81.8,High,3,2025
+713,Bihar,Bhagalpur,Sabour,198,Magahi,English,60.7,Medium,7,2023
+714,Uttar Pradesh,Allahabad,Phulpur,192,Marathi,English,68.8,Medium,7,2025
+715,Karnataka,Hubli,Kundgol,209,Magahi,Hindi,93.3,High,5,2023
+716,Rajasthan,Udaipur,Gogunda,127,Magahi,English,92.9,High,5,2023
+717,Odisha,Berhampur,Chhatrapur,303,Telugu,English,63.5,Medium,7,2025
+718,Uttar Pradesh,Agra,Jagner,312,Magahi,English,96.7,High,5,2025
+719,Madhya Pradesh,Indore,Depalpur,91,Kannada,Hindi,80.7,High,6,2025
+720,Bihar,Muzaffarpur,Kanti,474,Hindi,Hindi,71.5,Medium,4,2025
+721,Uttar Pradesh,Varanasi,Pindra,329,Tamil,English,62.7,Medium,7,2025
+722,Bihar,Patna,Bihta,117,Marathi,English,98.5,High,5,2024
+723,Tamil Nadu,Tiruchirappalli,Thuraiyur,337,Rajasthani,English,71.4,Medium,7,2024
+724,Odisha,Brahmapur,Golabandha,85,Bundeli,English,60.1,Medium,7,2023
+725,Madhya Pradesh,Jabalpur,Sihora,213,Bengali,English,66.5,Medium,7,2023
+726,Andhra Pradesh,Vijayawada,Mylavaram,428,Bengali,Hindi,75.6,High,6,2025
+727,Maharashtra,Nagpur,Hingna,245,Marathi,English,81.5,High,6,2024
+728,Andhra Pradesh,Visakhapatnam,Pendurthi,493,Telugu,English,100.0,High,5,2025
+729,Bihar,Patna,Masaurhi,209,Rajasthani,Hindi,87.4,High,6,2024
+730,Bihar,Darbhanga,Benipur,249,Telugu,English,94.1,High,5,2024
+731,Karnataka,Mysore,Hunsur,349,Tamil,Hindi,74.5,Medium,7,2025
+732,Tamil Nadu,Chennai,Maduravoyal,391,Bengali,English,95.2,High,5,2025
+733,Karnataka,Belgaum,Hukkeri,221,Rajasthani,English,94.7,High,5,2023
+734,Madhya Pradesh,Indore,Mhow,340,Kannada,English,98.8,High,5,2024
+735,Madhya Pradesh,Gwalior,Ghatigaon,165,Kannada,Hindi,58.6,Medium,7,2024
+736,Madhya Pradesh,Gwalior,Bhander,85,Tamil,English,100.0,High,5,2023
+737,Uttar Pradesh,Agra,Kheragarh,336,Marathi,English,100.0,High,5,2025
+738,Bihar,Bhagalpur,Pirpainti,257,Hindi,English,79.6,High,6,2024
+739,Rajasthan,Jodhpur,Bilara,170,Maithili,English,100.0,High,5,2023
+740,Rajasthan,Bikaner,Kolayat,449,Odia,Hindi,94.9,High,5,2025
+741,Odisha,Bhubaneswar,Jatni,193,Bhojpuri,English,78.0,High,6,2025
+742,Andhra Pradesh,Kurnool,Aspari,397,Telugu,English,100.0,High,5,2024
+743,Maharashtra,Amravati,Anjangaon,54,Tamil,English,99.2,High,5,2023
+744,Bihar,Bhagalpur,Sabour,170,Tamil,Hindi,95.3,High,5,2024
+745,Andhra Pradesh,Nellore,Udayagiri,455,Odia,Hindi,60.3,Medium,7,2025
+746,West Bengal,Bardhaman,Manteswar,337,Odia,English,62.7,Medium,7,2024
+747,Rajasthan,Ajmer,Kishangarh,275,Tamil,English,58.8,Medium,7,2023
+748,Maharashtra,Amravati,Anjangaon,200,Odia,English,70.8,Medium,7,2024
+749,Karnataka,Bengaluru,Anekal,410,Maithili,Hindi,60.3,Medium,7,2025
+750,Andhra Pradesh,Vijayawada,Ibrahimpatnam,298,Bhojpuri,English,88.2,High,6,2025
+751,West Bengal,Asansol,Barabani,372,Bengali,English,78.8,High,6,2025
+752,Maharashtra,Nashik,Niphad,203,Rajasthani,Hindi,91.0,High,6,2025
+753,Tamil Nadu,Salem,Attur,311,Odia,English,100.0,High,5,2025
+754,Rajasthan,Udaipur,Salumbar,192,Hindi,Hindi,89.5,High,2,2023
+755,Bihar,Gaya,Imamganj,293,Rajasthani,English,67.5,Medium,7,2025
+756,West Bengal,Asansol,Raniganj,98,Kannada,English,62.0,Medium,7,2024
+757,West Bengal,Howrah,Udaynarayanpur,478,Maithili,Hindi,77.8,High,6,2024
+758,Maharashtra,Aurangabad,Kannad,207,Maithili,English,98.3,High,5,2025
+759,Tamil Nadu,Coimbatore,Sulur,385,Tamil,English,67.7,Medium,7,2024
+760,Tamil Nadu,Chennai,Avadi,122,Bengali,English,74.4,Medium,7,2025
+761,Rajasthan,Jodhpur,Luni,115,Maithili,English,64.2,Medium,7,2025
+762,Bihar,Muzaffarpur,Bochaha,255,Hindi,English,100.0,High,5,2024
+763,Maharashtra,Amravati,Daryapur,74,Magahi,Hindi,89.5,High,6,2023
+764,Odisha,Bhubaneswar,Khurda,359,Maithili,English,73.8,Medium,7,2025
+765,West Bengal,Howrah,Udaynarayanpur,319,Bundeli,Hindi,63.4,Medium,7,2024
+766,Tamil Nadu,Coimbatore,Mettupalayam,287,Kannada,English,65.5,Medium,7,2025
+767,Uttar Pradesh,Varanasi,Pindra,474,Maithili,Hindi,100.0,High,5,2023
+768,Rajasthan,Ajmer,Kishangarh,166,Hindi,English,62.3,Medium,7,2023
+769,Tamil Nadu,Salem,Attur,74,Odia,English,69.0,Medium,7,2023
+770,West Bengal,Howrah,Amta,493,Magahi,Hindi,100.0,High,5,2023
+771,Bihar,Patna,Masaurhi,80,Maithili,Hindi,85.4,High,6,2024
+772,Karnataka,Belgaum,Athani,365,Hindi,English,100.0,High,5,2023
+773,Maharashtra,Pune,Khed,92,Tamil,Hindi,92.2,High,5,2025
+774,Karnataka,Davanagere,Jagalur,336,Bundeli,Hindi,58.7,Medium,7,2025
+775,Karnataka,Davanagere,Honnali,467,Odia,English,82.6,High,6,2024
+776,Odisha,Bhubaneswar,Khurda,431,Bundeli,Hindi,100.0,High,5,2023
+777,Rajasthan,Jaipur,Sanganer,464,Rajasthani,Hindi,96.7,High,5,2023
+778,Andhra Pradesh,Vijayawada,Gannavaram,132,Bengali,English,65.2,Medium,7,2023
+779,Madhya Pradesh,Sagar,Khurai,378,Tamil,English,100.0,High,5,2024
+780,Tamil Nadu,Salem,Yercaud,420,Kannada,English,65.7,Medium,7,2023
+781,Maharashtra,Aurangabad,Gangapur,309,Bengali,English,93.0,High,5,2023
+782,Karnataka,Bengaluru,Anekal,150,Kannada,Hindi,91.9,High,5,2023
+783,Bihar,Patna,Daniawan,357,Telugu,English,94.3,High,5,2024
+784,Uttar Pradesh,Varanasi,Harhua,280,Telugu,English,98.5,High,5,2023
+785,Rajasthan,Jaipur,Chaksu,165,Marathi,English,79.3,High,6,2023
+786,Maharashtra,Pune,Mawal,56,Kannada,English,86.5,High,6,2024
+787,Andhra Pradesh,Vijayawada,Ibrahimpatnam,63,Bundeli,English,65.6,Medium,7,2023
+788,Rajasthan,Bikaner,Lunkaransar,135,Bhojpuri,English,100.0,High,5,2025
+789,Karnataka,Bengaluru,Devanahalli,435,Bengali,Hindi,63.0,Medium,7,2023
+790,Rajasthan,Ajmer,Pushkar,295,Hindi,English,100.0,High,5,2023
+791,Rajasthan,Udaipur,Kherwara,187,Bhojpuri,English,95.9,High,5,2025
+792,Uttar Pradesh,Varanasi,Sevapuri,438,Magahi,English,67.9,Medium,7,2023
+793,Maharashtra,Pune,Ambegaon,291,Kannada,Hindi,92.8,High,5,2023
+794,Odisha,Cuttack,Baranga,387,Odia,English,58.9,Medium,7,2023
+795,Andhra Pradesh,Vijayawada,Mylavaram,237,Bundeli,English,93.8,High,5,2023
+796,Andhra Pradesh,Nellore,Atmakur,357,Bhojpuri,Hindi,71.0,Medium,7,2023
+797,Uttar Pradesh,Agra,Etmadpur,331,Hindi,Hindi,37.6,Low,7,2024
+798,Odisha,Rourkela,Lahunipara,101,Marathi,Hindi,69.6,Medium,7,2024
+799,Maharashtra,Pune,Ambegaon,281,Tamil,English,100.0,High,5,2023
+800,Rajasthan,Bikaner,Kolayat,485,Kannada,Hindi,100.0,High,5,2024
+801,Bihar,Patna,Maner,70,Rajasthani,Hindi,100.0,High,5,2023
+802,Maharashtra,Amravati,Achalpur,154,Rajasthani,English,61.1,Medium,7,2023
+803,Uttar Pradesh,Allahabad,Bara,474,Kannada,English,96.3,High,5,2023
+804,Uttar Pradesh,Allahabad,Phulpur,146,Marathi,English,100.0,High,5,2024
+805,Maharashtra,Nagpur,Saoner,493,Telugu,Hindi,100.0,High,5,2025
+806,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,296,Bhojpuri,Hindi,94.6,High,5,2025
+807,Maharashtra,Nagpur,Hingna,263,Bundeli,Hindi,93.2,High,5,2025
+808,Tamil Nadu,Tiruchirappalli,Thuraiyur,450,Tamil,Hindi,59.0,Medium,7,2023
+809,Bihar,Gaya,Wazirganj,118,Tamil,English,99.2,High,5,2023
+810,Karnataka,Hubli,Kundgol,136,Bundeli,English,95.8,High,5,2023
+811,Bihar,Gaya,Mohanpur,249,Hindi,English,60.1,Medium,7,2025
+812,Andhra Pradesh,Nellore,Kavali,434,Maithili,Hindi,59.3,Medium,7,2025
+813,Andhra Pradesh,Visakhapatnam,Anandapuram,201,Telugu,English,57.1,Medium,8,2023
+814,Odisha,Berhampur,Ganjam,281,Odia,English,76.2,High,6,2024
+815,Andhra Pradesh,Kurnool,Aspari,277,Odia,English,76.0,High,6,2025
+816,Rajasthan,Jaipur,Chaksu,260,Marathi,Hindi,94.7,High,5,2025
+817,Maharashtra,Aurangabad,Gangapur,491,Rajasthani,English,60.9,Medium,7,2024
+818,Uttar Pradesh,Allahabad,Koraon,401,Telugu,Hindi,59.1,Medium,7,2024
+819,Uttar Pradesh,Varanasi,Kashividyapeeth,87,Bundeli,English,60.0,Medium,7,2023
+820,West Bengal,Kolkata,Baruipur,272,Telugu,Hindi,100.0,High,5,2023
+821,Tamil Nadu,Tiruchirappalli,Thuraiyur,378,Maithili,English,77.9,High,6,2024
+822,Karnataka,Bengaluru,Devanahalli,500,Tamil,English,62.3,Medium,7,2024
+823,Madhya Pradesh,Jabalpur,Sihora,373,Tamil,Hindi,100.0,High,5,2023
+824,Karnataka,Mysore,Periyapatna,266,Rajasthani,English,86.8,High,6,2024
+825,Maharashtra,Nashik,Niphad,304,Marathi,Hindi,100.0,High,5,2023
+826,Bihar,Bhagalpur,Sabour,213,Tamil,Hindi,72.6,Medium,7,2024
+827,Uttar Pradesh,Lucknow,Mohanlalganj,423,Telugu,English,84.2,High,6,2025
+828,Madhya Pradesh,Jabalpur,Sihora,449,Maithili,Hindi,100.0,High,5,2024
+829,Bihar,Bhagalpur,Sabour,60,Magahi,English,57.6,Medium,8,2023
+830,Bihar,Bhagalpur,Sabour,473,Marathi,Hindi,90.9,High,6,2023
+831,Uttar Pradesh,Gorakhpur,Pipraich,202,Bhojpuri,English,77.6,High,6,2024
+832,Madhya Pradesh,Gwalior,Bhitarwar,173,Rajasthani,English,78.3,High,6,2024
+833,Bihar,Gaya,Imamganj,327,Odia,English,71.4,Medium,7,2023
+834,Bihar,Muzaffarpur,Marwan,221,Bhojpuri,English,66.8,Medium,7,2024
+835,West Bengal,Durgapur,Andal,162,Maithili,Hindi,93.7,High,5,2025
+836,Uttar Pradesh,Allahabad,Phulpur,171,Rajasthani,English,100.0,High,5,2025
+837,West Bengal,Durgapur,Pandabeswar,88,Kannada,English,100.0,High,5,2023
+838,Odisha,Bhubaneswar,Jatni,480,Bundeli,English,70.1,Medium,7,2023
+839,Maharashtra,Nashik,Igatpuri,198,Odia,Hindi,100.0,High,5,2024
+840,Maharashtra,Aurangabad,Gangapur,409,Marathi,Hindi,88.5,High,6,2025
+841,Madhya Pradesh,Sagar,Khurai,285,Kannada,English,58.2,Medium,8,2024
+842,Madhya Pradesh,Bhopal,Phanda,199,Maithili,Hindi,100.0,High,5,2024
+843,Rajasthan,Jodhpur,Osian,397,Odia,Hindi,57.6,Medium,8,2024
+844,West Bengal,Kolkata,Bhangar,307,Odia,Hindi,62.9,Medium,7,2025
+845,Tamil Nadu,Coimbatore,Annur,485,Bengali,English,100.0,High,5,2025
+846,Maharashtra,Amravati,Anjangaon,456,Magahi,Hindi,100.0,High,5,2023
+847,Rajasthan,Bikaner,Kolayat,327,Maithili,English,87.5,High,6,2023
+848,Madhya Pradesh,Gwalior,Bhitarwar,402,Odia,English,85.5,High,6,2025
+849,Tamil Nadu,Chennai,Avadi,167,Hindi,English,88.9,High,6,2023
+850,Andhra Pradesh,Kurnool,Adoni,79,Odia,English,100.0,High,5,2025
+851,Uttar Pradesh,Agra,Kheragarh,330,Maithili,Hindi,100.0,High,5,2025
+852,Andhra Pradesh,Guntur,Pedakakani,185,Kannada,English,82.7,High,6,2023
+853,Rajasthan,Ajmer,Peesangan,413,Hindi,English,98.6,High,5,2023
+854,Bihar,Gaya,Imamganj,437,Hindi,Hindi,36.0,Low,7,2024
+855,West Bengal,Bardhaman,Manteswar,403,Bhojpuri,Hindi,67.2,Medium,7,2024
+856,Odisha,Rourkela,Rajgangpur,454,Bengali,Hindi,99.0,High,5,2025
+857,Maharashtra,Nashik,Igatpuri,268,Hindi,Hindi,41.3,Low,7,2023
+858,Bihar,Muzaffarpur,Muraul,161,Hindi,English,100.0,High,5,2024
+859,Karnataka,Belgaum,Ramdurg,283,Rajasthani,Hindi,100.0,High,5,2024
+860,Maharashtra,Amravati,Achalpur,61,Magahi,English,99.7,High,5,2024
+861,Tamil Nadu,Chennai,Sholinganallur,170,Tamil,English,100.0,High,5,2023
+862,Tamil Nadu,Chennai,Avadi,69,Tamil,Hindi,74.6,Medium,7,2025
+863,Bihar,Gaya,Belaganj,272,Magahi,Hindi,73.3,Medium,7,2025
+864,Uttar Pradesh,Allahabad,Chaka,150,Bengali,Hindi,62.5,Medium,7,2025
+865,Karnataka,Bengaluru,Anekal,430,Odia,English,93.6,High,5,2024
+866,Maharashtra,Pune,Haveli,73,Rajasthani,Hindi,68.0,Medium,7,2024
+867,Karnataka,Hubli,Kalghatgi,342,Hindi,Hindi,69.8,Medium,4,2024
+868,Madhya Pradesh,Indore,Sanwer,408,Kannada,English,55.2,Medium,8,2024
+869,Maharashtra,Pune,Ambegaon,479,Tamil,Hindi,76.3,High,6,2023
+870,Bihar,Patna,Masaurhi,478,Kannada,English,60.6,Medium,7,2025
+871,West Bengal,Durgapur,Faridpur,120,Telugu,Hindi,83.9,High,6,2024
+872,Madhya Pradesh,Bhopal,Phanda,52,Bhojpuri,Hindi,58.9,Medium,7,2024
+873,Tamil Nadu,Chennai,Avadi,104,Magahi,English,97.2,High,5,2024
+874,Karnataka,Mysore,T.Narsipur,73,Hindi,Hindi,70.6,Medium,4,2024
+875,Odisha,Rourkela,Lahunipara,452,Bhojpuri,Hindi,71.2,Medium,7,2025
+876,Tamil Nadu,Coimbatore,Sulur,354,Hindi,English,93.2,High,5,2025
+877,Tamil Nadu,Madurai,Melur,455,Magahi,Hindi,96.7,High,5,2024
+878,Uttar Pradesh,Agra,Jagner,363,Bundeli,Hindi,97.5,High,5,2025
+879,Karnataka,Hubli,Kundgol,405,Kannada,Hindi,86.0,High,6,2023
+880,Maharashtra,Nashik,Niphad,277,Marathi,Hindi,62.3,Medium,7,2023
+881,West Bengal,Kolkata,Rajarhat,232,Odia,English,69.2,Medium,7,2025
+882,Uttar Pradesh,Lucknow,Sarojaninagar,165,Bundeli,English,58.8,Medium,7,2025
+883,West Bengal,Bardhaman,Katwa,352,Maithili,English,100.0,High,5,2024
+884,Uttar Pradesh,Gorakhpur,Sahjanwa,350,Telugu,Hindi,65.4,Medium,7,2024
+885,Uttar Pradesh,Varanasi,Arajiline,309,Odia,Hindi,84.8,High,6,2025
+886,Odisha,Bhubaneswar,Balianta,448,Telugu,English,79.6,High,6,2024
+887,Rajasthan,Jodhpur,Luni,173,Odia,Hindi,78.0,High,6,2023
+888,Karnataka,Davanagere,Honnali,139,Magahi,English,90.3,High,6,2023
+889,Andhra Pradesh,Guntur,Mangalagiri,110,Kannada,Hindi,100.0,High,5,2025
+890,Andhra Pradesh,Vijayawada,Ibrahimpatnam,156,Magahi,English,56.5,Medium,8,2024
+891,Andhra Pradesh,Nellore,Udayagiri,167,Odia,English,71.4,Medium,7,2023
+892,Bihar,Bhagalpur,Bihpur,414,Tamil,English,100.0,High,5,2025
+893,West Bengal,Howrah,Udaynarayanpur,475,Telugu,English,100.0,High,5,2024
+894,Karnataka,Mysore,Hunsur,118,Odia,English,100.0,High,5,2023
+895,Uttar Pradesh,Agra,Kheragarh,98,Marathi,English,81.1,High,6,2023
+896,Odisha,Berhampur,Chhatrapur,405,Bundeli,Hindi,63.0,Medium,7,2024
+897,Tamil Nadu,Chennai,Sholinganallur,280,Kannada,Hindi,100.0,High,5,2025
+898,Andhra Pradesh,Vijayawada,Mylavaram,178,Tamil,English,100.0,High,5,2024
+899,Andhra Pradesh,Guntur,Tulluru,346,Odia,Hindi,64.5,Medium,7,2023
+900,Tamil Nadu,Salem,Vazhapadi,80,Marathi,English,100.0,High,5,2023
+901,Odisha,Cuttack,Salepur,85,Bengali,Hindi,55.8,Medium,8,2024
+902,Uttar Pradesh,Lucknow,Sarojaninagar,463,Bengali,Hindi,57.2,Medium,8,2025
+903,Maharashtra,Nagpur,Kalmeshwar,212,Bundeli,Hindi,71.5,Medium,7,2024
+904,Bihar,Darbhanga,Bahadurpur,169,Telugu,English,100.0,High,5,2024
+905,Uttar Pradesh,Agra,Fatehabad,155,Maithili,Hindi,100.0,High,5,2024
+906,Rajasthan,Bikaner,Khajuwala,93,Marathi,Hindi,64.4,Medium,7,2025
+907,Bihar,Bhagalpur,Naugachhia,133,Marathi,English,92.2,High,5,2025
+908,Madhya Pradesh,Jabalpur,Panagar,490,Hindi,Hindi,50.8,Medium,6,2024
+909,Karnataka,Belgaum,Hukkeri,466,Bundeli,Hindi,100.0,High,5,2024
+910,Maharashtra,Pune,Junnar,176,Kannada,Hindi,69.2,Medium,7,2025
+911,Bihar,Bhagalpur,Pirpainti,197,Maithili,Hindi,62.7,Medium,7,2025
+912,Karnataka,Bengaluru,Nelamangala,454,Marathi,English,58.1,Medium,8,2024
+913,Andhra Pradesh,Vijayawada,Ibrahimpatnam,362,Telugu,English,84.7,High,6,2023
+914,Bihar,Patna,Paliganj,131,Odia,English,63.7,Medium,7,2025
+915,Madhya Pradesh,Gwalior,Ghatigaon,267,Telugu,English,66.5,Medium,7,2023
+916,Madhya Pradesh,Indore,Depalpur,452,Kannada,English,73.5,Medium,7,2023
+917,Maharashtra,Pune,Khed,433,Bundeli,English,100.0,High,5,2023
+918,Maharashtra,Aurangabad,Khuldabad,474,Bengali,Hindi,56.3,Medium,8,2023
+919,West Bengal,Durgapur,Faridpur,245,Bengali,English,80.1,High,6,2023
+920,Bihar,Bhagalpur,Sabour,376,Maithili,Hindi,96.0,High,5,2023
+921,Madhya Pradesh,Sagar,Khurai,130,Rajasthani,Hindi,100.0,High,5,2023
+922,Bihar,Bhagalpur,Sabour,403,Odia,English,79.2,High,6,2025
+923,Madhya Pradesh,Bhopal,Berasia,218,Rajasthani,Hindi,100.0,High,5,2023
+924,Maharashtra,Aurangabad,Khuldabad,66,Marathi,English,91.8,High,5,2024
+925,Andhra Pradesh,Nellore,Udayagiri,247,Marathi,English,100.0,High,5,2024
+926,Maharashtra,Amravati,Achalpur,390,Magahi,English,63.5,Medium,7,2024
+927,Bihar,Muzaffarpur,Kanti,161,Kannada,English,68.0,Medium,7,2024
+928,Uttar Pradesh,Agra,Jagner,147,Rajasthani,English,100.0,High,5,2025
+929,Tamil Nadu,Madurai,Thiruparankundram,174,Rajasthani,English,100.0,High,5,2025
+930,Karnataka,Mysore,Hunsur,473,Odia,Hindi,61.7,Medium,7,2025
+931,Madhya Pradesh,Gwalior,Ghatigaon,187,Hindi,Hindi,88.7,High,2,2025
+932,Tamil Nadu,Salem,Attur,368,Magahi,Hindi,84.8,High,6,2025
+933,Maharashtra,Amravati,Anjangaon,326,Hindi,English,64.9,Medium,7,2025
+934,Andhra Pradesh,Nellore,Atmakur,117,Magahi,Hindi,100.0,High,5,2024
+935,Rajasthan,Udaipur,Sarada,192,Bundeli,Hindi,67.3,Medium,7,2023
+936,Uttar Pradesh,Varanasi,Harhua,128,Marathi,English,100.0,High,5,2024
+937,West Bengal,Asansol,Barabani,460,Hindi,English,100.0,High,5,2024
+938,Uttar Pradesh,Varanasi,Cholapur,333,Kannada,Hindi,100.0,High,5,2025
+939,Uttar Pradesh,Allahabad,Chaka,115,Odia,English,58.9,Medium,7,2024
+940,Uttar Pradesh,Varanasi,Cholapur,436,Hindi,English,100.0,High,5,2023
+941,Maharashtra,Nagpur,Kalmeshwar,91,Telugu,Hindi,84.9,High,6,2024
+942,Rajasthan,Bikaner,Nokha,216,Bundeli,English,94.4,High,5,2023
+943,Tamil Nadu,Chennai,Sholinganallur,428,Rajasthani,Hindi,77.8,High,6,2025
+944,Madhya Pradesh,Sagar,Rahatgarh,246,Odia,Hindi,100.0,High,5,2024
+945,Uttar Pradesh,Agra,Kheragarh,57,Marathi,English,72.2,Medium,7,2023
+946,Tamil Nadu,Madurai,Vadipatti,213,Bengali,English,71.6,Medium,7,2025
+947,West Bengal,Howrah,Amta,442,Tamil,Hindi,78.8,High,6,2024
+948,West Bengal,Asansol,Barabani,153,Tamil,English,86.2,High,6,2024
+949,Andhra Pradesh,Kurnool,Alur,317,Marathi,Hindi,65.0,Medium,7,2025
+950,Madhya Pradesh,Indore,Hatod,414,Magahi,Hindi,100.0,High,5,2024
+951,Uttar Pradesh,Allahabad,Chaka,412,Magahi,Hindi,100.0,High,5,2023
+952,Madhya Pradesh,Sagar,Rehli,269,Tamil,English,67.1,Medium,7,2023
+953,Tamil Nadu,Chennai,Avadi,465,Odia,English,94.3,High,5,2025
+954,Rajasthan,Jaipur,Phagi,150,Magahi,Hindi,81.4,High,6,2024
+955,Rajasthan,Jaipur,Amber,415,Rajasthani,Hindi,60.0,Medium,7,2023
+956,Rajasthan,Udaipur,Sarada,61,Tamil,English,99.4,High,5,2025
+957,Andhra Pradesh,Kurnool,Aspari,65,Bhojpuri,Hindi,100.0,High,5,2023
+958,Uttar Pradesh,Varanasi,Kashividyapeeth,424,Marathi,English,62.3,Medium,7,2024
+959,Rajasthan,Jaipur,Amber,318,Hindi,Hindi,49.4,Low,6,2024
+960,Bihar,Gaya,Wazirganj,272,Telugu,Hindi,94.4,High,5,2025
+961,Karnataka,Bengaluru,Devanahalli,374,Bengali,Hindi,88.6,High,6,2023
+962,Odisha,Rourkela,Rajgangpur,245,Maithili,Hindi,98.2,High,5,2024
+963,Maharashtra,Nagpur,Saoner,203,Bundeli,English,59.8,Medium,7,2023
+964,Rajasthan,Ajmer,Masuda,276,Telugu,Hindi,66.2,Medium,7,2023
+965,Andhra Pradesh,Kurnool,Adoni,314,Marathi,English,100.0,High,5,2024
+966,Bihar,Patna,Phulwari,183,Odia,English,97.6,High,5,2023
+967,Tamil Nadu,Madurai,Alanganallur,444,Bundeli,Hindi,100.0,High,5,2023
+968,West Bengal,Kolkata,Baruipur,262,Bundeli,Hindi,70.3,Medium,7,2024
+969,Rajasthan,Udaipur,Salumbar,180,Bundeli,English,100.0,High,5,2024
+970,Bihar,Darbhanga,Jale,326,Bhojpuri,English,61.8,Medium,7,2024
+971,Uttar Pradesh,Lucknow,Bakshi Ka Talab,239,Bhojpuri,English,98.1,High,5,2025
+972,Tamil Nadu,Salem,Yercaud,229,Maithili,English,100.0,High,5,2025
+973,Andhra Pradesh,Guntur,Amaravati,480,Bengali,Hindi,66.5,Medium,7,2025
+974,Odisha,Cuttack,Nischintakoili,490,Telugu,English,81.1,High,6,2024
+975,Rajasthan,Jaipur,Jamwa Ramgarh,322,Marathi,English,100.0,High,5,2025
+976,Andhra Pradesh,Visakhapatnam,Bheemunipatnam,399,Tamil,English,100.0,High,5,2025
+977,Karnataka,Hubli,Kundgol,338,Magahi,English,62.6,Medium,7,2024
+978,Madhya Pradesh,Jabalpur,Patan,115,Maithili,English,73.9,Medium,7,2025
+979,West Bengal,Howrah,Shyampur,472,Marathi,Hindi,65.0,Medium,7,2023
+980,Madhya Pradesh,Indore,Sanwer,296,Telugu,Hindi,71.8,Medium,7,2025
+981,Tamil Nadu,Coimbatore,Annur,116,Bundeli,Hindi,96.6,High,5,2023
+982,Madhya Pradesh,Gwalior,Ghatigaon,352,Tamil,English,73.3,Medium,7,2025
+983,West Bengal,Bardhaman,Kalna,70,Bhojpuri,Hindi,57.0,Medium,8,2023
+984,Uttar Pradesh,Allahabad,Bara,486,Telugu,English,94.2,High,5,2024
+985,West Bengal,Bardhaman,Memari,450,Telugu,Hindi,100.0,High,5,2025
+986,Andhra Pradesh,Kurnool,Adoni,301,Bhojpuri,Hindi,94.9,High,5,2024
+987,Odisha,Brahmapur,Patrapur,164,Kannada,English,100.0,High,5,2025
+988,Maharashtra,Nagpur,Hingna,268,Hindi,Hindi,63.6,Medium,5,2025
+989,Andhra Pradesh,Nellore,Udayagiri,403,Odia,Hindi,81.8,High,6,2024
+990,Tamil Nadu,Coimbatore,Mettupalayam,191,Maithili,English,100.0,High,5,2024
+991,Tamil Nadu,Madurai,Thiruparankundram,84,Hindi,English,79.8,High,6,2025
+992,Odisha,Bhubaneswar,Balianta,383,Tamil,Hindi,83.7,High,6,2023
+993,Madhya Pradesh,Bhopal,Phanda,330,Odia,Hindi,80.3,High,6,2024
+994,West Bengal,Kolkata,Rajarhat,203,Odia,Hindi,100.0,High,5,2024
+995,Bihar,Gaya,Mohanpur,481,Tamil,Hindi,97.5,High,5,2024
+996,Andhra Pradesh,Nellore,Podili,484,Telugu,English,100.0,High,5,2025
+997,Bihar,Darbhanga,Hanumannagar,250,Kannada,Hindi,100.0,High,5,2023
+998,Rajasthan,Jodhpur,Bilara,376,Rajasthani,English,92.3,High,5,2023
+999,Rajasthan,Jodhpur,Balesar,300,Tamil,English,92.7,High,5,2023
+1000,Bihar,Darbhanga,Hanumannagar,324,Bhojpuri,English,100.0,High,5,2024
