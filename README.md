@@ -44,54 +44,6 @@ This unified system processes large-scale educational datasets (UDISE+, ASER, NS
 
 ---
 
-## 📊 **Case Studies & Pipelines**
-
-### **Case 1: Career Guidance Analytics**
-- **Input**: Synthetic NCS/Skill India data
-- **Features**: Interest Index, Skill Level, Parental Influence
-- **Model**: RandomForestClassifier (Career Recommendation)
-- **Output**: Top 10 Career Trends + **NLP Chatbot**
-
-### **Case 2: School Dropouts Analysis**
-- **Input**: 1 Lakh records (UDISE+ 2014–2024 + synthetic)
-- **Features**: Attendance %, Income Bracket, School Type
-- **Model**: Dropout Risk Prediction
-- **Output**: Heatmaps + Risk Score Dashboard
-
-### **Case 3: Scholarship Awareness**
-- **Input**: NSP, State Portals (Web Scraped), Grok-generated
-- **Pipeline**: `requests → BeautifulSoup → PySpark → Delta`
-- **Output**: Eligibility Matcher + **Q&A Chatbot**
-
-### **Case 4: Language Barriers**
-- **Input**: NCERT + Translated Proficiency Data
-- **Analysis**: Native vs Non-Native Performance Correlation
-- **NLP**: Sentiment on Feedback Texts
-- **Output**: Regional Language Impact Report
-
-### **Case 5: Learning Outcome Gaps**
-- **Input**: ASER + UDISE+ + Synthetic Scores
-- **KPIs**: Learning Index, Subject Gap Ratio
-- **Output**: Subject-wise KPI Dashboards
-
----
-
-## 🔄 **ETL Workflow**
-
-##```python
-1. EXTRACT  → CSV / Web Scraping / APIs
-2. LOAD     → Bronze Layer (Raw Delta Tables)
-3. TRANSFORM → PySpark (Cleaning, Encoding, UDFs)
-4. LOAD     → Silver → Gold → Platinum (Incremental)
-5. SERVE    → Dashboards / Chatbots / APIs
-
-
-- **Bronze**: Raw data preserved for audit.
-- **Silver**: Null handling, encoding, normalization.
-- **Gold**: Feature engineering, ML models, aggregations.
-- **Platinum**: Real-time Q&A, visualizations, recommendations.
-
----
 
 ## 📊 **Case Studies & Pipelines**
 
